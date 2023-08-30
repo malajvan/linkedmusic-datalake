@@ -1,5 +1,6 @@
 import psycopg2
 import csv
+import re
 
 db_params = {
     'dbname': 'simssadb',
@@ -8,7 +9,8 @@ db_params = {
     'host': 'localhost'
 }
 
-query = """
+flattened_query = """
+    CREATE VIEW flattened_view AS
     SELECT
         musical_work.id AS musical_work_id,
         musical_work.variant_titles AS musical_work_variant_titles,
@@ -54,31 +56,49 @@ query = """
         ON files.id = extracted.feature_of_id
     FULL OUTER JOIN
         person ON contribution_musical_work.person_id = person.id
+"""
+# creating the initial flattened view
+conn = psycopg2.connect(**db_params)
+cur = conn.cursor()
+cur.execute(flattened_query)
 
-    -- WHERE files.id=1460
-    
- 
+# get distinct feature names:
+cur.execute("SELECT DISTINCT feature FROM flattened_view")
+feature_names = [row[0] for row in cur.fetchall()]
+
+# for renaming feature names for column compatibility
+def sanitize_column_name(name):
+    if name is None:
+        return None
+    return re.sub(' ', '_', name)
+
+# Create feature columns
+feature_columns = ", ".join(
+    f"MAX(CASE WHEN feature = '{name}' THEN extracted_value ELSE NULL END) AS  \"{sanitize_column_name(name)}\""
+    for name in feature_names
+)
+cur.execute("""SELECT column_name
+    FROM information_schema.columns
+    WHERE table_name = 'flattened_view'""")
+exclude_list=['extracted_value', 'feature']
+flattened_column_names = ", ".join([row[0] for row in cur.fetchall() if row[0] not in exclude_list])
+
+# return all columns along with the features
+final_query = f"""
+    SELECT {flattened_column_names}, {feature_columns}
+    FROM flattened_view 
+    GROUP BY {flattened_column_names}
 """
 
 
-# Connect to the database
-conn = psycopg2.connect(**db_params)
-cur = conn.cursor()
-
-# Execute the query
-cur.execute(query)
-
-# Retrieve data
+# run
+cur.execute(final_query)
 results = cur.fetchall()
 
 # Export data to TSV
-with open('output.csv', 'w') as f:
+with open('flattened.csv', 'w') as f:
     writer = csv.writer(f)
-
-    # write the column names
     writer.writerow([col[0] for col in cur.description])
-
-    # write the query results
     writer.writerows(results)
 
 # Clean up
