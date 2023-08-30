@@ -15,6 +15,9 @@ query = """
         musical_work.sacred_or_secular AS sacred_or_secular,
         person.given_name AS contributor_given_name,
         person.surname AS contributor_sur_name,
+        person.authority_control_url AS contributor_auth_URL,
+        genre_style.genre_style AS genre_style,
+        genre_type.genre_type AS genre_type,
         contribution_musical_work.id AS contribution_id,
         contribution_musical_work.role AS contributor_role,
         contribution_musical_work.certainty_of_attribution AS contributor_certainty_of_attribution,
@@ -38,6 +41,14 @@ query = """
         source ON source_instantiation.source_id = source.id
     FULL OUTER JOIN
         files ON files.instantiates_id = source_instantiation.id
+    FULL OUTER JOIN
+        (SELECT m.musicalwork_id AS mid, g.name AS genre_style FROM musical_work_genres_as_in_style m JOIN genre_as_in_style g 
+        ON m.genreasinstyle_id = g.id)genre_style
+        ON genre_style.mid = musical_work.id 
+    FULL OUTER JOIN
+        (SELECT m.musicalwork_id AS mid, g.name AS genre_type FROM musical_work_genres_as_in_type m JOIN genre_as_in_type g 
+        ON m.genreasintype_id = g.id)genre_type
+        ON genre_type.mid = musical_work.id 
     -- FULL OUTER JOIN
     --     extracted_feature ON files.id = extracted_feature.feature_of_id
     -- FULL OUTER JOIN
