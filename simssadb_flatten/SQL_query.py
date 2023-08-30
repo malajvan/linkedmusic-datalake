@@ -1,0 +1,86 @@
+import psycopg2
+import csv
+
+db_params = {
+    'dbname': 'simssadb',
+    'user': 'postgres',
+    'password': 'postgres',
+    'host': 'localhost'
+}
+
+query = """
+    SELECT
+        musical_work.id AS musical_work_id,
+        musical_work.variant_titles AS musical_work_variant_titles,
+        musical_work.sacred_or_secular AS sacred_or_secular,
+        person.given_name AS contributor_given_name,
+        person.surname AS contributor_sur_name,
+        person.authority_control_url AS contributor_auth_URL,
+        genre_style.genre_style AS genre_style,
+        genre_type.genre_type AS genre_type,
+        contribution_musical_work.id AS contribution_id,
+        contribution_musical_work.role AS contributor_role,
+        contribution_musical_work.certainty_of_attribution AS contributor_certainty_of_attribution,
+        source_instantiation.portion AS source_instantiation_portion,
+        source.title AS source_title,
+        source.source_type AS source_type,
+        source.url AS source_url,
+        files.file_type AS file_type,
+        files.file_format AS file_format,
+        files.version AS file_version,
+        'https://db.simssa.ca/files/' || files.id AS url_to_file,
+        extracted.value AS extracted_value,
+        extracted.feature AS feature
+    FROM
+        musical_work
+    FULL OUTER JOIN
+        contribution_musical_work ON contribution_musical_work.contributed_to_work_id = musical_work.id
+    FULL OUTER JOIN
+        source_instantiation ON musical_work.id = source_instantiation.work_id
+    FULL OUTER JOIN
+        source ON source_instantiation.source_id = source.id
+    FULL OUTER JOIN
+        files ON files.instantiates_id = source_instantiation.id
+    FULL OUTER JOIN
+        (SELECT m.musicalwork_id AS mid, g.name AS genre_style FROM musical_work_genres_as_in_style m JOIN genre_as_in_style g 
+        ON m.genreasinstyle_id = g.id)genre_style
+        ON genre_style.mid = musical_work.id 
+    FULL OUTER JOIN
+        (SELECT m.musicalwork_id AS mid, g.name AS genre_type FROM musical_work_genres_as_in_type m JOIN genre_as_in_type g 
+        ON m.genreasintype_id = g.id)genre_type
+        ON genre_type.mid = musical_work.id 
+    FULL OUTER JOIN
+        (SELECT f.name AS feature, e.feature_of_id AS feature_of_id, e.value AS value FROM extracted_feature e JOIN feature f ON e.instance_of_feature_id = f.id)extracted
+        ON files.id = extracted.feature_of_id
+    FULL OUTER JOIN
+        person ON contribution_musical_work.person_id = person.id
+
+    -- WHERE files.id=1460
+    
+ 
+"""
+
+
+# Connect to the database
+conn = psycopg2.connect(**db_params)
+cur = conn.cursor()
+
+# Execute the query
+cur.execute(query)
+
+# Retrieve data
+results = cur.fetchall()
+
+# Export data to TSV
+with open('output.csv', 'w') as f:
+    writer = csv.writer(f)
+
+    # write the column names
+    writer.writerow([col[0] for col in cur.description])
+
+    # write the query results
+    writer.writerows(results)
+
+# Clean up
+cur.close()
+conn.close()
