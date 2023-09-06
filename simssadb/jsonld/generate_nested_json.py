@@ -20,6 +20,19 @@ json_keys = [
 
 for work in parsed_json:
     work['database'] = 'simssadb'
+    work["@type"] = "wd:Q2188189"
+    work["@id"] = f"mw:{work.pop('musical_work_id')}"
+    work["P86"] = {
+        '@id':f'wd:{work.pop("contributor_full_name")}',
+        'P214': str(int(work["contributor_viaf_id"])) if work["contributor_viaf_id"] else None
+    }
+    work.pop("contributor_viaf_id")
+    work.pop("contributor_auth_url")
+    work["P1476"] = work.pop("musical_work_variant_titles")
+    work["P136"] = f'wd:{work.pop("genre_style")}'
+
+
+
     nested_list = []
     for i in range(1, 5):
         file_format_key = f"file_format_{i}"
@@ -32,14 +45,14 @@ for work in parsed_json:
         if url is None:
             continue
         nested_list.append({
-            'P2701': file_format,
-            'url': url,
+            "@type": "simssadb_file", 
+            "@id": url,
+            'P2701': f'wd:{file_format}',
             'Last_Pitch': last_pitch
         })
     work['files'] = nested_list
     for col in json_keys:
         del work[col]
-    
 # Print the nested list of dictionaries
 pretty_json = json.dumps(parsed_json, indent=4)
 with open('nested.json', 'w') as json_file:
