@@ -3,7 +3,7 @@ import json
 
         
 tested = {
-        "@context": "https://github.com/malajvan/linkedmusic-datalake/blob/main/simssadb/jsonld/context.jsonld",
+        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
         "database": "simssadb",
         "@type": "wd:Q2188189",
         "@id": "mw:607",
@@ -39,6 +39,6 @@ tested = {
                 "Last_Pitch_Class": "[0.0]"
             }
         ]
-}
+    }
 with open('./expanded.json','w') as injson:
     injson.write(json.dumps(jsonld.expand(tested), indent=2))
