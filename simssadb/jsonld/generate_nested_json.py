@@ -12,7 +12,7 @@ parsed_json = json.loads(json_data)
 json_keys = [
     "file_format_1", "file_format_2", "file_format_3", "file_format_4",
     "url_to_file_1", "url_to_file_2", "url_to_file_3", "url_to_file_4",
-    "Last_Pitch_1", "Last_Pitch_2", "Last_Pitch_3", "Last_Pitch_4"
+    "Last_Pitch_Class_1", "Last_Pitch_Class_2", "Last_Pitch_Class_3", "Last_Pitch_Class_4"
 ]
 
 # Create a nested list of dictionaries
@@ -37,7 +37,7 @@ for work in parsed_json:
     for i in range(1, 5):
         file_format_key = f"file_format_{i}"
         url_key = f"url_to_file_{i}"
-        last_pitch_key = f"Last_Pitch_{i}"
+        last_pitch_key = f"Last_Pitch_Class_{i}"
         
         file_format = work.get(file_format_key, None)
         url = work.get(url_key, None)
@@ -48,7 +48,7 @@ for work in parsed_json:
             "@type": "simssadb_file", 
             "@id": url,
             'P2701': f'wd:{file_format}',
-            'Last_Pitch': last_pitch
+            'Last_Pitch_Class': last_pitch
         })
     work['files'] = nested_list
     for col in json_keys:
