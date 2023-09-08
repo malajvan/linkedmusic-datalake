@@ -1,0 +1,79 @@
+[
+  {
+    "@id": "https://db.simssa.ca/musicalworks/607",
+    "@type": [
+      "http://www.wikidata.org/entity/Q2188189"
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3424719"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/1476": [
+      {
+        "@value": "['Son io donna (2) qual mostri ogni tuo bene']"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2920493",
+        "http://www.wikidata.org/prop/direct/P214": [
+          {
+            "@value": "76504834"
+          }
+        ]
+      }
+    ],
+    "https://schema.org/Dataset": [
+      {
+        "@value": "simssadb"
+      }
+    ],
+    "https://db.simssa.ca/files/": [
+      {
+        "@id": "https://db.simssa.ca/files/1592",
+        "@type": [
+          "https://db.simssa.ca/files/"
+        ],
+        "http://www.wikidata.org/prop/direct/P2701": [
+          {
+            "@id": "http://www.wikidata.org/entity/Q10610388"
+          }
+        ]
+      },
+      {
+        "@id": "https://db.simssa.ca/files/1593",
+        "@type": [
+          "https://db.simssa.ca/files/"
+        ],
+        "http://www.wikidata.org/prop/direct/P2701": [
+          {
+            "@id": "http://www.wikidata.org/entity/Q42332"
+          }
+        ]
+      },
+      {
+        "@id": "https://db.simssa.ca/files/1594",
+        "@type": [
+          "https://db.simssa.ca/files/"
+        ],
+        "http://www.wikidata.org/prop/direct/P2701": [
+          {
+            "@id": "http://www.wikidata.org/entity/Q27967347"
+          }
+        ]
+      },
+      {
+        "@id": "https://db.simssa.ca/files/1591",
+        "@type": [
+          "https://db.simssa.ca/files/"
+        ],
+        "http://www.wikidata.org/prop/direct/P2701": [
+          {
+            "@id": "http://www.wikidata.org/entity/Q2115"
+          }
+        ]
+      }
+    ]
+  }
+]
