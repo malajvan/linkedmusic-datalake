@@ -12,7 +12,7 @@ parsed_json = json.loads(json_data)
 
 for work in parsed_json:
     work["@context"] = "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
-    work["@id"] = f"chant:{work.pop('chant_id')}"
+    work["@id"] = f"chant:{work.pop('chant_id')}" #the @id of each document should be the link to the chant in its database
     work["@type"] = "wd:Q37097256" #chant
    
     work['database'] = 'cantusdb:'
@@ -22,7 +22,7 @@ for work in parsed_json:
     work["P1922"] = work.pop("incipit")
     work["P136"] = f'wd:{work.pop("genre")}'
     work["Q731978"] = f'wd:{work.pop("mode_name")}'
-    work["Q4484726"] = work.pop("finalis")
+    work["Q4484726"] = work.pop("finalis") #wikidata Final is closest term to finalis
 
     work["source"] = f'src:{work.pop("src_link").replace("cantusdatabase.org/source/","")}'
     del work["mode"]
