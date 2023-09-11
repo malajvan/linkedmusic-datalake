@@ -13,7 +13,10 @@
             "@id": "wdt:P136",
             "@type": "@id"
         },
-        "database": "https://schema.org/Dataset",
+        "database": {
+            "@id": "https://schema.org/Dataset",
+            "@type": "@id"
+        },
         "P2701": {
             "@id": "wdt:P2701",
             "@type": "@id"
