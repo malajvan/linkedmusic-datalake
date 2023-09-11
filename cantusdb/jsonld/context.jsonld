@@ -1,0 +1,33 @@
+{
+    "@context": {
+        "cantusdb": "https://cantusdatabase.org/",
+        "chant": "cantusdb:chant/",
+        "source": {
+            "@id": "cantusdb:source/",
+            "@type": "@id"
+        },
+        "src": "https://cantusdatabase.org/source/",
+        "P86": {
+            "@id": "wdt:P86",
+            "@type": "@id"
+        },
+        "P214": "wdt:P214",
+        "P136": {
+            "@id": "wdt:P136",
+            "@type": "@id"
+        },
+        "P1922": "wdt:P1922",
+        "Q731978": {
+            "@id": "wd:Q731978",
+            "@type": "@id"
+        },
+        "Q4484726": "wd:Q4484726",
+        "database": {
+            "@id": "https://schema.org/Dataset",
+            "@type": "@id"
+        },
+        "volpiano": "https://web.mit.edu/music21/doc/moduleReference/moduleVolpiano.html",
+        "wd": "http://www.wikidata.org/entity/",
+        "wdt": "http://www.wikidata.org/prop/direct/"
+    }
+}
