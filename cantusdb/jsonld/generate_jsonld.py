@@ -13,7 +13,7 @@ parsed_json = json.loads(json_data)
 for work in parsed_json:
     work["@context"] = "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
     work["@id"] = f"chant:{work.pop('chant_id')}" #the @id of each document should be the link to the chant in its database
-    work["@type"] = "wd:Q37097256" #chant
+    work["@type"] = "wd:Q23072435" #chant
    
     work['database'] = 'cantusdb:'
    
