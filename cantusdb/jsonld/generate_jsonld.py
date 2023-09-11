@@ -8,17 +8,10 @@ parsed_json = json.loads(json_data)
 # with open('gen_json.json', 'w') as json_file:
 #     json_file.write(pretty_json)
 
-'''
-@context:{
-"chant"{id}
-"cantusdb"
-"cantus_source":{"@id": "https://cantusdatabase.org/source/", "@type":"@id"},
-"volpiano": "https://web.mit.edu/music21/doc/moduleReference/moduleVolpiano.html"
-}'''
 
 
 for work in parsed_json:
-    work["@context"] = "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld"
+    work["@context"] = "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
     work["@id"] = f"chant:{work.pop('chant_id')}"
     work["@type"] = "wd:Q37097256" #chant
    
@@ -31,7 +24,7 @@ for work in parsed_json:
     work["Q731978"] = f'wd:{work.pop("mode_name")}'
     work["Q4484726"] = work.pop("finalis")
 
-    work["source"] = f'cantus_source:{work.pop("src_link").replace("cantusdatabase.org/source/","")}'
+    work["source"] = f'src:{work.pop("src_link").replace("cantusdatabase.org/source/","")}'
     del work["mode"]
     del work["absolute_url"]
     del work["composer"]
