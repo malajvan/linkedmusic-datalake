@@ -19,4 +19,4 @@ df2 = df2.reset_index()
 
 
 # Display the result
-df2.to_csv('data/flatten_tunes.csv', index=False)
+df2.to_csv('data/transformed/flatten_tunes.csv', index=False)

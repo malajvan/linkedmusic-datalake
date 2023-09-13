@@ -18,4 +18,4 @@ flatten aliases create a list of aliases for each tune_id and name pair
 '''
 df = df.groupby(['tune_id','name']).agg(tuple).map(list).reset_index()
 # Display the result
-df.to_csv('data/flatten_aliases.csv', index=False)
+df.to_csv('data/transformed/flatten_aliases.csv', index=False)
