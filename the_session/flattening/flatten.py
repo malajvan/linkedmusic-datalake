@@ -3,7 +3,7 @@ import pandas as pd
 # Define the file paths for each CSV file
 csv_files = {
     'tunes': 'transformed/flatten_tunes.csv',
-    'tune_popularity': 'tune_popularity.csv',
+    'popularity': 'tune_popularity.csv',
     'recordings': 'recordings.csv',
     'aliases': 'transformed/flatten_aliases.csv'
 }
@@ -18,7 +18,7 @@ for table_name, file_path in csv_files.items():
 dfs['tunes'] = dfs['tunes'].head(100)
 
 # Merge tables with foreign key relationships
-merged_df = pd.merge(dfs['tune_popularity'], dfs['tunes'], on='tune_id', how='right')
+merged_df = pd.merge(dfs['popularity'], dfs['tunes'], on='tune_id', how='right')
 # merged_df = pd.merge(merged_df, dfs['recordings'], on='tune_id', how='left')
 no_recording = pd.merge(merged_df, dfs['aliases'], on='tune_id', how='left')
 
@@ -45,4 +45,5 @@ pivot_table.reset_index(inplace=True)
 pivot_table.to_csv('data/transformed/flatten_recordings.csv', index=False)
 # print(pivot_table.columns)\
 final = pd.merge(no_recording, pivot_table, on="tune_id", how="left")
+final = final.drop(['popularity_name'],axis=1)
 final.to_csv("final_merged.csv",index=False)
