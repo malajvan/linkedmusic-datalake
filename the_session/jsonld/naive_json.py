@@ -47,15 +47,38 @@ def group_index(names, record):
     return rec
 
 
+def clean_up_indexes_recursive(obj):
+    if isinstance(obj, dict):
+        cleaned_obj = {}
+        for key, value in obj.items():
+            parts = key.rsplit('_', 1)
+            cleaned_key = parts[0] if len(parts) == 2 and parts[1].isdigit() else key
+            cleaned_value = clean_up_indexes_recursive(value)
+            cleaned_obj[cleaned_key] = cleaned_value
+        return cleaned_obj
+    elif isinstance(obj, list):
+        cleaned_list = []
+        for item in obj:
+            cleaned_item = clean_up_indexes_recursive(item)
+            cleaned_list.append(cleaned_item)
+        return cleaned_list
+    else:
+        return obj
 
-grouped_json=[]
+
+final_json=[]
 names = ['tunes', 'recordings']
 for record in cleaned_json:
-    grouped_json.append(group_index(names, record)) #grouping indexed as a nested json doc/list
+    grouped = group_index(names, record)
+    clean_index = clean_up_indexes_recursive(grouped)
+    final_json.append(clean_index) #grouping indexed as a nested json doc/list
+
+
+
 
     
-pretty_json = json.dumps(grouped_json, indent=4)
-with open('compact.jsonld', 'w') as json_file:
+pretty_json = json.dumps(final_json, indent=4)
+with open('final.jsonld', 'w') as json_file:
     json_file.write(pretty_json)
 
 
