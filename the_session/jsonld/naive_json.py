@@ -78,6 +78,7 @@ names = ['tunes', 'recordings']
 for record in cleaned_json:
     grouped = group_index(names, record)
     clean_index = clean_up_indexes_recursive(grouped)
+    clean_index['tune_settings'] = clean_index.pop('tunes') 
     final_json.append(clean_index) #grouping indexed as a nested json doc/list
 
 
@@ -85,7 +86,7 @@ for record in cleaned_json:
 
     
 pretty_json = json.dumps(final_json, indent=4)
-with open('final.jsonld', 'w') as json_file:
+with open('final_naive.json', 'w') as json_file:
     json_file.write(pretty_json)
 
 

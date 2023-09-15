@@ -45,5 +45,7 @@ pivot_table.reset_index(inplace=True)
 pivot_table.to_csv('data/transformed/flatten_recordings.csv', index=False)
 # print(pivot_table.columns)\
 final = pd.merge(no_recording, pivot_table, on="tune_id", how="left")
-final = final.drop(['popularity_name'],axis=1)
+final = final.drop(['popularity_name','aliases_name'],axis=1)
 final.to_csv("final_merged.csv",index=False)
+
+print('done to final_merged.csv')
