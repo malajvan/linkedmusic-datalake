@@ -83,8 +83,6 @@ for record in cleaned_json:
 
 
 
-
-    
 pretty_json = json.dumps(final_json, indent=4)
 with open('final_naive.json', 'w') as json_file:
     json_file.write(pretty_json)
