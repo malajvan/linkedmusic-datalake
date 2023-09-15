@@ -11,7 +11,7 @@ csv_files = {
 # Load each CSV file into a DataFrame
 dfs = {}
 for table_name, file_path in csv_files.items():
-    df = pd.read_csv(f'data/{file_path}')
+    df = pd.read_csv(f'../data/{file_path}')
     df.columns = [table_name + '_' + col if col != 'tune_id' else col for col in df.columns]
     dfs[table_name] = df
 
@@ -42,7 +42,7 @@ pivot_table.columns = [f'{col[0]}_{col[1]}' for col in pivot_table.columns]
 pivot_table.reset_index(inplace=True)
 
 
-pivot_table.to_csv('data/transformed/flatten_recordings.csv', index=False)
+pivot_table.to_csv('../data/transformed/flatten_recordings.csv', index=False)
 # print(pivot_table.columns)\
 final = pd.merge(no_recording, pivot_table, on="tune_id", how="left")
 final = final.drop(['popularity_name','aliases_name'],axis=1)

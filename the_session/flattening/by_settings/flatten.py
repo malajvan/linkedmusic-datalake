@@ -4,7 +4,7 @@ import pandas as pd
 csv_files = {
     'tunes': 'tunes.csv',
     'popularity': 'tune_popularity.csv',
-    'recordings': 'recordings.csv',
+    # 'recordings': 'transformed/flatten_recordings.csv',
     'aliases': 'transformed/flatten_aliases.csv'
 }
 
@@ -15,16 +15,19 @@ for table_name, file_path in csv_files.items():
     df.columns = [table_name + '_' + col if col != 'tune_id' else col for col in df.columns]
     dfs[table_name] = df
 
-dfs['tunes'] = dfs['tunes'].head(100)
+dfs['tunes'] = dfs['tunes'].head(200)
 
 # Merge tables with foreign key relationships
 merged_df = pd.merge(dfs['popularity'], dfs['tunes'], on='tune_id', how='right')
-merged_df = pd.merge(merged_df, dfs['recordings'], on='tune_id', how='left')
+# merged_df = pd.merge(merged_df, pivot_table, on="tune_id", how="left")
 merged_df = pd.merge(merged_df, dfs['aliases'], on='tune_id', how='left')
+record_df = pd.read_csv('../data/transformed/settings_flatten_recordings.csv')
 
-merged_df = merged_df.drop(['popularity_name','aliases_name','tunes_abc'],axis=1)
+final = pd.merge(merged_df, record_df, on="tune_id", how="left")
+
+final = final.drop(['popularity_name','aliases_name','tunes_abc'],axis=1)
 # Save the merged DataFrame to a new CSV file
-merged_df.to_csv('merge_on_settings.csv', index=False)
+final.to_csv('merge_on_settings.csv', index=False)
 
 print('Merged data saved to csv')
 # merged_on=['tune_id']
