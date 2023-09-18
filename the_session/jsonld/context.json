@@ -2,29 +2,29 @@
     "@context": {
         "thesession": "https://thesession.org/",
         "tunes": "thesession:tunes/",
-        //im contemplating either use thesessionrecordings or P2550
+        
         "recordings": "thesession:recordings/",
-        "P2550": "wdt:P2550", //recording or performance of 
+        "P2550": "wdt:P2550",
         "popularity_tunebooks": "tunes:popular",
         "P175": "wdt:P175",
         "P1545": "wdt:P1545",
-        "P86": { //composer
+        "P86": { 
             "@id": "wdt:P86",
             "@type": "@id"
         },
-        "P136": { //genre
+        "P136": { 
             "@id": "wdt:P136",
             "@type": "@id"
         },
-        "P1476": "wdt:P1476", //title (tunes_name)
-        "P9533": "wdt:P9533", //audio transcription (tunes_settings)
-        "P4970": "wdt:P4970", //alernative names (aliases_alias)
-        "P826": "wdt:P826", //tonality (tunes_mode)
-        "P50": "wdt:P50", //author (tunes_username)
+        "P1476": "wdt:P1476", 
+        "P9533": "wdt:P9533",
+        "P4970": "wdt:P4970", 
+        "P826": "wdt:P826", 
+        "P50": "wdt:P50", 
         "P577": {
             "@id": "wdt:P577",
             "@type": "xsd:dateTime"
-        }, //published date (tunes_date)
+        }, 
         "database": {
             "@id": "https://schema.org/Dataset",
             "@type": "@id"
