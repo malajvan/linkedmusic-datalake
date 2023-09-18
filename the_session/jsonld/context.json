@@ -8,10 +8,6 @@
         "popularity_tunebooks": "tunes:popular",
         "P175": "wdt:P175",
         "P1545": "wdt:P1545",
-        "P86": { 
-            "@id": "wdt:P86",
-            "@type": "@id"
-        },
         "P136": { 
             "@id": "wdt:P136",
             "@type": "@id"
