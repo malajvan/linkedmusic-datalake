@@ -18,7 +18,7 @@ for work in parsed_json:
     work['database'] = 'cantusdb:'
    
    
-    work["P86"] = "wdt:Q4233718" #composer anonymous
+    work["P86"] = "wd:Q4233718" #composer anonymous
     work["P1922"] = work.pop("incipit")
     work["P136"] = f'wd:{work.pop("genre")}'
     work["Q731978"] = f'wd:{work.pop("mode_name")}'
