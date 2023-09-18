@@ -7,7 +7,7 @@ for rec in doc:
     rec['@type'] = "wd:Q2188189" #musical_work
     rec['P1476'] = rec.pop('tunes_name')
     
-    rec['database'] = 'thesession'
+    rec['database'] = 'thesession:'
     try:
         rec['P4970'] = rec.pop('aliases_alias')
     except KeyError:
