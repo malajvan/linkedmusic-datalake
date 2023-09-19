@@ -2,18 +2,39 @@ from pyld import jsonld
 import json
 
         
-tested = {
-        "volpiano": "1---km-ok-kjh-k-nmlkij--lkjh-jkjk---km-ok-kjh-k--nmlkj-lkjh--jkjk---khk-mlk-m-nno-ponmlk-lmk-hjk---k-m-nno-ponmlk--lnk-hjk-lk7---k-m-nno-po-rqpo-pnm-nno-po-onm-o-pmlk-k-llm-ok-nmlkij--lk---khg-k--mlk-m-nno-po-onmlk--lnl--hjk--lk-h-jK--lk---k-m-nno--om-nnonmlkj--l-lln-onlk-ml77---hijk---lnk-hjk-onmlk-hjkkJ--lk---khg-hg-hhk-lk--o-k-llm-nlk-kkJ--lk--hijk---k---km-onm--oq-rq-rqpo-pnm-o-k-llm-nlkl7-hjkkJ--lk---k-llm-okIjh-k--nmlkj--l-lln-onlkij--lk---hjk-lk---m-nno-po-mno---rpop---mno--km-nlk---khk--mlkj-lk--hijk---omo-pro-srqpo-pro--mno7--po---o-k-llm--o-k-llm-nlk--l-hjk---k---mnlk--lhijk--lk---khk--lk-ml-llnmlk-kkJ--lk--k---oml-o-po---o-ooq-rq-srqpo--pro-po-o--k-llm-nlk7--lk---k-llm---ml---nmlk-lk--hijk---k-llm--nmlkj-klm--ok-nm---nlk-lk--hijk---k--lm--nml--m---3---oknnm---opo-rqpo--k-llm-nlk--lijk7--lk---o-k-llm-nlk-lk--opo-rqpo-po-srqpo-pro-mno-opo-rqpo-o-ppq-rpo-pro-mno-ok-mnlk-lnk-lk--hijk---lk--k---4",
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
-        "@id": "chant:588586",
+val_doc =     [{
+        "volpiano": "1---d--e---f---g--g---g--hg--fg--g---d--f---e--d---d---e7---f---g--g---hhg--f--h---fhf--g---k---j--h---k--l---j--k7--hgf---h--hg--fef--g---e---f--e---d--d---e---f--g--g---hf--hg--f-fG---g77---4",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
+            {
+                "P136": "wdt:P136"
+            }
+        ],
+        "@id": "chant:638102",
         "@type": "wd:Q23072435",
         "database": "cantusdb:",
-        "P86": "wdt:Q4233718",
-        "P1922": "Ave Maria o auctrix vitae ",
-        "P136": "wd:Q604748",
-        "Q731978": "wd:None",
-        "Q4484726": "C",
-        "source": "src:588309"
-    }
-with open('./expanded.json','w') as injson:
-    injson.write(json.dumps(jsonld.expand(tested), indent=2))
+        "P86": "wd:Q4233718",
+        "P1922": "Ego cum meis sodalibus bene ",
+        "P136": "Dramatic element (used for items of liturgical drama that are not otherwise rubricked)",
+        "Q731978": "wd:Q57976142",
+        "Q4484726": "G",
+        "source": "https://cantusdatabase.org/source/588308"
+    },
+     {
+        "volpiano": "1---gh--k--k---lM---n7--m--ml---m--l--jk---l---h--g--g---gh--k--lm---lml---k---kj--h---k7--jk---lkh--g--ghg--g---4",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:674495",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Asperges me domine hyssopo et ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q321814",
+        "Q4484726": "G",
+        "source": "https://cantusdatabase.org/source/674494"
+    }]
+with open('./val_expanded.json','w') as injson:
+    injson.write(json.dumps(jsonld.expand(val_doc), indent=2))
+
