@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+import re
 
 df = pd.read_csv('./short_rec.csv')
 json_data = df.to_json(orient='records')
@@ -16,6 +17,16 @@ json_keys = [
 ]
 
 # Create a nested list of dictionaries
+def handle_rec_col(work, val, key):
+    if val is None:
+        return None
+    if re.match(r"^[Q]\d+", val ): #if cell was reconciled with wikidata
+        return f"wd:{val}"
+    if val[:8]=="https://" : #if cell was reconciled with another source
+        return val
+    else: #cell is value
+        work["@context"].append({key:f"wdt:{key}"}) # overwrite context
+        return val
 
 
 for work in parsed_json:
@@ -23,14 +34,12 @@ for work in parsed_json:
     work['database'] = 'simssadb:'
     work["@type"] = "wd:Q2188189"
     work["@id"] = f"mw:{work.pop('musical_work_id')}"
-    work["P86"] = {
-        '@id':f'wd:{work.pop("contributor_full_name")}',
-        'P214': str(int(work["contributor_viaf_id"])) if work["contributor_viaf_id"] else None
-    }
+    work["P86"] =  handle_rec_col(work,work.pop("contributor_full_name"),"P86")
     work.pop("contributor_viaf_id")
     work.pop("contributor_auth_url")
     work["P1476"] = work.pop("musical_work_variant_titles")
-    work["P136"] = f'wd:{work.pop("genre_style")}'
+    # work["P136"] = f'wd:{work.pop("genre_style")}'
+    work["P136"] = handle_rec_col(work,work.pop("genre_style"), "P136")
 
 
 
@@ -45,10 +54,12 @@ for work in parsed_json:
         last_pitch = work.get(last_pitch_key, None)
         if url is None:
             continue
-        nested_list.append({
+        nested_list.append(
+            {
             "@type": "simssadb_file", 
             "@id": url,
-            'P2701': f'wd:{file_format}',
+            # 'P2701': f'wd:{file_format}',
+            "P2701": handle_rec_col(None,file_format,"P2701" ),
             'Last_Pitch_Class': last_pitch
         })
     work['files'] = nested_list

@@ -4,10 +4,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:1",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "['Quanto pi\u00f9 desiar sento\u2019l mio core']",
         "P136": "wd:Q4692",
         "files": [
@@ -42,10 +39,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:2",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "['Si \u00e8 debile el filo a cui s\u2019attiene']",
         "P136": "wd:Q4692",
         "files": [
@@ -80,10 +74,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:3",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "['De perch\u00e9 in odio m\u2019hai']",
         "P136": "wd:Q4692",
         "files": [
@@ -118,10 +109,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:4",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "['Son io donna qual mostri ogni tuo bene']",
         "P136": "wd:Q4692",
         "files": [
@@ -156,10 +144,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:5",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "['Son io donna (2) qual mostri ogni tuo bene']",
         "P136": "wd:Q4692",
         "files": [
@@ -194,10 +179,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:6",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "['Nella stagion che\u2019l ciel rapido inchina']",
         "P136": "wd:Q4692",
         "files": [
@@ -232,10 +214,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:7",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "['Donna bench\u00e9 di rado et con riguardo']",
         "P136": "wd:Q4692",
         "files": [
@@ -270,10 +249,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:8",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "['Amore amor quando io speravo']",
         "P136": "wd:Q4692",
         "files": [
@@ -308,10 +284,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:9",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "['Amor se vuoi ch\u2019i torni al giogho anticho']",
         "P136": "wd:Q4692",
         "files": [
@@ -346,10 +319,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:10",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "['Perch\u00e9 donna non vuoi']",
         "P136": "wd:Q4692",
         "files": [
@@ -384,10 +354,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:11",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "['Chiare fresche et dolc\u2019acque']",
         "P136": "wd:Q4692",
         "files": [
@@ -422,10 +389,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:12",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "['Che deggio far che mi consigli Amore? [2, Pisano, F&H]']",
         "P136": "wd:Q4692",
         "files": [
@@ -460,10 +424,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:13",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "['Giamai non veder gli occhi']",
         "P136": "wd:Q4692",
         "files": [
@@ -498,10 +459,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:14",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "['Chi della fede altrui piglia sospecto']",
         "P136": "wd:Q4692",
         "files": [
@@ -536,10 +494,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:15",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "['Cosi nel mio parlare voglio essere aspro']",
         "P136": "wd:Q4692",
         "files": [
@@ -574,10 +529,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:16",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "[\"Tanta piet\u00e0 cor mio talhor m'assale\"]",
         "P136": "wd:Q4692",
         "files": [
@@ -612,10 +564,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:17",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "[\"Nuova angioletta sovra l'ale accorta\"]",
         "P136": "wd:Q4692",
         "files": [
@@ -650,10 +599,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:18",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "[\"Poich'io parti da cui partir non posso\"]",
         "P136": "wd:Q4692",
         "files": [
@@ -688,10 +634,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:19",
-        "P86": {
-            "@id": "wd:Q2920493",
-            "P214": "76504834"
-        },
+        "P86": "wd:Q2920493",
         "P1476": "['Hor vedi Amore che giovinetta donna']",
         "P136": "wd:Q4692",
         "files": [
@@ -726,10 +669,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:20",
-        "P86": {
-            "@id": "wd:Q7442579",
-            "P214": "32192513"
-        },
+        "P86": "wd:Q7442579",
         "P1476": "['Amor che mi tormenti']",
         "P136": "wd:Q4692",
         "files": [
@@ -764,10 +704,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:21",
-        "P86": {
-            "@id": "wd:Q7442579",
-            "P214": "32192513"
-        },
+        "P86": "wd:Q7442579",
         "P1476": "['Quando el suave mio fido conforto']",
         "P136": "wd:Q4692",
         "files": [
@@ -802,10 +739,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:22",
-        "P86": {
-            "@id": "wd:Q7442579",
-            "P214": "32192513"
-        },
+        "P86": "wd:Q7442579",
         "P1476": "['Ben mi credea passar mio tempo homai']",
         "P136": "wd:Q4692",
         "files": [
@@ -840,10 +774,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:23",
-        "P86": {
-            "@id": "wd:Q7442579",
-            "P214": "32192513"
-        },
+        "P86": "wd:Q7442579",
         "P1476": "[\"Amor se vuoi ch'io torni al giogho anticho\"]",
         "P136": "wd:Q4692",
         "files": [
@@ -878,10 +809,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:24",
-        "P86": {
-            "@id": "wd:Q7442579",
-            "P214": "32192513"
-        },
+        "P86": "wd:Q7442579",
         "P1476": "[\"Perch'ai viso d'amor portava insegnia\"]",
         "P136": "wd:Q4692",
         "files": [
@@ -916,10 +844,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:25",
-        "P86": {
-            "@id": "wd:Q7442579",
-            "P214": "32192513"
-        },
+        "P86": "wd:Q7442579",
         "P1476": "['\u039f passi sparsi \u03bf pensier vaghi et pronti']",
         "P136": "wd:Q4692",
         "files": [
@@ -954,10 +879,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:26",
-        "P86": {
-            "@id": "wd:Q7442579",
-            "P214": "32192513"
-        },
+        "P86": "wd:Q7442579",
         "P1476": "['Amor quando fioriva mia speme']",
         "P136": "wd:Q4692",
         "files": [
@@ -992,10 +914,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:27",
-        "P86": {
-            "@id": "wd:Q809518",
-            "P214": "51876790"
-        },
+        "P86": "wd:Q809518",
         "P1476": "['Quanta mai leggiadria, quanta beliate']",
         "P136": "wd:Q4692",
         "files": [
@@ -1030,10 +949,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:28",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "['Fralle infelice vivo pi\u00f9 felice']",
         "P136": "wd:Q4692",
         "files": [
@@ -1068,10 +984,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:29",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "[\"S'il dixi mai ch'i vengha in odio a quella\"]",
         "P136": "wd:Q4692",
         "files": [
@@ -1106,10 +1019,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:30",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "[\"Quel foco ch'io pensai che fussi spento\"]",
         "P136": "wd:Q4692",
         "files": [
@@ -1144,10 +1054,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:31",
-        "P86": {
-            "@id": "wd:Q3856752",
-            "P214": "22328346"
-        },
+        "P86": "wd:Q3856752",
         "P1476": "[\"So ben che lei non sa quanto chi l'amo\"]",
         "P136": "wd:Q4692",
         "files": [
@@ -1182,10 +1089,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:32",
-        "P86": {
-            "@id": "wd:Q809518",
-            "P214": "51876790"
-        },
+        "P86": "wd:Q809518",
         "P1476": "['Quando lo pomo vien da lo pomaro']",
         "P136": "wd:Q4692",
         "files": [
@@ -1220,10 +1124,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:33",
-        "P86": {
-            "@id": "wd:Q3856752",
-            "P214": "22328346"
-        },
+        "P86": "wd:Q3856752",
         "P1476": "['\u039f Dio che la brunetta mia']",
         "P136": "wd:Q4692",
         "files": [
@@ -1258,10 +1159,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:34",
-        "P86": {
-            "@id": "wd:Q316668",
-            "P214": "34643473"
-        },
+        "P86": "wd:Q316668",
         "P1476": "['Hora \u00e8 di maggio']",
         "P136": "wd:Q4692",
         "files": [
@@ -1296,10 +1194,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:35",
-        "P86": {
-            "@id": "wd:Q975576",
-            "P214": "14957872"
-        },
+        "P86": "wd:Q975576",
         "P1476": "['Che fa la ramanzina']",
         "P136": "wd:Q4692",
         "files": [
@@ -1334,10 +1229,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:36",
-        "P86": {
-            "@id": "wd:Q809518",
-            "P214": "51876790"
-        },
+        "P86": "wd:Q809518",
         "P1476": "['Che debbio far che mi consigli Amore? [3, Tromboncino, F&H]']",
         "P136": "wd:Q4692",
         "files": [
@@ -1372,10 +1264,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:37",
-        "P86": {
-            "@id": "wd:Q311629",
-            "P214": "111839700"
-        },
+        "P86": "wd:Q311629",
         "P1476": "['La tortorella el semplice uccelletto']",
         "P136": "wd:Q4692",
         "files": [
@@ -1410,10 +1299,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:38",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Scaramella fa la guerra']",
         "P136": "wd:Q4692",
         "files": [
@@ -1448,10 +1334,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:39",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "[\"[Zibaldone] C.: Fortuna disperata; \u0391.: Vidi la forosetta in un boschetto; T.: Voi m'havete svergogni\u00e9; B.: Fortuna - mangio biscotti\"]",
         "P136": "wd:Q4692",
         "files": [
@@ -1486,10 +1369,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:40",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "[\"J'am pris amours; [Zibaldone] C., \u0391., T. Musicola B.: Ma buce rit\"]",
         "P136": "wd:Q4692",
         "files": [
@@ -1524,10 +1404,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:41",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "[\"[Zibaldone] C. : Donna tu pure invecchi \u0391.: Diventer\u00f2 zenzaro T.: Ogniun fughi et pigli scampo; B: Dall'armata delle dee\"]",
         "P136": "wd:Q4692",
         "files": [
@@ -1562,10 +1439,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:42",
-        "P86": {
-            "@id": "wd:Q3750431",
-            "P214": "100224571"
-        },
+        "P86": "wd:Q3750431",
         "P1476": "['Donne venite al ballo [T]']",
         "P136": "wd:Q4692",
         "files": [
@@ -1600,10 +1474,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:43",
-        "P86": {
-            "@id": "wd:Q3750431",
-            "P214": "100224571"
-        },
+        "P86": "wd:Q3750431",
         "P1476": "['Un cavalier di Spagnia [T]; Cavalcha per la via']",
         "P136": "wd:Q4692",
         "files": [
@@ -1638,10 +1509,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:44",
-        "P86": {
-            "@id": "wd:Q7442579",
-            "P214": "32192513"
-        },
+        "P86": "wd:Q7442579",
         "P1476": "[\"L'ultimo di di maggio [T]; Un bel mattino\"]",
         "P136": "wd:Q4692",
         "files": [
@@ -1676,10 +1544,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:45",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "['Vaghe le montanine pasturelle ']",
         "P136": "wd:Q4692",
         "files": [
@@ -1714,10 +1579,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:46",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "['Solingho et vagho augello ']",
         "P136": "wd:Q4692",
         "files": [
@@ -1752,10 +1614,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:47",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Entr\u00e9 je suis en gran pensier ']",
         "P136": "wd:Q4692",
         "files": [
@@ -1790,10 +1649,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:48",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "['Tant ravy suis en la bont\u00e9 ']",
         "P136": "wd:Q4692",
         "files": [
@@ -1828,10 +1684,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:49",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "['Amoreuse mi fault estre ']",
         "P136": "wd:Q4692",
         "files": [
@@ -1866,10 +1719,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:50",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "['Jouly mariner passe mon sene ']",
         "P136": "wd:Q4692",
         "files": [
@@ -1904,10 +1754,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:51",
-        "P86": {
-            "@id": "wd:Q7039099",
-            "P214": "301999266"
-        },
+        "P86": "wd:Q7039099",
         "P1476": "[\"Notre chambrier sy malad'estet \"]",
         "P136": "wd:Q4692",
         "files": [
@@ -1942,10 +1789,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:52",
-        "P86": {
-            "@id": "wd:Q15973951",
-            "P214": "87544497"
-        },
+        "P86": "wd:Q15973951",
         "P1476": "['Impotent suis et affoll\u00e9 ']",
         "P136": "wd:Q4692",
         "files": [
@@ -1980,10 +1824,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:53",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "[\"Se j'ay perdu mon amy \"]",
         "P136": "wd:Q4692",
         "files": [
@@ -2018,10 +1859,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:54",
-        "P86": {
-            "@id": "wd:Q7039099",
-            "P214": "301999266"
-        },
+        "P86": "wd:Q7039099",
         "P1476": "['Et la la la la la la ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2056,10 +1894,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:55",
-        "P86": {
-            "@id": "wd:Q7039099",
-            "P214": "301999266"
-        },
+        "P86": "wd:Q7039099",
         "P1476": "[\"En l'ombre da ung bepin \"]",
         "P136": "wd:Q4692",
         "files": [
@@ -2094,10 +1929,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:56",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "['Tr\u00e8s dolce filette ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2132,10 +1964,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:57",
-        "P86": {
-            "@id": "wd:Q15973951",
-            "P214": "87544497"
-        },
+        "P86": "wd:Q15973951",
         "P1476": "['Frapes petit coup ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2170,10 +1999,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:58",
-        "P86": {
-            "@id": "wd:Q15973951",
-            "P214": "87544497"
-        },
+        "P86": "wd:Q15973951",
         "P1476": "['Jacquet Jacquet ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2208,10 +2034,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:59",
-        "P86": {
-            "@id": "wd:Q7039099",
-            "P214": "301999266"
-        },
+        "P86": "wd:Q7039099",
         "P1476": "[\"N'as tu poynct mys ton hault bounet \"]",
         "P136": "wd:Q4692",
         "files": [
@@ -2246,10 +2069,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:60",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "['Adieu mes amours ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2284,10 +2104,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:61",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "[\"Forseullement l'atente que je meure \"]",
         "P136": "wd:Q4692",
         "files": [
@@ -2322,10 +2139,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:62",
-        "P86": {
-            "@id": "wd:Q289914",
-            "P214": "44566257"
-        },
+        "P86": "wd:Q289914",
         "P1476": "['Forseullement l\u2019atante que je meure ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2360,10 +2174,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:63",
-        "P86": {
-            "@id": "wd:Q975576",
-            "P214": "14957872"
-        },
+        "P86": "wd:Q975576",
         "P1476": "[\"L'autre ior je cavacioye \"]",
         "P136": "wd:Q4692",
         "files": [
@@ -2398,10 +2209,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:64",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "['Gentil galans de fransa ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2436,10 +2244,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:65",
-        "P86": {
-            "@id": "wd:Q975576",
-            "P214": "14957872"
-        },
+        "P86": "wd:Q975576",
         "P1476": "[\"Je suis amie d'un forier \"]",
         "P136": "wd:Q4692",
         "files": [
@@ -2474,10 +2279,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:66",
-        "P86": {
-            "@id": "wd:Q975576",
-            "P214": "14957872"
-        },
+        "P86": "wd:Q975576",
         "P1476": "['Alons fere nos barbes ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2512,10 +2314,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:67",
-        "P86": {
-            "@id": "wd:Q975576",
-            "P214": "14957872"
-        },
+        "P86": "wd:Q975576",
         "P1476": "['Voles ouir une sanson de chyons ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2550,10 +2349,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:68",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Plus nullez regretez ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2588,10 +2384,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:69",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "['Ille etet ung bon homme ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2626,10 +2419,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:70",
-        "P86": {
-            "@id": "wd:Q975576",
-            "P214": "14957872"
-        },
+        "P86": "wd:Q975576",
         "P1476": "['Une playsant f\u00eclette ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2664,10 +2454,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:71",
-        "P86": {
-            "@id": "wd:Q4755693",
-            "P214": "45811079"
-        },
+        "P86": "wd:Q4755693",
         "P1476": "['ludica me Deus ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2702,10 +2489,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:72",
-        "P86": {
-            "@id": "wd:Q316668",
-            "P214": "34643473"
-        },
+        "P86": "wd:Q316668",
         "P1476": "['Prophetarum maxime ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2740,10 +2524,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:73",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Paratum cor meum Deus ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2778,10 +2559,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:74",
-        "P86": {
-            "@id": "wd:Q4233718",
-            "P214": null
-        },
+        "P86": "wd:Q4233718",
         "P1476": "['Spem in alium numquam habui ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2816,10 +2594,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:75",
-        "P86": {
-            "@id": "wd:Q1660965",
-            "P214": "100249517"
-        },
+        "P86": "wd:Q1660965",
         "P1476": "['Regem confessorum dominum venite ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2854,10 +2629,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:76",
-        "P86": {
-            "@id": "wd:Q1660965",
-            "P214": "100249517"
-        },
+        "P86": "wd:Q1660965",
         "P1476": "['Bona vita bona refectio ']",
         "P136": "wd:Q4692",
         "files": [
@@ -2892,10 +2664,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:77",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Alma redemptoris mater (C., B.) / Ave regina coelorum (\u0391., T.)']",
         "P136": "wd:Q4692",
         "files": [
@@ -2930,10 +2699,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:78",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Ave Maria gratia plena \u2026 virgo serena']",
         "P136": "wd:Q4692",
         "files": [
@@ -2968,10 +2734,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:79",
-        "P86": {
-            "@id": "wd:Q1150781",
-            "P214": "56799307"
-        },
+        "P86": "wd:Q1150781",
         "P1476": "['Miserere mei Deus ']",
         "P136": "wd:Q4692",
         "files": [
@@ -3006,10 +2769,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:80",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Missus est angelus Gabriel ']",
         "P136": "wd:Q4692",
         "files": [
@@ -3044,10 +2804,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:81",
-        "P86": {
-            "@id": "wd:Q1660965",
-            "P214": "100249517"
-        },
+        "P86": "wd:Q1660965",
         "P1476": "['Felix namque es sacra Virgo Maria ']",
         "P136": "wd:Q4692",
         "files": [
@@ -3082,10 +2839,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:82",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['\u039f bone et dulcis domine Yhesus ']",
         "P136": "wd:Q4692",
         "files": [
@@ -3120,10 +2874,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:83",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa De feria']",
         "P136": "wd:Q4692",
         "files": []
@@ -3133,10 +2884,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:84",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa Pascale']",
         "P136": "wd:Q4692",
         "files": []
@@ -3146,10 +2894,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:85",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa Sine nomine I']",
         "P136": "wd:Q4692",
         "files": []
@@ -3159,10 +2904,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:86",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa O salutaris hostia']",
         "P136": "wd:Q4692",
         "files": []
@@ -3172,10 +2914,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:87",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa De sancta Anna']",
         "P136": "wd:Q4692",
         "files": []
@@ -3185,10 +2924,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:88",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa De sancto Antonio']",
         "P136": "wd:Q4692",
         "files": []
@@ -3198,10 +2934,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:89",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa De virginibus']",
         "P136": "wd:Q4692",
         "files": []
@@ -3211,10 +2944,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:90",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa O gloriosa domina']",
         "P136": "wd:Q4692",
         "files": []
@@ -3224,10 +2954,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:91",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa Tandernaken']",
         "P136": "wd:Q4692",
         "files": []
@@ -3237,10 +2964,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:92",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa Sub tuum presidium']",
         "P136": "wd:Q4692",
         "files": []
@@ -3250,10 +2974,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:93",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa De sancto Job']",
         "P136": "wd:Q4692",
         "files": []
@@ -3263,10 +2984,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:94",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa Ave sanctissima Maria']",
         "P136": "wd:Q4692",
         "files": []
@@ -3276,10 +2994,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:95",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa Incessament']",
         "P136": "wd:Q4692",
         "files": []
@@ -3289,10 +3004,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:96",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa De septem doloribus']",
         "P136": "wd:Q4692",
         "files": []
@@ -3302,10 +3014,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:97",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa Assumpta es Maria']",
         "P136": "wd:Q4692",
         "files": []
@@ -3315,10 +3024,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:98",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa Inviolata']",
         "P136": "wd:Q4692",
         "files": []
@@ -3328,10 +3034,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:99",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa Sancta dei genitrix']",
         "P136": "wd:Q4692",
         "files": []
@@ -3341,10 +3044,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:100",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa L\u2019homme arm\u00e9  I']",
         "P136": "wd:Q4692",
         "files": []
@@ -3354,10 +3054,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:101",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa Ista est speciosa']",
         "P136": "wd:Q4692",
         "files": []
@@ -3367,10 +3064,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:102",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa Pro fidelibus defunctis']",
         "P136": "wd:Q4692",
         "files": []
@@ -3380,10 +3074,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:103",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa Tous les regretz']",
         "P136": "wd:Q4692",
         "files": []
@@ -3393,10 +3084,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:104",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa Conceptio tua']",
         "P136": "wd:Q4692",
         "files": []
@@ -3406,10 +3094,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:105",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa Almana']",
         "P136": "wd:Q4692",
         "files": []
@@ -3419,10 +3104,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:106",
-        "P86": {
-            "@id": "wd:Q370540",
-            "P214": "265244429"
-        },
+        "P86": "wd:Q370540",
         "P1476": "['Missa Nunca fue pena mayor']",
         "P136": "wd:Q4692",
         "files": []
@@ -3432,10 +3114,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:107",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Missa Gaudeamus']",
         "P136": "wd:Q4692",
         "files": []
@@ -3445,10 +3124,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:108",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Missa Sine nomine']",
         "P136": "wd:Q4692",
         "files": []
@@ -3458,10 +3134,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:109",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Missa Pange lingua']",
         "P136": "wd:Q4692",
         "files": []
@@ -3471,10 +3144,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:110",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Missa De beata virgine']",
         "P136": "wd:Q4692",
         "files": []
@@ -3484,10 +3154,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:111",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Missa Ave Maris stella']",
         "P136": "wd:Q4692",
         "files": []
@@ -3497,10 +3164,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:112",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Missa L\u2019homme arm\u00e9 sexti toni']",
         "P136": "wd:Q4692",
         "files": []
@@ -3510,10 +3174,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:113",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Missa Malheur me bat']",
         "P136": "wd:Q4692",
         "files": []
@@ -3523,10 +3184,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:114",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Missa L\u2019homme arm\u00e9 super voces musicales']",
         "P136": "wd:Q4692",
         "files": []
@@ -3536,10 +3194,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:115",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Missa Hercules dux Ferrarie']",
         "P136": "wd:Q4692",
         "files": []
@@ -3549,10 +3204,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:116",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Missa La sol fa re mi']",
         "P136": "wd:Q4692",
         "files": []
@@ -3562,10 +3214,7 @@
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:117",
-        "P86": {
-            "@id": "wd:Q143100",
-            "P214": "100226284"
-        },
+        "P86": "wd:Q143100",
         "P1476": "['Missa De tous biens ']",
         "P136": "wd:Q4692",
         "files": []
