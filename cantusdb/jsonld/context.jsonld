@@ -26,7 +26,6 @@
             "@id": "https://schema.org/Dataset",
             "@type": "@id"
         },
-        "volpiano": "https://web.mit.edu/music21/doc/moduleReference/moduleVolpiano.html",
         "wd": "http://www.wikidata.org/entity/",
         "wdt": "http://www.wikidata.org/prop/direct/"
     }

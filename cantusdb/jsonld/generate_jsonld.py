@@ -2,7 +2,7 @@ import pandas as pd
 import json
 import re
 
-df = pd.read_csv('../cantus_reconciled.csv')
+df = pd.read_csv('../link_cantus_reconciled.csv')
 json_data = df.to_json(orient='records')
 parsed_json = json.loads(json_data)
 # pretty_json = json.dumps(parsed_json, indent=4)
@@ -51,7 +51,7 @@ for work in parsed_json:
             del work[key]
 # Print the nested list of dictionaries
 pretty_json = json.dumps(parsed_json, indent=4)
-with open('compact.jsonld', 'w') as json_file:
+with open('link_compact.jsonld', 'w') as json_file:
     json_file.write(pretty_json)
 
 

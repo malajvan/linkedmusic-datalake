@@ -1,0 +1,79 @@
+[
+  {
+    "@id": "https://cantusdatabase.org/chant/638175",
+    "@type": [
+      "http://www.wikidata.org/entity/Q23072435"
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "https://cantusdatabase.org/genre/134"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1922": [
+      {
+        "@value": "Ach ach fervens dulcedo absorbuit "
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4233718"
+      }
+    ],
+    "http://www.wikidata.org/entity/Q4484726": [
+      {
+        "@value": "D"
+      }
+    ],
+    "http://www.wikidata.org/entity/Q731978": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q842766"
+      }
+    ],
+    "https://schema.org/Dataset": [
+      {
+        "@id": "https://cantusdatabase.org/"
+      }
+    ],
+    "https://cantusdatabase.org/source/": [
+      {
+        "@id": "https://cantusdatabase.org/source/588308"
+      }
+    ]
+  },
+  {
+    "@id": "https://cantusdatabase.org/chant/643323",
+    "@type": [
+      "http://www.wikidata.org/entity/Q23072435"
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q849305"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1922": [
+      {
+        "@value": "Confiteantur domino misericordiae ejus et "
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4233718"
+      }
+    ],
+    "http://www.wikidata.org/entity/Q4484726": [
+      {
+        "@value": "A"
+      }
+    ],
+    "https://schema.org/Dataset": [
+      {
+        "@id": "https://cantusdatabase.org/"
+      }
+    ],
+    "https://cantusdatabase.org/source/": [
+      {
+        "@id": "https://cantusdatabase.org/source/638308"
+      }
+    ]
+  }
+]

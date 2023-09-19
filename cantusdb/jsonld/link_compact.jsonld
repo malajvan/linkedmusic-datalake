@@ -14,17 +14,14 @@
     },
     {
         "@context": [
-            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
-            {
-                "P136": "wdt:P136"
-            }
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
         ],
         "@id": "chant:638102",
         "@type": "wd:Q23072435",
         "database": "cantusdb:",
         "P86": "wd:Q4233718",
         "P1922": "Ego cum meis sodalibus bene ",
-        "P136": "Dramatic element (used for items of liturgical drama that are not otherwise rubricked)",
+        "P136": "https://cantusdatabase.org/genre/134",
         "Q731978": "wd:Q57976142",
         "Q4484726": "G",
         "source": "https://cantusdatabase.org/source/588308"
@@ -128,17 +125,14 @@
     },
     {
         "@context": [
-            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
-            {
-                "P136": "wdt:P136"
-            }
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
         ],
         "@id": "chant:638175",
         "@type": "wd:Q23072435",
         "database": "cantusdb:",
         "P86": "wd:Q4233718",
         "P1922": "Ach ach fervens dulcedo absorbuit ",
-        "P136": "Dramatic element (used for items of liturgical drama that are not otherwise rubricked)",
+        "P136": "https://cantusdatabase.org/genre/134",
         "Q731978": "wd:Q842766",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/588308"
@@ -186,17 +180,14 @@
     },
     {
         "@context": [
-            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
-            {
-                "P136": "wdt:P136"
-            }
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
         ],
         "@id": "chant:638079",
         "@type": "wd:Q23072435",
         "database": "cantusdb:",
         "P86": "wd:Q4233718",
         "P1922": "Vide quid illud sit quo ",
-        "P136": "Dramatic element (used for items of liturgical drama that are not otherwise rubricked)",
+        "P136": "https://cantusdatabase.org/genre/134",
         "Q731978": "wd:Q1641387",
         "Q4484726": "E",
         "source": "https://cantusdatabase.org/source/588308"
@@ -230,17 +221,14 @@
     },
     {
         "@context": [
-            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
-            {
-                "P136": "wdt:P136"
-            }
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
         ],
         "@id": "chant:664931",
         "@type": "wd:Q23072435",
         "database": "cantusdb:",
         "P86": "wd:Q4233718",
         "P1922": "De caelo, deus humana petens, ",
-        "P136": "Prefatio (when written out and notated)",
+        "P136": "https://cantusdatabase.org/genre/153",
         "Q731978": "wd:Q960729",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/664930"
@@ -330,17 +318,14 @@
     },
     {
         "@context": [
-            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
-            {
-                "P136": "wdt:P136"
-            }
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
         ],
         "@id": "chant:666630",
         "@type": "wd:Q23072435",
         "database": "cantusdb:",
         "P86": "wd:Q4233718",
         "P1922": "Et regna, benedicta inter mulieres, ",
-        "P136": "Prefatio (when written out and notated)",
+        "P136": "https://cantusdatabase.org/genre/153",
         "Q731978": "wd:Q686115",
         "Q4484726": "F",
         "source": "https://cantusdatabase.org/source/666487"
@@ -361,17 +346,14 @@
     },
     {
         "@context": [
-            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
-            {
-                "P136": "wdt:P136"
-            }
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
         ],
         "@id": "chant:672368",
         "@type": "wd:Q23072435",
         "database": "cantusdb:",
         "P86": "wd:Q4233718",
         "P1922": "Ave Maria gratia plena dominus ",
-        "P136": "Invitatory antiphon",
+        "P136": "https://cantusdatabase.org/genre/140",
         "Q731978": "wd:Q57976142",
         "Q4484726": "G",
         "source": "https://cantusdatabase.org/source/669030"
@@ -500,34 +482,28 @@
     },
     {
         "@context": [
-            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
-            {
-                "P136": "wdt:P136"
-            }
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
         ],
         "@id": "chant:638085",
         "@type": "wd:Q23072435",
         "database": "cantusdb:",
         "P86": "wd:Q4233718",
         "P1922": "Tu nescis nec vides nec ",
-        "P136": "Dramatic element (used for items of liturgical drama that are not otherwise rubricked)",
+        "P136": "https://cantusdatabase.org/genre/134",
         "Q731978": "wd:Q1342409",
         "Q4484726": "E",
         "source": "https://cantusdatabase.org/source/588308"
     },
     {
         "@context": [
-            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
-            {
-                "P136": "wdt:P136"
-            }
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
         ],
         "@id": "chant:638068",
         "@type": "wd:Q23072435",
         "database": "cantusdb:",
         "P86": "wd:Q4233718",
         "P1922": "Nos sumus radices et vos ",
-        "P136": "Dramatic element (used for items of liturgical drama that are not otherwise rubricked)",
+        "P136": "https://cantusdatabase.org/genre/134",
         "Q731978": "wd:Q1641387",
         "Q4484726": "E",
         "source": "https://cantusdatabase.org/source/588308"
@@ -547,17 +523,14 @@
     },
     {
         "@context": [
-            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
-            {
-                "P136": "wdt:P136"
-            }
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
         ],
         "@id": "chant:666571",
         "@type": "wd:Q23072435",
         "database": "cantusdb:",
         "P86": "wd:Q4233718",
         "P1922": "florebuntsancti requie caeli potiti ",
-        "P136": "Prefatio (when written out and notated)",
+        "P136": "https://cantusdatabase.org/genre/153",
         "Q731978": "wd:Q5959856",
         "Q4484726": "F",
         "source": "https://cantusdatabase.org/source/664930"
@@ -604,34 +577,28 @@
     },
     {
         "@context": [
-            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
-            {
-                "P136": "wdt:P136"
-            }
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
         ],
         "@id": "chant:638147",
         "@type": "wd:Q23072435",
         "database": "cantusdb:",
         "P86": "wd:Q4233718",
         "P1922": "Ego fides speculum vitae venerabiles ",
-        "P136": "Dramatic element (used for items of liturgical drama that are not otherwise rubricked)",
+        "P136": "https://cantusdatabase.org/genre/134",
         "Q731978": "wd:Q1342409",
         "Q4484726": "E",
         "source": "https://cantusdatabase.org/source/588308"
     },
     {
         "@context": [
-            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
-            {
-                "P136": "wdt:P136"
-            }
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
         ],
         "@id": "chant:638197",
         "@type": "wd:Q23072435",
         "database": "cantusdb:",
         "P86": "wd:Q4233718",
         "P1922": "In mente altissimi o Satana ",
-        "P136": "Dramatic element (used for items of liturgical drama that are not otherwise rubricked)",
+        "P136": "https://cantusdatabase.org/genre/134",
         "Q731978": "wd:Q842766",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/588308"
@@ -666,17 +633,14 @@
     },
     {
         "@context": [
-            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
-            {
-                "P136": "wdt:P136"
-            }
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
         ],
         "@id": "chant:638188",
         "@type": "wd:Q23072435",
         "database": "cantusdb:",
         "P86": "wd:Q4233718",
         "P1922": "Ego omnes vias meas malas ",
-        "P136": "Dramatic element (used for items of liturgical drama that are not otherwise rubricked)",
+        "P136": "https://cantusdatabase.org/genre/134",
         "Q731978": "wd:Q842766",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/588308"

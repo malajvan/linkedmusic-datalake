@@ -1,17 +1,58 @@
 [
   {
-    "@id": "https://cantusdatabase.org/chant/638102",
+    "@id": "https://cantusdatabase.org/chant/670587",
     "@type": [
       "http://www.wikidata.org/entity/Q23072435"
     ],
     "http://www.wikidata.org/prop/direct/P136": [
       {
-        "@value": "Dramatic element (used for items of liturgical drama that are not otherwise rubricked)"
+        "@id": "http://www.wikidata.org/entity/Q1424911"
       }
     ],
     "http://www.wikidata.org/prop/direct/P1922": [
       {
-        "@value": "Ego cum meis sodalibus bene "
+        "@value": "Recordare nostri Anna cum Maria "
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4233718"
+      }
+    ],
+    "http://www.wikidata.org/entity/Q4484726": [
+      {
+        "@value": "D"
+      }
+    ],
+    "http://www.wikidata.org/entity/Q731978": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q960729"
+      }
+    ],
+    "https://schema.org/Dataset": [
+      {
+        "@id": "https://cantusdatabase.org/"
+      }
+    ],
+    "https://cantusdatabase.org/source/": [
+      {
+        "@id": "https://cantusdatabase.org/source/599679"
+      }
+    ]
+  },
+  {
+    "@id": "https://cantusdatabase.org/chant/701042",
+    "@type": [
+      "http://www.wikidata.org/entity/Q23072435"
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q484692"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1922": [
+      {
+        "@value": "O singularis hostia Christe cunctorum "
       }
     ],
     "http://www.wikidata.org/prop/direct/P86": [
@@ -36,28 +77,23 @@
     ],
     "https://cantusdatabase.org/source/": [
       {
-        "@id": "https://cantusdatabase.org/source/588308"
-      }
-    ],
-    "https://web.mit.edu/music21/doc/moduleReference/moduleVolpiano.html": [
-      {
-        "@value": "1---d--e---f---g--g---g--hg--fg--g---d--f---e--d---d---e7---f---g--g---hhg--f--h---fhf--g---k---j--h---k--l---j--k7--hgf---h--hg--fef--g---e---f--e---d--d---e---f--g--g---hf--hg--f-fG---g77---4"
+        "@id": "https://cantusdatabase.org/source/701002"
       }
     ]
   },
   {
-    "@id": "https://cantusdatabase.org/chant/674495",
+    "@id": "https://cantusdatabase.org/chant/638085",
     "@type": [
       "http://www.wikidata.org/entity/Q23072435"
     ],
     "http://www.wikidata.org/prop/direct/P136": [
       {
-        "@id": "http://www.wikidata.org/entity/Q582093"
+        "@value": "Dramatic element (used for items of liturgical drama that are not otherwise rubricked)"
       }
     ],
     "http://www.wikidata.org/prop/direct/P1922": [
       {
-        "@value": "Asperges me domine hyssopo et "
+        "@value": "Tu nescis nec vides nec "
       }
     ],
     "http://www.wikidata.org/prop/direct/P86": [
@@ -67,12 +103,12 @@
     ],
     "http://www.wikidata.org/entity/Q4484726": [
       {
-        "@value": "G"
+        "@value": "E"
       }
     ],
     "http://www.wikidata.org/entity/Q731978": [
       {
-        "@id": "http://www.wikidata.org/entity/Q321814"
+        "@id": "http://www.wikidata.org/entity/Q1342409"
       }
     ],
     "https://schema.org/Dataset": [
@@ -82,12 +118,7 @@
     ],
     "https://cantusdatabase.org/source/": [
       {
-        "@id": "https://cantusdatabase.org/source/674494"
-      }
-    ],
-    "https://web.mit.edu/music21/doc/moduleReference/moduleVolpiano.html": [
-      {
-        "@value": "1---gh--k--k---lM---n7--m--ml---m--l--jk---l---h--g--g---gh--k--lm---lml---k---kj--h---k7--jk---lkh--g--ghg--g---4"
+        "@id": "https://cantusdatabase.org/source/588308"
       }
     ]
   }
