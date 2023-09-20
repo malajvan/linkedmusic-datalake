@@ -1,0 +1,761 @@
+[
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:322455",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Ecce veniet dominus princeps",
+        "P136": "wd:Q582093",
+        "Q4484726": "A",
+        "source": "https://cantusdatabase.org/source/123711",
+        "cantus_id": "https://cantusdatabase.org/id/002550"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:675612",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Salve crux sancta salve mundi ",
+        "P136": "wd:Q484692",
+        "Q731978": "wd:Q960729",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/669030",
+        "cantus_id": "https://cantusdatabase.org/id/008388"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:562335",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Christus resurgens ex mortuis jam ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q960729",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/001796"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:563112",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Verbum iniquum et dolosum longe ",
+        "P136": "wd:Q604748",
+        "Q4484726": "G",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/007841"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:670522",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Maria et flumina benedicite domino ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q1641387",
+        "Q4484726": "E",
+        "source": "https://cantusdatabase.org/source/669163",
+        "cantus_id": "https://cantusdatabase.org/id/003700"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:670569",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Colligite primum zizania et alligate ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q960729",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/669163",
+        "cantus_id": "https://cantusdatabase.org/id/001853"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
+            {
+                "P136": "wdt:P136"
+            }
+        ],
+        "@id": "chant:670191",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Sicut imber super gramen  et ",
+        "P136": "Tract verse",
+        "Q731978": "wd:Q57976142",
+        "Q4484726": "G",
+        "source": "https://cantusdatabase.org/source/669907",
+        "cantus_id": "https://cantusdatabase.org/id/g02373b.1"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:560447",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Docebit nos dominus vias suas ",
+        "P136": "wd:Q604748",
+        "Q731978": "wd:Q842766",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/006481"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:561758",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Dixit angelus ad Jacob dimitte ",
+        "P136": "wd:Q604748",
+        "Q731978": "wd:Q57976142",
+        "Q4484726": "G",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/006465"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
+            {
+                "P136": "wdt:P136"
+            }
+        ],
+        "@id": "chant:562918",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Praestet nobis gratiam deitas beata ",
+        "P136": "Responsory verse",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/007718a"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:562390",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Mittite in dexteram navigii rete ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q321814",
+        "Q4484726": "G",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/003800"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:320617",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Comperta autem ejus fama",
+        "P136": "wd:Q582093",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/123709",
+        "cantus_id": "https://cantusdatabase.org/id/200834"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:669215",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Montes et omnes colles humiliabuntur ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q686115",
+        "Q4484726": "F",
+        "source": "https://cantusdatabase.org/source/669163",
+        "cantus_id": "https://cantusdatabase.org/id/003806"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:675588",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Summi largitor praemii spes qui ",
+        "P136": "wd:Q484692",
+        "Q731978": "wd:Q842766",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/669030",
+        "cantus_id": "https://cantusdatabase.org/id/008398"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:670023",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Eripe me de inimicis meis ",
+        "P136": "wd:Q21653515",
+        "Q731978": "wd:Q1342409",
+        "Q4484726": "E",
+        "source": "https://cantusdatabase.org/source/669907",
+        "cantus_id": "https://cantusdatabase.org/id/g00867"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:671708",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Velum templi scissum est et ",
+        "P136": "wd:Q604748",
+        "Q731978": "wd:Q842766",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/669163",
+        "cantus_id": "https://cantusdatabase.org/id/007821"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:308370",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Quattuor animalia ibant et",
+        "P136": "wd:Q604748",
+        "Q4484726": "C",
+        "source": "https://cantusdatabase.org/source/123686",
+        "cantus_id": "https://cantusdatabase.org/id/007465"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:561262",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Fidelia omnia mandata ejus confirmata ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q1641387",
+        "Q4484726": "E",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/002865"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:562284",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Mulieres sedentes ad monumentum lamentabantur ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q960729",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/003826"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
+            {
+                "P136": "wdt:P136"
+            }
+        ],
+        "@id": "chant:670160",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Verumtamen justi confitebuntur nomini tuo ",
+        "P136": "Tract verse",
+        "Q731978": "wd:Q842766",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/669907",
+        "cantus_id": "https://cantusdatabase.org/id/g02431j"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:562840",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Disciplinam et sapientiam docebat eos ",
+        "P136": "wd:Q604748",
+        "Q731978": "wd:Q57976142",
+        "Q4484726": "G",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/006460"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:670707",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Qui me sanum fecit ille ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q960729",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/669163",
+        "cantus_id": "https://cantusdatabase.org/id/004483"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
+            {
+                "P136": "wdt:P136"
+            }
+        ],
+        "@id": "chant:563232",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Adaperiat dominus cor vestrum in ",
+        "P136": "Responsory verse",
+        "Q731978": "wd:Q842766",
+        "Q4484726": "C",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/006687a"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:669452",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Erunt prava in directa et ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q960729",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/669163",
+        "cantus_id": "https://cantusdatabase.org/id/002676"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:669514",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Ipse invocavit me alleluia pater ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q5959856",
+        "Q4484726": "F",
+        "source": "https://cantusdatabase.org/source/669163",
+        "cantus_id": "https://cantusdatabase.org/id/003402"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:560853",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Isti sunt sancti qui non ",
+        "P136": "wd:Q604748",
+        "Q731978": "wd:Q57976142",
+        "Q4484726": "G",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/007021"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:323810",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Speciosa facta es et suavis",
+        "P136": "wd:Q582093",
+        "Q4484726": "A",
+        "source": "https://cantusdatabase.org/source/123711",
+        "cantus_id": "https://cantusdatabase.org/id/004988"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:669164",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Ecce nomen domini venit de ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q960729",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/669163",
+        "cantus_id": "https://cantusdatabase.org/id/002527"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:561544",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Noe vir justus atque perfectus ",
+        "P136": "wd:Q604748",
+        "Q731978": "wd:Q57976142",
+        "Q4484726": "G",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/007218"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:670650",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Beati omnes qui timent dominum",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q842766",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/669163",
+        "cantus_id": "https://cantusdatabase.org/id/001587"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
+            {
+                "P136": "wdt:P136"
+            }
+        ],
+        "@id": "chant:561641",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Redemisti me domine deus veritatis",
+        "P136": "Responsory verse",
+        "Q4484726": "C",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/601142a"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:561971",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "In proximo est tribulatio mea ",
+        "P136": "wd:Q604748",
+        "Q4484726": "C",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/006931"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:560516",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Deus a Libano veniet et ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q960729",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/002163"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:671102",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Cum audisset turba quia Iesus ",
+        "P136": "wd:Q604748",
+        "Q4484726": "A",
+        "source": "https://cantusdatabase.org/source/620437",
+        "cantus_id": "https://cantusdatabase.org/id/600442"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:560674",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Notum fecit dominus alleluia salutare ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q5959856",
+        "Q4484726": "F",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/003964"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:561441",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Domine clamavi ad te exaudi ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q57976142",
+        "Q4484726": "G",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/002328"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:671344",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Crucem tuam adoramus domine et ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q842766",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/669907",
+        "cantus_id": "https://cantusdatabase.org/id/001953"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:560487",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Ecce veniet dominus ut sedeat ",
+        "P136": "wd:Q582093",
+        "Q4484726": "A",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/002551"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:562667",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Dominus in Sion alleluia magnus ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q5959856",
+        "Q4484726": "F",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/002409"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:561801",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Illumina oculos meos ne unquam ",
+        "P136": "wd:Q604748",
+        "Q731978": "wd:Q686115",
+        "Q4484726": "F",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/601101"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
+            {
+                "P136": "wdt:P136"
+            }
+        ],
+        "@id": "chant:672187",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Cantate domino canticum novum quia ",
+        "P136": "Introit verse",
+        "Q731978": "wd:Q1641387",
+        "Q4484726": "E",
+        "source": "https://cantusdatabase.org/source/669907",
+        "cantus_id": "https://cantusdatabase.org/id/g01026c"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:562055",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Salvum me fac deus quoniam ",
+        "P136": "wd:Q604748",
+        "Q731978": "wd:Q57976142",
+        "Q4484726": "G",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/007566"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:562249",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "In pace in idipsum dormiam ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q57976142",
+        "Q4484726": "G",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/003265"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:561405",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "In sanctitate serviamus domino et ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q321814",
+        "Q4484726": "G",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/003285"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:642493",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Quasi modo geniti infantes alleluia ",
+        "P136": "wd:Q224377",
+        "Q4484726": "C",
+        "source": "https://cantusdatabase.org/source/638308",
+        "cantus_id": "https://cantusdatabase.org/id/g01049"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:560573",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Erunt prava in directa et ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q960729",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/002676"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:560802",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Diligebat autem eum Jesus quoniam ",
+        "P136": "wd:Q604748",
+        "Q731978": "wd:Q1342409",
+        "Q4484726": "E",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/006454"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:562072",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Judica causam meam defende quia ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q57976142",
+        "Q4484726": "G",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/003515"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
+            {
+                "P136": "wdt:P136"
+            }
+        ],
+        "@id": "chant:560594",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Ex Sion species decoris ejus ",
+        "P136": "Responsory verse",
+        "Q4484726": "E",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/006393a"
+    },
+    {
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
+        ],
+        "@id": "chant:560572",
+        "@type": "wd:Q23072435",
+        "database": "cantusdb:",
+        "P86": "wd:Q4233718",
+        "P1922": "Ecce veniet desideratus cunctis gentibus ",
+        "P136": "wd:Q582093",
+        "Q731978": "wd:Q960729",
+        "Q4484726": "D",
+        "source": "https://cantusdatabase.org/source/123756",
+        "cantus_id": "https://cantusdatabase.org/id/002548"
+    }
+]
