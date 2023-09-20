@@ -30,7 +30,7 @@ def handle_rec_col(work, val, key):
 
 
 for work in parsed_json:
-    work["@context"] = "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld"
+    work["@context"] = ["https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld"]
     work['database'] = 'simssadb:'
     work["@type"] = "wd:Q2188189"
     work["@id"] = f"mw:{work.pop('musical_work_id')}"
