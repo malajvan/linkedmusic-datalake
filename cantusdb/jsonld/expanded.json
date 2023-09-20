@@ -1,0 +1,94 @@
+[
+  {
+    "@id": "https://cantusdatabase.org/chant/670569",
+    "@type": [
+      "http://www.wikidata.org/entity/Q23072435"
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q582093"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1922": [
+      {
+        "@value": "Colligite primum zizania et alligate "
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4233718"
+      }
+    ],
+    "http://www.wikidata.org/entity/Q4484726": [
+      {
+        "@value": "D"
+      }
+    ],
+    "http://www.wikidata.org/entity/Q731978": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q960729"
+      }
+    ],
+    "https://cantusdatabase.org/about/id-numbers/": [
+      {
+        "@id": "https://cantusindex.org/id/001853"
+      }
+    ],
+    "https://schema.org/Dataset": [
+      {
+        "@id": "https://cantusdatabase.org/"
+      }
+    ],
+    "https://cantusdatabase.org/source/": [
+      {
+        "@id": "https://cantusdatabase.org/source/669163"
+      }
+    ]
+  },
+  {
+    "@id": "https://cantusdatabase.org/chant/670191",
+    "@type": [
+      "http://www.wikidata.org/entity/Q23072435"
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@value": "Tract verse"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1922": [
+      {
+        "@value": "Sicut imber super gramen  et "
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4233718"
+      }
+    ],
+    "http://www.wikidata.org/entity/Q4484726": [
+      {
+        "@value": "G"
+      }
+    ],
+    "http://www.wikidata.org/entity/Q731978": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q57976142"
+      }
+    ],
+    "https://cantusdatabase.org/about/id-numbers/": [
+      {
+        "@id": "https://cantusindex.org/id/g02373b.1"
+      }
+    ],
+    "https://schema.org/Dataset": [
+      {
+        "@id": "https://cantusdatabase.org/"
+      }
+    ],
+    "https://cantusdatabase.org/source/": [
+      {
+        "@id": "https://cantusdatabase.org/source/669907"
+      }
+    ]
+  }
+]

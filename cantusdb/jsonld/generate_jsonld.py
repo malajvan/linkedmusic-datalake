@@ -46,7 +46,7 @@ def create_json_compact(js):
 
         work["source"] = work.pop("src_link")
 
-        work["cantus_id"] = f"https://cantusdatabase.org/id/{work.pop('cantus_id')}"
+        work["cantus_id"] = f"https://cantusindex.org/id/{work.pop('cantus_id')}"
         del work["mode"]
         del work["absolute_url"]
         del work["composer"]

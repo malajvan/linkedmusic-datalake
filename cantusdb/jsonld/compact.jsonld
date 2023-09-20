@@ -11,7 +11,7 @@
         "P136": "wd:Q582093",
         "Q4484726": "A",
         "source": "https://cantusdatabase.org/source/123711",
-        "cantus_id": "https://cantusdatabase.org/id/002550"
+        "cantus_id": "https://cantusindex.org/id/002550"
     },
     {
         "@context": [
@@ -26,7 +26,7 @@
         "Q731978": "wd:Q960729",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/669030",
-        "cantus_id": "https://cantusdatabase.org/id/008388"
+        "cantus_id": "https://cantusindex.org/id/008388"
     },
     {
         "@context": [
@@ -41,7 +41,7 @@
         "Q731978": "wd:Q960729",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/001796"
+        "cantus_id": "https://cantusindex.org/id/001796"
     },
     {
         "@context": [
@@ -55,7 +55,7 @@
         "P136": "wd:Q604748",
         "Q4484726": "G",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/007841"
+        "cantus_id": "https://cantusindex.org/id/007841"
     },
     {
         "@context": [
@@ -70,7 +70,7 @@
         "Q731978": "wd:Q1641387",
         "Q4484726": "E",
         "source": "https://cantusdatabase.org/source/669163",
-        "cantus_id": "https://cantusdatabase.org/id/003700"
+        "cantus_id": "https://cantusindex.org/id/003700"
     },
     {
         "@context": [
@@ -85,7 +85,7 @@
         "Q731978": "wd:Q960729",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/669163",
-        "cantus_id": "https://cantusdatabase.org/id/001853"
+        "cantus_id": "https://cantusindex.org/id/001853"
     },
     {
         "@context": [
@@ -103,7 +103,7 @@
         "Q731978": "wd:Q57976142",
         "Q4484726": "G",
         "source": "https://cantusdatabase.org/source/669907",
-        "cantus_id": "https://cantusdatabase.org/id/g02373b.1"
+        "cantus_id": "https://cantusindex.org/id/g02373b.1"
     },
     {
         "@context": [
@@ -118,7 +118,7 @@
         "Q731978": "wd:Q842766",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/006481"
+        "cantus_id": "https://cantusindex.org/id/006481"
     },
     {
         "@context": [
@@ -133,7 +133,7 @@
         "Q731978": "wd:Q57976142",
         "Q4484726": "G",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/006465"
+        "cantus_id": "https://cantusindex.org/id/006465"
     },
     {
         "@context": [
@@ -150,7 +150,7 @@
         "P136": "Responsory verse",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/007718a"
+        "cantus_id": "https://cantusindex.org/id/007718a"
     },
     {
         "@context": [
@@ -165,7 +165,7 @@
         "Q731978": "wd:Q321814",
         "Q4484726": "G",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/003800"
+        "cantus_id": "https://cantusindex.org/id/003800"
     },
     {
         "@context": [
@@ -179,7 +179,7 @@
         "P136": "wd:Q582093",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/123709",
-        "cantus_id": "https://cantusdatabase.org/id/200834"
+        "cantus_id": "https://cantusindex.org/id/200834"
     },
     {
         "@context": [
@@ -194,7 +194,7 @@
         "Q731978": "wd:Q686115",
         "Q4484726": "F",
         "source": "https://cantusdatabase.org/source/669163",
-        "cantus_id": "https://cantusdatabase.org/id/003806"
+        "cantus_id": "https://cantusindex.org/id/003806"
     },
     {
         "@context": [
@@ -209,7 +209,7 @@
         "Q731978": "wd:Q842766",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/669030",
-        "cantus_id": "https://cantusdatabase.org/id/008398"
+        "cantus_id": "https://cantusindex.org/id/008398"
     },
     {
         "@context": [
@@ -224,7 +224,7 @@
         "Q731978": "wd:Q1342409",
         "Q4484726": "E",
         "source": "https://cantusdatabase.org/source/669907",
-        "cantus_id": "https://cantusdatabase.org/id/g00867"
+        "cantus_id": "https://cantusindex.org/id/g00867"
     },
     {
         "@context": [
@@ -239,7 +239,7 @@
         "Q731978": "wd:Q842766",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/669163",
-        "cantus_id": "https://cantusdatabase.org/id/007821"
+        "cantus_id": "https://cantusindex.org/id/007821"
     },
     {
         "@context": [
@@ -253,7 +253,7 @@
         "P136": "wd:Q604748",
         "Q4484726": "C",
         "source": "https://cantusdatabase.org/source/123686",
-        "cantus_id": "https://cantusdatabase.org/id/007465"
+        "cantus_id": "https://cantusindex.org/id/007465"
     },
     {
         "@context": [
@@ -268,7 +268,7 @@
         "Q731978": "wd:Q1641387",
         "Q4484726": "E",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/002865"
+        "cantus_id": "https://cantusindex.org/id/002865"
     },
     {
         "@context": [
@@ -283,7 +283,7 @@
         "Q731978": "wd:Q960729",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/003826"
+        "cantus_id": "https://cantusindex.org/id/003826"
     },
     {
         "@context": [
@@ -301,7 +301,7 @@
         "Q731978": "wd:Q842766",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/669907",
-        "cantus_id": "https://cantusdatabase.org/id/g02431j"
+        "cantus_id": "https://cantusindex.org/id/g02431j"
     },
     {
         "@context": [
@@ -316,7 +316,7 @@
         "Q731978": "wd:Q57976142",
         "Q4484726": "G",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/006460"
+        "cantus_id": "https://cantusindex.org/id/006460"
     },
     {
         "@context": [
@@ -331,7 +331,7 @@
         "Q731978": "wd:Q960729",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/669163",
-        "cantus_id": "https://cantusdatabase.org/id/004483"
+        "cantus_id": "https://cantusindex.org/id/004483"
     },
     {
         "@context": [
@@ -349,7 +349,7 @@
         "Q731978": "wd:Q842766",
         "Q4484726": "C",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/006687a"
+        "cantus_id": "https://cantusindex.org/id/006687a"
     },
     {
         "@context": [
@@ -364,7 +364,7 @@
         "Q731978": "wd:Q960729",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/669163",
-        "cantus_id": "https://cantusdatabase.org/id/002676"
+        "cantus_id": "https://cantusindex.org/id/002676"
     },
     {
         "@context": [
@@ -379,7 +379,7 @@
         "Q731978": "wd:Q5959856",
         "Q4484726": "F",
         "source": "https://cantusdatabase.org/source/669163",
-        "cantus_id": "https://cantusdatabase.org/id/003402"
+        "cantus_id": "https://cantusindex.org/id/003402"
     },
     {
         "@context": [
@@ -394,7 +394,7 @@
         "Q731978": "wd:Q57976142",
         "Q4484726": "G",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/007021"
+        "cantus_id": "https://cantusindex.org/id/007021"
     },
     {
         "@context": [
@@ -408,7 +408,7 @@
         "P136": "wd:Q582093",
         "Q4484726": "A",
         "source": "https://cantusdatabase.org/source/123711",
-        "cantus_id": "https://cantusdatabase.org/id/004988"
+        "cantus_id": "https://cantusindex.org/id/004988"
     },
     {
         "@context": [
@@ -423,7 +423,7 @@
         "Q731978": "wd:Q960729",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/669163",
-        "cantus_id": "https://cantusdatabase.org/id/002527"
+        "cantus_id": "https://cantusindex.org/id/002527"
     },
     {
         "@context": [
@@ -438,7 +438,7 @@
         "Q731978": "wd:Q57976142",
         "Q4484726": "G",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/007218"
+        "cantus_id": "https://cantusindex.org/id/007218"
     },
     {
         "@context": [
@@ -453,7 +453,7 @@
         "Q731978": "wd:Q842766",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/669163",
-        "cantus_id": "https://cantusdatabase.org/id/001587"
+        "cantus_id": "https://cantusindex.org/id/001587"
     },
     {
         "@context": [
@@ -470,7 +470,7 @@
         "P136": "Responsory verse",
         "Q4484726": "C",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/601142a"
+        "cantus_id": "https://cantusindex.org/id/601142a"
     },
     {
         "@context": [
@@ -484,7 +484,7 @@
         "P136": "wd:Q604748",
         "Q4484726": "C",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/006931"
+        "cantus_id": "https://cantusindex.org/id/006931"
     },
     {
         "@context": [
@@ -499,7 +499,7 @@
         "Q731978": "wd:Q960729",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/002163"
+        "cantus_id": "https://cantusindex.org/id/002163"
     },
     {
         "@context": [
@@ -513,7 +513,7 @@
         "P136": "wd:Q604748",
         "Q4484726": "A",
         "source": "https://cantusdatabase.org/source/620437",
-        "cantus_id": "https://cantusdatabase.org/id/600442"
+        "cantus_id": "https://cantusindex.org/id/600442"
     },
     {
         "@context": [
@@ -528,7 +528,7 @@
         "Q731978": "wd:Q5959856",
         "Q4484726": "F",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/003964"
+        "cantus_id": "https://cantusindex.org/id/003964"
     },
     {
         "@context": [
@@ -543,7 +543,7 @@
         "Q731978": "wd:Q57976142",
         "Q4484726": "G",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/002328"
+        "cantus_id": "https://cantusindex.org/id/002328"
     },
     {
         "@context": [
@@ -558,7 +558,7 @@
         "Q731978": "wd:Q842766",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/669907",
-        "cantus_id": "https://cantusdatabase.org/id/001953"
+        "cantus_id": "https://cantusindex.org/id/001953"
     },
     {
         "@context": [
@@ -572,7 +572,7 @@
         "P136": "wd:Q582093",
         "Q4484726": "A",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/002551"
+        "cantus_id": "https://cantusindex.org/id/002551"
     },
     {
         "@context": [
@@ -587,7 +587,7 @@
         "Q731978": "wd:Q5959856",
         "Q4484726": "F",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/002409"
+        "cantus_id": "https://cantusindex.org/id/002409"
     },
     {
         "@context": [
@@ -602,7 +602,7 @@
         "Q731978": "wd:Q686115",
         "Q4484726": "F",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/601101"
+        "cantus_id": "https://cantusindex.org/id/601101"
     },
     {
         "@context": [
@@ -620,7 +620,7 @@
         "Q731978": "wd:Q1641387",
         "Q4484726": "E",
         "source": "https://cantusdatabase.org/source/669907",
-        "cantus_id": "https://cantusdatabase.org/id/g01026c"
+        "cantus_id": "https://cantusindex.org/id/g01026c"
     },
     {
         "@context": [
@@ -635,7 +635,7 @@
         "Q731978": "wd:Q57976142",
         "Q4484726": "G",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/007566"
+        "cantus_id": "https://cantusindex.org/id/007566"
     },
     {
         "@context": [
@@ -650,7 +650,7 @@
         "Q731978": "wd:Q57976142",
         "Q4484726": "G",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/003265"
+        "cantus_id": "https://cantusindex.org/id/003265"
     },
     {
         "@context": [
@@ -665,7 +665,7 @@
         "Q731978": "wd:Q321814",
         "Q4484726": "G",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/003285"
+        "cantus_id": "https://cantusindex.org/id/003285"
     },
     {
         "@context": [
@@ -679,7 +679,7 @@
         "P136": "wd:Q224377",
         "Q4484726": "C",
         "source": "https://cantusdatabase.org/source/638308",
-        "cantus_id": "https://cantusdatabase.org/id/g01049"
+        "cantus_id": "https://cantusindex.org/id/g01049"
     },
     {
         "@context": [
@@ -694,7 +694,7 @@
         "Q731978": "wd:Q960729",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/002676"
+        "cantus_id": "https://cantusindex.org/id/002676"
     },
     {
         "@context": [
@@ -709,7 +709,7 @@
         "Q731978": "wd:Q1342409",
         "Q4484726": "E",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/006454"
+        "cantus_id": "https://cantusindex.org/id/006454"
     },
     {
         "@context": [
@@ -724,7 +724,7 @@
         "Q731978": "wd:Q57976142",
         "Q4484726": "G",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/003515"
+        "cantus_id": "https://cantusindex.org/id/003515"
     },
     {
         "@context": [
@@ -741,7 +741,7 @@
         "P136": "Responsory verse",
         "Q4484726": "E",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/006393a"
+        "cantus_id": "https://cantusindex.org/id/006393a"
     },
     {
         "@context": [
@@ -756,6 +756,6 @@
         "Q731978": "wd:Q960729",
         "Q4484726": "D",
         "source": "https://cantusdatabase.org/source/123756",
-        "cantus_id": "https://cantusdatabase.org/id/002548"
+        "cantus_id": "https://cantusindex.org/id/002548"
     }
 ]
