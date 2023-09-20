@@ -6,7 +6,10 @@
             "@id": "cantusdb:source/",
             "@type": "@id"
         },
-        "cantus_id": "https://cantusdatabase.org/about/id-numbers/",
+        "cantus_id": {
+            "@id": "https://cantusdatabase.org/about/id-numbers/",
+            "@type": "@id"
+        },
         "src": "https://cantusdatabase.org/source/",
         "P86": {
             "@id": "wdt:P86",
