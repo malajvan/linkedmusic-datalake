@@ -36,6 +36,7 @@ for idx, url in enumerate(urls):
 
         # Parse the JSON-LD response
         jsonld_data = json.loads(output)
+        
 
         #add them all to a list
         jsonld_responses.append(jsonld_data) 
@@ -45,5 +46,5 @@ for idx, url in enumerate(urls):
         print(f"Error fetching JSON-LD from {url}: {e}")
 
 
-with open("data/initial_compact.jsonld", 'w', encoding='utf-8') as outfile:
+with open("data/chosen_compact.jsonld", 'w', encoding='utf-8') as outfile:
     json.dump(jsonld_responses, outfile, indent=2)

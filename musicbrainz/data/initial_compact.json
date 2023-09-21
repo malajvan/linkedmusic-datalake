@@ -1,5 +1,6 @@
 [
   {
+    "@id": "http://musicbrainz.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd",
     "recordLabel": {
       "@id": "http://musicbrainz.org/label/d476b74d-670d-44ab-be5c-2c17caea20a9",
       "name": "Philo",
@@ -175,8 +176,7 @@
     ],
     "creditedTo": "Johnny McGreevy & S\u00e9amus Cooley",
     "catalogNumber": "PH 2005",
-    "sameAs": "https://www.amazon.com/gp/product/B001RF74KG",
-    "@id": "http://musicbrainz.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd"
+    "sameAs": "https://www.amazon.com/gp/product/B001RF74KG"
   },
   {
     "hasReleaseRegion": [
