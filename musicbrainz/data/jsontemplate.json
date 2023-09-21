@@ -1,0 +1,357 @@
+{
+    "@id": {
+        {jsonize(cells[
+                "_ - @id"
+            ].value)
+        }
+    },
+    "@type": {
+        {jsonize(cells[
+                "_ - @type"
+            ].value)
+        }
+    },
+    "@context": {
+        {jsonize(cells[
+                "_ - @context"
+            ].value)
+        }
+    },
+    "name": {
+        {jsonize(cells[
+                "_ - name"
+            ].value)
+        }
+    },
+    "musicReleaseFormat": {
+        {jsonize(cells[
+                "_ - musicReleaseFormat"
+            ].value)
+        }
+    },
+    "creditedTo": {
+        {jsonize(cells[
+                "_ - creditedTo"
+            ].value)
+        }
+    },
+    "duration": {
+        {jsonize(cells[
+                "_ - duration"
+            ].value)
+        }
+    },
+    "catalogNumber": {
+        {jsonize(cells[
+                "_ - catalogNumber"
+            ].value)
+        }
+    },
+    "inLanguage": {
+        {jsonize(cells[
+                "_ - inLanguage"
+            ].value)
+        }
+    },
+    "sameAs": {
+        {jsonize(cells[
+                "_ - sameAs"
+            ].value)
+        }
+    },
+    "gtin14": {
+        {jsonize(cells[
+                "_ - gtin14"
+            ].value)
+        }
+    },
+    "track": [
+        {
+            "name": {
+                {jsonize(cells[
+                        "_ - track - _ - name"
+                    ].value)
+                }
+            },
+            "@id": {
+                {jsonize(cells[
+                        "_ - track - _ - @id"
+                    ].value)
+                }
+            },
+            "trackNumber": {
+                {jsonize(cells[
+                        "_ - track - _ - trackNumber"
+                    ].value)
+                }
+            },
+            "@type": {
+                {jsonize(cells[
+                        "_ - track - _ - @type"
+                    ].value)
+                }
+            },
+            "duration": {
+                {jsonize(cells[
+                        "_ - track - _ - duration"
+                    ].value)
+                }
+            },
+            "isrcCode": {
+                {jsonize(cells[
+                        "_ - track - _ - isrcCode"
+                    ].value)
+                }
+            },
+            "sameAs": {
+                {jsonize(cells[
+                        "_ - track - _ - sameAs"
+                    ].value)
+                }
+            },
+            "sameAs - sameAs": {
+                {jsonize(cells[
+                        "_ - track - _ - sameAs - sameAs"
+                    ].value)
+                }
+            },
+            "contributor": [
+                {
+                    "@type": {
+                        {jsonize(cells[
+                                "_ - track - _ - contributor - _ - @type"
+                            ].value)
+                        }
+                    },
+                    "roleName": {
+                        {jsonize(cells[
+                                "_ - track - _ - contributor - _ - roleName"
+                            ].value)
+                        }
+                    },
+                    "contributor": [
+                        {
+                            "@id": {
+                                {jsonize(cells[
+                                        "_ - track - _ - contributor - _ - contributor - @id"
+                                    ].value)
+                                }
+                            },
+                            "name": {
+                                {jsonize(cells[
+                                        "_ - track - _ - contributor - _ - contributor - name"
+                                    ].value)
+                                }
+                            },
+                            "@type": {
+                                {jsonize(cells[
+                                        "_ - track - _ - contributor - _ - contributor - @type"
+                                    ].value)
+                                }
+                            },
+                            "@type - @type": {
+                                {jsonize(cells[
+                                        "_ - track - _ - contributor - _ - contributor - @type - @type"
+                                    ].value)
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "producer": [
+                {
+                    "name": {
+                        {jsonize(cells[
+                                "_ - track - _ - producer - name"
+                            ].value)
+                        }
+                    },
+                    "@id": {
+                        {jsonize(cells[
+                                "_ - track - _ - producer - @id"
+                            ].value)
+                        }
+                    },
+                    "@type - @type": {
+                        {jsonize(cells[
+                                "_ - track - _ - producer - @type - @type"
+                            ].value)
+                        }
+                    },
+                    "_ - @id": {
+                        {jsonize(cells[
+                                "_ - track - _ - producer - _ - @id"
+                            ].value)
+                        }
+                    },
+                    "_ - name": {
+                        {jsonize(cells[
+                                "_ - track - _ - producer - _ - name"
+                            ].value)
+                        }
+                    },
+                    "_ - @type - @type": {
+                        {jsonize(cells[
+                                "_ - track - _ - producer - _ - @type - @type"
+                            ].value)
+                        }
+                    }
+                }
+            ],
+            "isrcCode - isrcCode": {
+                {jsonize(cells[
+                        "_ - track - _ - isrcCode - isrcCode"
+                    ].value)
+                }
+            }
+        }
+    ],
+    "image": [
+        {
+            "encodingFormat": {
+                {jsonize(cells[
+                        "_ - image - encodingFormat"
+                    ].value)
+                }
+            },
+            "representativeOfPage": {
+                {jsonize(cells[
+                        "_ - image - representativeOfPage"
+                    ].value)
+                }
+            },
+            "@type": {
+                {jsonize(cells[
+                        "_ - image - @type"
+                    ].value)
+                }
+            },
+            "contentUrl": {
+                {jsonize(cells[
+                        "_ - image - contentUrl"
+                    ].value)
+                }
+            },
+            "thumbnail": [
+                {
+                    "encodingFormat": {
+                        {jsonize(cells[
+                                "_ - image - thumbnail - _ - encodingFormat"
+                            ].value)
+                        }
+                    },
+                    "contentUrl": {
+                        {jsonize(cells[
+                                "_ - image - thumbnail - _ - contentUrl"
+                            ].value)
+                        }
+                    },
+                    "@type": {
+                        {jsonize(cells[
+                                "_ - image - thumbnail - _ - @type"
+                            ].value)
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "releaseOf": [
+        {
+            "creditedTo": {
+                {jsonize(cells[
+                        "_ - releaseOf - creditedTo"
+                    ].value)
+                }
+            },
+            "albumProductionType": {
+                {jsonize(cells[
+                        "_ - releaseOf - albumProductionType"
+                    ].value)
+                }
+            },
+            "@type": {
+                {jsonize(cells[
+                        "_ - releaseOf - @type"
+                    ].value)
+                }
+            },
+            "albumReleaseType": {
+                {jsonize(cells[
+                        "_ - releaseOf - albumReleaseType"
+                    ].value)
+                }
+            },
+            "@id": {
+                {jsonize(cells[
+                        "_ - releaseOf - @id"
+                    ].value)
+                }
+            },
+            "name": {
+                {jsonize(cells[
+                        "_ - releaseOf - name"
+                    ].value)
+                }
+            },
+            "byArtist": [
+                {
+                    "@id": {
+                        {jsonize(cells[
+                                "_ - releaseOf - byArtist - @id"
+                            ].value)
+                        }
+                    },
+                    "name": {
+                        {jsonize(cells[
+                                "_ - releaseOf - byArtist - name"
+                            ].value)
+                        }
+                    },
+                    "@type": {
+                        {jsonize(cells[
+                                "_ - releaseOf - byArtist - @type"
+                            ].value)
+                        }
+                    },
+                    "name": {
+                        {jsonize(cells[
+                                "_ - releaseOf - byArtist - _ - name"
+                            ].value)
+                        }
+                    },
+                    "@id": {
+                        {jsonize(cells[
+                                "_ - releaseOf - byArtist - _ - @id"
+                            ].value)
+                        }
+                    },
+                    "@type": {
+                        {jsonize(cells[
+                                "_ - releaseOf - byArtist - _ - @type"
+                            ].value)
+                        }
+                    },
+                    "@type - @type": {
+                        {jsonize(cells[
+                                "_ - releaseOf - byArtist - _ - @type - @type"
+                            ].value)
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "hasReleaseRegion": [
+        {
+            "releaseDate": {
+                {jsonize(cells[
+                        "_ - hasReleaseRegion - _ - releaseDate"
+                    ].value)
+                }
+            },
+            "@type": {
+                {jsonize(cells[
+                        "_ - hasReleaseRegion - _ - @type"
+                    ].
