@@ -2,6 +2,12 @@ import pandas as pd
 import json
 import re
 
+# add the path to your reconciled csv to produce the compact jsonld.
+# to change the context by :
+#       - replace the '@context' key below with another context in the url
+#       - make changes to the file 'context.jsonld' and make sure to push the 
+#         changes on the appropriate branch (make sure the link below match where you host the context)
+
 df = pd.read_csv('../reconciled_cantus_09202023.csv')
 json_data = df.to_json(orient='records')
 parsed_json = json.loads(json_data)
