@@ -2,7 +2,7 @@ import pandas as pd
 import json
 import re
 
-df = pd.read_csv('./short_rec.csv')
+df = pd.read_csv('../flattening/final_flattened.csv')
 json_data = df.to_json(orient='records')
 parsed_json = json.loads(json_data)
 # pretty_json = json.dumps(parsed_json, indent=4)

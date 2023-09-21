@@ -1,4 +1,9 @@
 # CantusDB flattening and json-ld structures
+
+> Summarize:    
+>   1. Reconcile the flattened csv dump
+>   2. With the output run `jsonld/generate_jsonld.py`(which also takes `jsonld/context.jsonld` as an input)
+
 I was provided with a csv file of 50 entries of CantusDB (see [here](https://github.com/malajvan/linkedmusic-datalake/blob/main/cantusdb/cantusdb_50_chants%20(1).csv))
 Since each lines represent a chant_id already, there was no need to flatten like simssadb. 
 
@@ -16,6 +21,3 @@ In [`generate_jsonld.py`](https://github.com/malajvan/linkedmusic-datalake/blob/
 - Generate the jsonld file at [`compact.jsonld`](https://github.com/malajvan/linkedmusic-datalake/blob/main/cantusdb/jsonld/compact.jsonld)
 - The contexts used in the compact.jsonld file is imported from [`context.jsonld`](https://github.com/malajvan/linkedmusic-datalake/blob/main/cantusdb/jsonld/context.jsonld)
 - Test jsonld and its contexts with PyLD. We use the file [`test.py`](https://github.com/malajvan/linkedmusic-datalake/blob/main/cantusdb/jsonld/test.py) to use PyLD's expand function to generate [`expanded.json`](https://github.com/malajvan/linkedmusic-datalake/blob/main/cantusdb/jsonld/expanded.json)
-## 3. Future Todos:
-1. Cleanup and standardize contexts. Document how contexts must be created for subsequent databases
-2. Revert the json-ld process: instead of creating a compact json-ld document and context, try creating an expanded json and use PyLD's compact function to create contexts. 

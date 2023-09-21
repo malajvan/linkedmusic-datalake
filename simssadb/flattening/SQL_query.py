@@ -2,6 +2,16 @@ import psycopg2
 import csv
 import re
 
+
+# steps:
+#   1. upload the simssadb dump to a local postgreSQL database called 'simssadb'.
+#   2. change db_params fields below as needed.
+#   3. Run the scripts, generate the flattened.csv file.
+#   Each row associates with a different file_id. File-to-work flattening happens after this, in the script restructure.py (with pandas)
+#   flattened.csv however has all the associated features of each file flattened.
+#   4. Reconcile the generated flattened.csv and run the script with restructure.py
+
+# Query main info from the database
 db_params = {
     'dbname': 'simssadb',
     'user': 'postgres',
@@ -62,6 +72,9 @@ conn = psycopg2.connect(**db_params)
 cur = conn.cursor()
 cur.execute(flattened_query)
 
+
+
+# START FEATURE FLATTENING
 # get distinct feature names:
 cur.execute("SELECT DISTINCT feature FROM flattened_view")
 feature_names = [row[0] for row in cur.fetchall()]
@@ -89,13 +102,13 @@ final_query = f"""
     FROM flattened_view 
     GROUP BY {flattened_column_names}
 """
-
-
 # run
 cur.execute(final_query)
 results = cur.fetchall()
 
-# Export data to TSV
+
+
+# Export data to CSV
 with open('flattened.csv', 'w') as f:
     writer = csv.writer(f)
     writer.writerow([col[0] for col in cur.description])

@@ -1,6 +1,14 @@
 import csv
 import pandas as pd
 
+# Note: This script is ran AFTER SQL_query.py script and AFTER reconciliation.
+# This script takes in a reconciled version of csv and:
+#  1. Filter for only the columns we're interested in
+#  2. Only get rows with COMPOSER as contributor (ignoring other type of contributors for now)
+#  3. Merge columns so that each row corresponds to a musical_work_id instead of file_id as previously
+#     Each file is now belong to a musical work
+
+
 df = pd.read_csv("../reconciled_WikiID.csv")
 # get only the columns we're interested in
 cols = ['musical_work_id','musical_work_variant_titles','contributor_role','contributor_full_name', 'genre_style', 'file_format','url_to_file', 'Last_Pitch_Class']
@@ -29,4 +37,4 @@ df2 = df2.reset_index()
 
 
 
-df2.to_csv('./short_rec.csv', index=False)
+df2.to_csv('./final_flattened.csv', index=False)
