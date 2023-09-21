@@ -1,8 +1,5 @@
-# LMDL
+# Linked Music Data Lake
 
-Linked Music Data Lake
+Pipeline to extract, clean, flatten, merge, and reconcile database data. You can find specifications and instructions for each database in the subdirectories, in `<database>_pipeline.md`.
 
-Van's personal fork for testing and keeping track of my progress, not for merging into linkedmusic datalake.
-I'm currently working on:
-- Expanding and fine-tuning the simssadb flattened file 
-- testing OpenRefine reconciliation and linking with wikidata ids
+Currently there is no central orchestration script for each database, as in you will have to run each scripts separately (up to 3-4 scripts per database, instructions in each subdirectory). This will be implemented as more automation is introduced in the data reconciliation step. 
