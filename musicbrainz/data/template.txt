@@ -23,16 +23,13 @@
       "@type" : {{jsonize(cells["_ - track - _ - contributor - _ - contributor - @type"].value)}},
       "@type" : {{jsonize(cells["_ - track - _ - contributor - _ - contributor - @type - @type"].value)}},
       "roleName" : {{jsonize(cells["_ - track - _ - contributor - _ - roleName - roleName"].value)}}
-}
 },
       "producer": {"name" : {{jsonize(cells["_ - track - _ - producer - name"].value)}},
       "@id" : {{jsonize(cells["_ - track - _ - producer - @id"].value)}},
       "@type" : {{jsonize(cells["_ - track - _ - producer - @type - @type"].value)}},
       "name" : {{jsonize(cells["_ - track - _ - producer - _ - name"].value)}},
       "@type" : {{jsonize(cells["_ - track - _ - producer - _ - @type - @type"].value)}}
-}
-
-},
+} },
       "image":{"encodingFormat" : {{jsonize(cells["_ - image - encodingFormat"].value)}},
       "representativeOfPage" : {{jsonize(cells["_ - image - representativeOfPage"].value)}},
       "@type" : {{jsonize(cells["_ - image - @type"].value)}},
