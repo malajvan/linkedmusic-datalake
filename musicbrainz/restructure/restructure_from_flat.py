@@ -36,22 +36,23 @@ for i in data:
                 if value != {}:
                     current_level[keys[-1]] = value
     grouped_data[nested_json.get('@id')].append(nested_json)
-
-merged_data = []
-for id_group in grouped_data.values():
-    merged_doc = {}
-    for doc in id_group:
-        for key, value in doc.items():
-            if key not in merged_doc:
-                # Key does not exist in merged_doc, add it
-                merged_doc[key] = value
-            elif merged_doc[key] != value:
-                # Key exists but with different values, convert to a list
-                if not isinstance(merged_doc[key], list):
-                    merged_doc[key] = [merged_doc[key]]
-                merged_doc[key].append(value)
-    merged_data.append(merged_doc)
-
+def merge(grouped_data):
+    merged_data = []
+    for id_group in grouped_data.values():
+        merged_doc = {}
+        for doc in id_group:
+            for key, value in doc.items():
+                if key not in merged_doc:
+                    # Key does not exist in merged_doc, add it
+                    merged_doc[key] = value
+                elif merged_doc[key] != value:
+                    # Key exists but with different values, convert to a list
+                    if not isinstance(merged_doc[key], list):
+                        merged_doc[key] = [merged_doc[key]]
+                    merged_doc[key].append(value)
+        merged_data.append(merged_doc)
+    return merged_data
+merged_data = merge(grouped_data)
 
 # Convert the nested JSON structure to a JSON string and write it to a file
 with open('restructure_from_flat.json', 'w') as file:
