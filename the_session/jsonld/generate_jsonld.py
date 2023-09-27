@@ -1,4 +1,8 @@
 import json
+import generate_naive_json
+
+#generate initial naive json
+generate_naive_json.generate_naive_json()
 
 doc = json.loads(open('tunes_naive.json',"r").read())
 
