@@ -10,22 +10,20 @@
             "@id": "https://cantusdatabase.org/about/id-numbers/",
             "@type": "@id"
         },
-        "src": "https://cantusdatabase.org/source/",
-        "P86": {
+        "composer": {
             "@id": "wdt:P86",
             "@type": "@id"
         },
-        "P214": "wdt:P214",
-        "P136": {
+        "genre": {
             "@id": "wdt:P136",
             "@type": "@id"
         },
-        "P1922": "wdt:P1922",
-        "Q731978": {
+        "incipit": "wdt:P1922",
+        "mode_name": {
             "@id": "wd:Q731978",
             "@type": "@id"
         },
-        "Q4484726": "wd:Q4484726",
+        "finalis": "wd:Q4484726",
         "database": {
             "@id": "https://schema.org/Dataset",
             "@type": "@id"
