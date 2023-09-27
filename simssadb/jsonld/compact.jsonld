@@ -1,3222 +1,3456 @@
 [
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Quanto pi\u00f9 desiar sento\u2019l mio core']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:1",
-        "P86": "wd:Q2920493",
-        "P1476": "['Quanto pi\u00f9 desiar sento\u2019l mio core']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/1",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/2",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/3",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/4",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Si \u00e8 debile el filo a cui s\u2019attiene']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:2",
-        "P86": "wd:Q2920493",
-        "P1476": "['Si \u00e8 debile el filo a cui s\u2019attiene']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/5",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/6",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/7",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/8",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['De perch\u00e9 in odio m\u2019hai']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:3",
-        "P86": "wd:Q2920493",
-        "P1476": "['De perch\u00e9 in odio m\u2019hai']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/10",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/11",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/12",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/9",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Son io donna qual mostri ogni tuo bene']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:4",
-        "P86": "wd:Q2920493",
-        "P1476": "['Son io donna qual mostri ogni tuo bene']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/13",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/14",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/15",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/16",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Son io donna (2) qual mostri ogni tuo bene']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:5",
-        "P86": "wd:Q2920493",
-        "P1476": "['Son io donna (2) qual mostri ogni tuo bene']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/17",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/18",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/19",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/20",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Nella stagion che\u2019l ciel rapido inchina']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:6",
-        "P86": "wd:Q2920493",
-        "P1476": "['Nella stagion che\u2019l ciel rapido inchina']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/21",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/22",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/23",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/24",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Donna bench\u00e9 di rado et con riguardo']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:7",
-        "P86": "wd:Q2920493",
-        "P1476": "['Donna bench\u00e9 di rado et con riguardo']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/25",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/26",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/27",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/28",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Amore amor quando io speravo']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:8",
-        "P86": "wd:Q2920493",
-        "P1476": "['Amore amor quando io speravo']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/29",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[4.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/30",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[4.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/31",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/32",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Amor se vuoi ch\u2019i torni al giogho anticho']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:9",
-        "P86": "wd:Q2920493",
-        "P1476": "['Amor se vuoi ch\u2019i torni al giogho anticho']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/33",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/34",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/35",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/36",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Perch\u00e9 donna non vuoi']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:10",
-        "P86": "wd:Q2920493",
-        "P1476": "['Perch\u00e9 donna non vuoi']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/37",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/38",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/39",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/40",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Chiare fresche et dolc\u2019acque']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:11",
-        "P86": "wd:Q2920493",
-        "P1476": "['Chiare fresche et dolc\u2019acque']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/41",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/42",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/43",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/44",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Che deggio far che mi consigli Amore? [2, Pisano, F&H]']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:12",
-        "P86": "wd:Q2920493",
-        "P1476": "['Che deggio far che mi consigli Amore? [2, Pisano, F&H]']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/45",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/46",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/47",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/48",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Giamai non veder gli occhi']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:13",
-        "P86": "wd:Q2920493",
-        "P1476": "['Giamai non veder gli occhi']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/49",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/50",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/51",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/52",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Chi della fede altrui piglia sospecto']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:14",
-        "P86": "wd:Q2920493",
-        "P1476": "['Chi della fede altrui piglia sospecto']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/53",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/54",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/55",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/56",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Cosi nel mio parlare voglio essere aspro']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:15",
-        "P86": "wd:Q2920493",
-        "P1476": "['Cosi nel mio parlare voglio essere aspro']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/57",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[4.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/58",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[4.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/59",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/60",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"Tanta piet\u00e0 cor mio talhor m'assale\"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:16",
-        "P86": "wd:Q2920493",
-        "P1476": "[\"Tanta piet\u00e0 cor mio talhor m'assale\"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/61",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/62",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/63",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/64",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"Nuova angioletta sovra l'ale accorta\"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:17",
-        "P86": "wd:Q2920493",
-        "P1476": "[\"Nuova angioletta sovra l'ale accorta\"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/65",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/66",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/67",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/68",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"Poich'io parti da cui partir non posso\"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:18",
-        "P86": "wd:Q2920493",
-        "P1476": "[\"Poich'io parti da cui partir non posso\"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/69",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/70",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/71",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/72",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Hor vedi Amore che giovinetta donna']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:19",
-        "P86": "wd:Q2920493",
-        "P1476": "['Hor vedi Amore che giovinetta donna']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q2920493",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/73",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/74",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/75",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/76",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Amor che mi tormenti']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:20",
-        "P86": "wd:Q7442579",
-        "P1476": "['Amor che mi tormenti']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q7442579",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/77",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/78",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/79",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/80",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Quando el suave mio fido conforto']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:21",
-        "P86": "wd:Q7442579",
-        "P1476": "['Quando el suave mio fido conforto']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q7442579",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/81",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/82",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/83",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/84",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Ben mi credea passar mio tempo homai']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:22",
-        "P86": "wd:Q7442579",
-        "P1476": "['Ben mi credea passar mio tempo homai']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q7442579",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/85",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/86",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/87",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/88",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"Amor se vuoi ch'io torni al giogho anticho\"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:23",
-        "P86": "wd:Q7442579",
-        "P1476": "[\"Amor se vuoi ch'io torni al giogho anticho\"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q7442579",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/89",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/90",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/91",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/92",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"Perch'ai viso d'amor portava insegnia\"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:24",
-        "P86": "wd:Q7442579",
-        "P1476": "[\"Perch'ai viso d'amor portava insegnia\"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q7442579",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/93",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/94",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/95",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/96",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['\u039f passi sparsi \u03bf pensier vaghi et pronti']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:25",
-        "P86": "wd:Q7442579",
-        "P1476": "['\u039f passi sparsi \u03bf pensier vaghi et pronti']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q7442579",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/100",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/97",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/98",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/99",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Amor quando fioriva mia speme']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:26",
-        "P86": "wd:Q7442579",
-        "P1476": "['Amor quando fioriva mia speme']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q7442579",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/101",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/102",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/103",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/104",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Quanta mai leggiadria, quanta beliate']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:27",
-        "P86": "wd:Q809518",
-        "P1476": "['Quanta mai leggiadria, quanta beliate']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q809518",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/105",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[4.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/106",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[4.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/107",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/108",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Fralle infelice vivo pi\u00f9 felice']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:28",
-        "P86": "wd:Q4233718",
-        "P1476": "['Fralle infelice vivo pi\u00f9 felice']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/109",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/110",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/111",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/112",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"S'il dixi mai ch'i vengha in odio a quella\"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:29",
-        "P86": "wd:Q4233718",
-        "P1476": "[\"S'il dixi mai ch'i vengha in odio a quella\"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/113",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/114",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/115",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/116",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"Quel foco ch'io pensai che fussi spento\"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:30",
-        "P86": "wd:Q4233718",
-        "P1476": "[\"Quel foco ch'io pensai che fussi spento\"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/117",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/118",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/119",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/120",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"So ben che lei non sa quanto chi l'amo\"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:31",
-        "P86": "wd:Q3856752",
-        "P1476": "[\"So ben che lei non sa quanto chi l'amo\"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q3856752",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/121",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/122",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/123",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/124",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Quando lo pomo vien da lo pomaro']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:32",
-        "P86": "wd:Q809518",
-        "P1476": "['Quando lo pomo vien da lo pomaro']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q809518",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/125",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/126",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/127",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/128",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['\u039f Dio che la brunetta mia']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:33",
-        "P86": "wd:Q3856752",
-        "P1476": "['\u039f Dio che la brunetta mia']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q3856752",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/129",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/130",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/131",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/132",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Hora \u00e8 di maggio']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:34",
-        "P86": "wd:Q316668",
-        "P1476": "['Hora \u00e8 di maggio']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q316668",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/133",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/134",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/135",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/136",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Che fa la ramanzina']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:35",
-        "P86": "wd:Q975576",
-        "P1476": "['Che fa la ramanzina']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q975576",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/137",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/138",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/139",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/140",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Che debbio far che mi consigli Amore? [3, Tromboncino, F&H]']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:36",
-        "P86": "wd:Q809518",
-        "P1476": "['Che debbio far che mi consigli Amore? [3, Tromboncino, F&H]']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q809518",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/141",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/142",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/143",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/144",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['La tortorella el semplice uccelletto']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:37",
-        "P86": "wd:Q311629",
-        "P1476": "['La tortorella el semplice uccelletto']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q311629",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/145",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/146",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/147",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/148",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Scaramella fa la guerra']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:38",
-        "P86": "wd:Q143100",
-        "P1476": "['Scaramella fa la guerra']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/149",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/150",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/151",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/152",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"[Zibaldone] C.: Fortuna disperata; \u0391.: Vidi la forosetta in un boschetto; T.: Voi m'havete svergogni\u00e9; B.: Fortuna - mangio biscotti\"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:39",
-        "P86": "wd:Q4233718",
-        "P1476": "[\"[Zibaldone] C.: Fortuna disperata; \u0391.: Vidi la forosetta in un boschetto; T.: Voi m'havete svergogni\u00e9; B.: Fortuna - mangio biscotti\"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/153",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/154",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/155",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/156",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"J'am pris amours; [Zibaldone] C., \u0391., T. Musicola B.: Ma buce rit\"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:40",
-        "P86": "wd:Q4233718",
-        "P1476": "[\"J'am pris amours; [Zibaldone] C., \u0391., T. Musicola B.: Ma buce rit\"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/157",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/158",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/159",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/160",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"[Zibaldone] C. : Donna tu pure invecchi \u0391.: Diventer\u00f2 zenzaro T.: Ogniun fughi et pigli scampo; B: Dall'armata delle dee\"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:41",
-        "P86": "wd:Q4233718",
-        "P1476": "[\"[Zibaldone] C. : Donna tu pure invecchi \u0391.: Diventer\u00f2 zenzaro T.: Ogniun fughi et pigli scampo; B: Dall'armata delle dee\"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/161",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/162",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/163",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/164",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Donne venite al ballo [T]']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:42",
-        "P86": "wd:Q3750431",
-        "P1476": "['Donne venite al ballo [T]']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q3750431",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/165",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/166",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/167",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/168",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Un cavalier di Spagnia [T]; Cavalcha per la via']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:43",
-        "P86": "wd:Q3750431",
-        "P1476": "['Un cavalier di Spagnia [T]; Cavalcha per la via']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q3750431",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/169",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/170",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/171",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/172",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"L'ultimo di di maggio [T]; Un bel mattino\"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:44",
-        "P86": "wd:Q7442579",
-        "P1476": "[\"L'ultimo di di maggio [T]; Un bel mattino\"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q7442579",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/173",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/174",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/175",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/176",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Vaghe le montanine pasturelle ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:45",
-        "P86": "wd:Q4233718",
-        "P1476": "['Vaghe le montanine pasturelle ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/177",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/178",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/179",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/180",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Solingho et vagho augello ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:46",
-        "P86": "wd:Q4233718",
-        "P1476": "['Solingho et vagho augello ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/181",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/182",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/183",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/184",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Entr\u00e9 je suis en gran pensier ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:47",
-        "P86": "wd:Q143100",
-        "P1476": "['Entr\u00e9 je suis en gran pensier ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/185",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/186",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/187",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/188",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Tant ravy suis en la bont\u00e9 ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:48",
-        "P86": "wd:Q4233718",
-        "P1476": "['Tant ravy suis en la bont\u00e9 ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/189",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/190",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/191",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/192",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Amoreuse mi fault estre ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:49",
-        "P86": "wd:Q4233718",
-        "P1476": "['Amoreuse mi fault estre ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/193",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/194",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/195",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/196",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Jouly mariner passe mon sene ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:50",
-        "P86": "wd:Q4233718",
-        "P1476": "['Jouly mariner passe mon sene ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/197",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/198",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/199",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/200",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"Notre chambrier sy malad'estet \"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:51",
-        "P86": "wd:Q7039099",
-        "P1476": "[\"Notre chambrier sy malad'estet \"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q7039099",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/201",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/202",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/203",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/204",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Impotent suis et affoll\u00e9 ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:52",
-        "P86": "wd:Q15973951",
-        "P1476": "['Impotent suis et affoll\u00e9 ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q15973951",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/205",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/206",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/207",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/208",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"Se j'ay perdu mon amy \"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:53",
-        "P86": "wd:Q143100",
-        "P1476": "[\"Se j'ay perdu mon amy \"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/209",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/210",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/211",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/212",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Et la la la la la la ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:54",
-        "P86": "wd:Q7039099",
-        "P1476": "['Et la la la la la la ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q7039099",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/213",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/214",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/215",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/216",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"En l'ombre da ung bepin \"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:55",
-        "P86": "wd:Q7039099",
-        "P1476": "[\"En l'ombre da ung bepin \"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q7039099",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/217",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/218",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/219",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/220",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Tr\u00e8s dolce filette ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:56",
-        "P86": "wd:Q4233718",
-        "P1476": "['Tr\u00e8s dolce filette ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/221",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/222",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/223",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/224",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Frapes petit coup ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:57",
-        "P86": "wd:Q15973951",
-        "P1476": "['Frapes petit coup ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q15973951",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/225",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/226",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/227",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/228",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Jacquet Jacquet ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:58",
-        "P86": "wd:Q15973951",
-        "P1476": "['Jacquet Jacquet ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q15973951",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/229",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/230",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/231",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/232",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"N'as tu poynct mys ton hault bounet \"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:59",
-        "P86": "wd:Q7039099",
-        "P1476": "[\"N'as tu poynct mys ton hault bounet \"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q7039099",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/233",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/234",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/235",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/236",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Adieu mes amours ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:60",
-        "P86": "wd:Q4233718",
-        "P1476": "['Adieu mes amours ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/237",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/238",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/239",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/240",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"Forseullement l'atente que je meure \"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:61",
-        "P86": "wd:Q4233718",
-        "P1476": "[\"Forseullement l'atente que je meure \"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/241",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/242",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[9.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/243",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/244",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Forseullement l\u2019atante que je meure ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:62",
-        "P86": "wd:Q289914",
-        "P1476": "['Forseullement l\u2019atante que je meure ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q289914",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/245",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/246",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/247",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/248",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"L'autre ior je cavacioye \"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:63",
-        "P86": "wd:Q975576",
-        "P1476": "[\"L'autre ior je cavacioye \"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q975576",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/249",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/250",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/251",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/252",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Gentil galans de fransa ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:64",
-        "P86": "wd:Q4233718",
-        "P1476": "['Gentil galans de fransa ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/253",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/254",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/255",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/256",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "[\"Je suis amie d'un forier \"]",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:65",
-        "P86": "wd:Q975576",
-        "P1476": "[\"Je suis amie d'un forier \"]",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q975576",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/257",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/258",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/259",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/260",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Alons fere nos barbes ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:66",
-        "P86": "wd:Q975576",
-        "P1476": "['Alons fere nos barbes ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q975576",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/261",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/262",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/263",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/264",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Voles ouir une sanson de chyons ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:67",
-        "P86": "wd:Q975576",
-        "P1476": "['Voles ouir une sanson de chyons ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q975576",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/265",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/266",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/267",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/268",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Plus nullez regretez ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:68",
-        "P86": "wd:Q143100",
-        "P1476": "['Plus nullez regretez ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/269",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/270",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/271",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/272",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Ille etet ung bon homme ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:69",
-        "P86": "wd:Q4233718",
-        "P1476": "['Ille etet ung bon homme ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/273",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/274",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/275",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/276",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Une playsant f\u00eclette ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:70",
-        "P86": "wd:Q975576",
-        "P1476": "['Une playsant f\u00eclette ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q975576",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/277",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/278",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/279",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/280",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['ludica me Deus ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:71",
-        "P86": "wd:Q4755693",
-        "P1476": "['ludica me Deus ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4755693",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/281",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/282",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/283",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/284",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Prophetarum maxime ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:72",
-        "P86": "wd:Q316668",
-        "P1476": "['Prophetarum maxime ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q316668",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/285",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/286",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/287",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/288",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Paratum cor meum Deus ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:73",
-        "P86": "wd:Q143100",
-        "P1476": "['Paratum cor meum Deus ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/289",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/290",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/291",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/292",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Spem in alium numquam habui ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:74",
-        "P86": "wd:Q4233718",
-        "P1476": "['Spem in alium numquam habui ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q4233718",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/293",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/294",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/295",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/296",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Regem confessorum dominum venite ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:75",
-        "P86": "wd:Q1660965",
-        "P1476": "['Regem confessorum dominum venite ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q1660965",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/297",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/298",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[5.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/299",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/300",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Bona vita bona refectio ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:76",
-        "P86": "wd:Q1660965",
-        "P1476": "['Bona vita bona refectio ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q1660965",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/301",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/302",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/303",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/304",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Alma redemptoris mater (C., B.) / Ave regina coelorum (\u0391., T.)']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:77",
-        "P86": "wd:Q143100",
-        "P1476": "['Alma redemptoris mater (C., B.) / Ave regina coelorum (\u0391., T.)']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/305",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/306",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/307",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/308",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Ave Maria gratia plena \u2026 virgo serena']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:78",
-        "P86": "wd:Q143100",
-        "P1476": "['Ave Maria gratia plena \u2026 virgo serena']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/309",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/310",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[0.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/311",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/312",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Miserere mei Deus ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:79",
-        "P86": "wd:Q1150781",
-        "P1476": "['Miserere mei Deus ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q1150781",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/313",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/314",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/315",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/316",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missus est angelus Gabriel ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:80",
-        "P86": "wd:Q143100",
-        "P1476": "['Missus est angelus Gabriel ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/317",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/318",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/319",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/320",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Felix namque es sacra Virgo Maria ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:81",
-        "P86": "wd:Q1660965",
-        "P1476": "['Felix namque es sacra Virgo Maria ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q1660965",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/321",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/322",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[7.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/323",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/324",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['\u039f bone et dulcis domine Yhesus ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:82",
-        "P86": "wd:Q143100",
-        "P1476": "['\u039f bone et dulcis domine Yhesus ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/325",
-                "P2701": "wd:Q2115",
+                "file_format": "wd:Q2115",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/326",
-                "P2701": "wd:Q10610388",
+                "file_format": "wd:Q10610388",
                 "Last_Pitch_Class": "[2.0]"
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/327",
-                "P2701": "wd:Q42332",
+                "file_format": "wd:Q42332",
                 "Last_Pitch_Class": null
             },
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/328",
-                "P2701": "wd:Q27967347",
+                "file_format": "wd:Q27967347",
                 "Last_Pitch_Class": null
             }
         ]
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa De feria']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:83",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa De feria']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Pascale']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:84",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa Pascale']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Sine nomine I']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:85",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa Sine nomine I']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa O salutaris hostia']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:86",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa O salutaris hostia']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa De sancta Anna']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:87",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa De sancta Anna']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa De sancto Antonio']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:88",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa De sancto Antonio']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa De virginibus']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:89",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa De virginibus']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa O gloriosa domina']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:90",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa O gloriosa domina']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Tandernaken']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:91",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa Tandernaken']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Sub tuum presidium']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:92",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa Sub tuum presidium']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa De sancto Job']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:93",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa De sancto Job']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Ave sanctissima Maria']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:94",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa Ave sanctissima Maria']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Incessament']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:95",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa Incessament']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa De septem doloribus']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:96",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa De septem doloribus']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Assumpta es Maria']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:97",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa Assumpta es Maria']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Inviolata']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:98",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa Inviolata']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Sancta dei genitrix']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:99",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa Sancta dei genitrix']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa L\u2019homme arm\u00e9  I']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:100",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa L\u2019homme arm\u00e9  I']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Ista est speciosa']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:101",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa Ista est speciosa']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Pro fidelibus defunctis']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:102",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa Pro fidelibus defunctis']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Tous les regretz']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:103",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa Tous les regretz']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Conceptio tua']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:104",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa Conceptio tua']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Almana']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:105",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa Almana']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Nunca fue pena mayor']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:106",
-        "P86": "wd:Q370540",
-        "P1476": "['Missa Nunca fue pena mayor']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q370540",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Gaudeamus']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:107",
-        "P86": "wd:Q143100",
-        "P1476": "['Missa Gaudeamus']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Sine nomine']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:108",
-        "P86": "wd:Q143100",
-        "P1476": "['Missa Sine nomine']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Pange lingua']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:109",
-        "P86": "wd:Q143100",
-        "P1476": "['Missa Pange lingua']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa De beata virgine']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:110",
-        "P86": "wd:Q143100",
-        "P1476": "['Missa De beata virgine']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Ave Maris stella']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:111",
-        "P86": "wd:Q143100",
-        "P1476": "['Missa Ave Maris stella']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa L\u2019homme arm\u00e9 sexti toni']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:112",
-        "P86": "wd:Q143100",
-        "P1476": "['Missa L\u2019homme arm\u00e9 sexti toni']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Malheur me bat']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:113",
-        "P86": "wd:Q143100",
-        "P1476": "['Missa Malheur me bat']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa L\u2019homme arm\u00e9 super voces musicales']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:114",
-        "P86": "wd:Q143100",
-        "P1476": "['Missa L\u2019homme arm\u00e9 super voces musicales']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa Hercules dux Ferrarie']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:115",
-        "P86": "wd:Q143100",
-        "P1476": "['Missa Hercules dux Ferrarie']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa La sol fa re mi']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:116",
-        "P86": "wd:Q143100",
-        "P1476": "['Missa La sol fa re mi']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": []
     },
     {
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
+        "musical_work_variant_titles": "['Missa De tous biens ']",
+        "@context": [
+            "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"
+        ],
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:117",
-        "P86": "wd:Q143100",
-        "P1476": "['Missa De tous biens ']",
-        "P136": "wd:Q4692",
+        "composer": "wd:Q143100",
+        "genre_style": "wd:Q4692",
         "files": []
     }
 ]
