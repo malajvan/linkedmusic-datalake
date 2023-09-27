@@ -6,6 +6,7 @@ generate_naive_json.generate_naive_json()
 
 doc = json.loads(open('naive.json',"r").read())
 
+
 #note that we did not reconcile the_session cells so we won't need to handle_rec_cols
 
 for rec in doc:
