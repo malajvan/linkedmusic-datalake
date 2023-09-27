@@ -85,7 +85,7 @@ def generate_naive_json():
 
 
     pretty_json = json.dumps(final_json, indent=4)
-    with open('tunes_naive.json', 'w') as json_file:
+    with open('naive.json', 'w') as json_file:
         json_file.write(pretty_json)
 
 
