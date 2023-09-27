@@ -3,13 +3,12 @@
         "simssadb": "https://db.simssa.ca/",
         "mw": "simssadb:musicalworks/",
         "simssadb_file": "simssadb:files/",
-        "P1476": "wdt:1476",
-        "P86": {
+        "musical_work_variant_titles": "wdt:1476",
+        "composer": {
             "@id": "wdt:P86",
             "@type": "@id"
         },
-        "P214": "wdt:P214",
-        "P136": {
+        "genre_style": {
             "@id": "wdt:P136",
             "@type": "@id"
         },
@@ -17,14 +16,13 @@
             "@id": "https://schema.org/Dataset",
             "@type": "@id"
         },
-        "P2701": {
+        "files": "simssadb_file",
+        "file_format": {
             "@id": "wdt:P2701",
             "@type": "@id"
         },
-        "P2699": "wdt:P2699",
-        "P5426": "wdt:P5426",
+
         "wd": "http://www.wikidata.org/entity/",
-        "wdt": "http://www.wikidata.org/prop/direct/",
-        "files": "simssadb_file"
+        "wdt": "http://www.wikidata.org/prop/direct/"
     }
 }
