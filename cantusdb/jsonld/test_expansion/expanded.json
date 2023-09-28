@@ -1,17 +1,83 @@
 [
   {
-    "@id": "https://cantusdatabase.org/chant/561262",
+    "@id": "https://cantusdatabase.org/chant/562072",
     "@type": [
       "http://www.wikidata.org/entity/Q23072435"
     ],
     "https://cantusdatabase.org/about/id-numbers/": [
       {
-        "@id": "https://cantusindex.org/id/002865"
+        "@id": "https://cantusindex.org/id/003515"
       }
     ],
     "http://www.wikidata.org/prop/direct/P86": [
       {
-        "@id": "http://www.wikidata.org/entity/Q4233718"
+        "@id": "http://www.wikidata.org/entity/Q4233718",
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "Anonymous"
+          }
+        ]
+      }
+    ],
+    "https://schema.org/Dataset": [
+      {
+        "@id": "https://cantusdatabase.org/"
+      }
+    ],
+    "http://www.wikidata.org/entity/Q4484726": [
+      {
+        "@value": "G"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q582093",
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "Antiphon"
+          }
+        ]
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1922": [
+      {
+        "@value": "Judica causam meam defende quia "
+      }
+    ],
+    "http://www.wikidata.org/entity/Q731978": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q57976142",
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "hypomixolydian"
+          }
+        ]
+      }
+    ],
+    "https://cantusdatabase.org/source/": [
+      {
+        "@id": "https://cantusdatabase.org/source/123756"
+      }
+    ]
+  },
+  {
+    "@id": "https://cantusdatabase.org/chant/560594",
+    "@type": [
+      "http://www.wikidata.org/entity/Q23072435"
+    ],
+    "https://cantusdatabase.org/about/id-numbers/": [
+      {
+        "@id": "https://cantusindex.org/id/006393a"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4233718",
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "Anonymous"
+          }
+        ]
       }
     ],
     "https://schema.org/Dataset": [
@@ -26,114 +92,17 @@
     ],
     "http://www.wikidata.org/prop/direct/P136": [
       {
-        "@id": "http://www.wikidata.org/entity/Q582093"
+        "@value": "Responsory verse"
       }
     ],
     "http://www.wikidata.org/prop/direct/P1922": [
       {
-        "@value": "Fidelia omnia mandata ejus confirmata "
-      }
-    ],
-    "http://www.wikidata.org/entity/Q731978": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q1641387"
+        "@value": "Ex Sion species decoris ejus "
       }
     ],
     "https://cantusdatabase.org/source/": [
       {
         "@id": "https://cantusdatabase.org/source/123756"
-      }
-    ]
-  },
-  {
-    "@id": "https://cantusdatabase.org/chant/562284",
-    "@type": [
-      "http://www.wikidata.org/entity/Q23072435"
-    ],
-    "https://cantusdatabase.org/about/id-numbers/": [
-      {
-        "@id": "https://cantusindex.org/id/003826"
-      }
-    ],
-    "http://www.wikidata.org/prop/direct/P86": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q4233718"
-      }
-    ],
-    "https://schema.org/Dataset": [
-      {
-        "@id": "https://cantusdatabase.org/"
-      }
-    ],
-    "http://www.wikidata.org/entity/Q4484726": [
-      {
-        "@value": "D"
-      }
-    ],
-    "http://www.wikidata.org/prop/direct/P136": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q582093"
-      }
-    ],
-    "http://www.wikidata.org/prop/direct/P1922": [
-      {
-        "@value": "Mulieres sedentes ad monumentum lamentabantur "
-      }
-    ],
-    "http://www.wikidata.org/entity/Q731978": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q960729"
-      }
-    ],
-    "https://cantusdatabase.org/source/": [
-      {
-        "@id": "https://cantusdatabase.org/source/123756"
-      }
-    ]
-  },
-  {
-    "@id": "https://cantusdatabase.org/chant/670160",
-    "@type": [
-      "http://www.wikidata.org/entity/Q23072435"
-    ],
-    "https://cantusdatabase.org/about/id-numbers/": [
-      {
-        "@id": "https://cantusindex.org/id/g02431j"
-      }
-    ],
-    "http://www.wikidata.org/prop/direct/P86": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q4233718"
-      }
-    ],
-    "https://schema.org/Dataset": [
-      {
-        "@id": "https://cantusdatabase.org/"
-      }
-    ],
-    "http://www.wikidata.org/entity/Q4484726": [
-      {
-        "@value": "D"
-      }
-    ],
-    "http://www.wikidata.org/prop/direct/P136": [
-      {
-        "@value": "Tract verse"
-      }
-    ],
-    "http://www.wikidata.org/prop/direct/P1922": [
-      {
-        "@value": "Verumtamen justi confitebuntur nomini tuo "
-      }
-    ],
-    "http://www.wikidata.org/entity/Q731978": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q842766"
-      }
-    ],
-    "https://cantusdatabase.org/source/": [
-      {
-        "@id": "https://cantusdatabase.org/source/669907"
       }
     ]
   }
