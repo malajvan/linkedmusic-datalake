@@ -17,7 +17,7 @@ json_keys = [
 ]
 
 # Create a nested list of dictionaries
-def handle_rec_col(work, val, key):
+def handle_rec_col(work, val, key, wID):
     if val is None:
         return None
     if re.match(r"^[Q]\d+", val ): #if cell was reconciled with wikidata
@@ -25,21 +25,23 @@ def handle_rec_col(work, val, key):
     if val[:8]=="https://" : #if cell was reconciled with another source
         return val
     else: #cell is value
-        work["@context"].append({key:f"wdt:{key}"}) # overwrite context
+        work["@context"].append({key:f"wdt:{wID}"}) # overwrite context
         return val
 
 
 for work in parsed_json:
-    work["@context"] = ["https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld"]
+    work["@context"] = ["https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"]
     work['database'] = 'simssadb:'
     work["@type"] = "wd:Q2188189"
     work["@id"] = f"mw:{work.pop('musical_work_id')}"
-    work["P86"] =  handle_rec_col(work,work.pop("contributor_full_name"),"P86")
+
     work.pop("contributor_viaf_id")
     work.pop("contributor_auth_url")
-    work["P1476"] = work.pop("musical_work_variant_titles")
+    
+    work["composer"] =  handle_rec_col(work,work.pop("contributor_full_name"),"composer","P86")
+    # work["P1476"] = work.pop("musical_work_variant_titles")
     # work["P136"] = f'wd:{work.pop("genre_style")}'
-    work["P136"] = handle_rec_col(work,work.pop("genre_style"), "P136")
+    work["genre_style"] = handle_rec_col(work,work.pop("genre_style"),"genre_style", "P136")
 
 
 
@@ -59,7 +61,7 @@ for work in parsed_json:
             "@type": "simssadb_file", 
             "@id": url,
             # 'P2701': f'wd:{file_format}',
-            "P2701": handle_rec_col(None,file_format,"P2701" ),
+            "file_format": handle_rec_col(None,file_format,'file_format',"P2701" ),
             'Last_Pitch_Class': last_pitch
         })
     work['files'] = nested_list
