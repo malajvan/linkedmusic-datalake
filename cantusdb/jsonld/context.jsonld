@@ -10,20 +10,12 @@
             "@id": "https://cantusdatabase.org/about/id-numbers/",
             "@type": "@id"
         },
-        "composer": {
-            "@id": "wdt:P86",
-            "@type": "@id"
-        },
-        "genre": {
-            "@id": "wdt:P136",
-            "@type": "@id"
-        },
+        "composer": "wdt:P86",
+        "genre": "wdt:P136",
         "incipit": "wdt:P1922",
-        "mode_name": {
-            "@id": "wd:Q731978",
-            "@type": "@id"
-        },
+        "mode_name": "wd:Q731978",
         "finalis": "wd:Q4484726",
+        "name": "wd:P2561",
         "database": {
             "@id": "https://schema.org/Dataset",
             "@type": "@id"
