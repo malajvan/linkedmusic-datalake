@@ -109,7 +109,7 @@ results = cur.fetchall()
 
 
 # Export data to CSV
-with open('final_flattened.csv', 'w') as f:
+with open('initial_flattened.csv', 'w') as f:
     writer = csv.writer(f)
     writer.writerow([col[0] for col in cur.description])
     writer.writerows(results)
