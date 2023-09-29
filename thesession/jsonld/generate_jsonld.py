@@ -13,8 +13,9 @@ for rec in doc:
     rec['@id'] = f"tunes:{rec.pop('tune_id')}"
     rec['@type'] = "wd:Q2188189" #musical_work
     rec['@context'] = "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/thesession/jsonld/context.json"
-
-
+    rec['tunes_type'] = {"@id":f"https://thesession.org/tunes/search?type={rec['tunes_type']}",
+                         "name": rec['tunes_type']}
+    
 
     # rec['P1476'] = rec.pop('tunes_name')
     
@@ -41,7 +42,7 @@ for rec in doc:
         for s in rec['settings']:
             s['@id'] = f"https://thesession.org/tunes/{rec['@id'].split(':')[1]}#setting{s.pop('tunes_setting_id')}"
             s['@type'] = "wd:Q113899068"
-            s['type'] = f"https://thesession.org/tunes/search?type={s.pop('tunes_type')}"
+           
             s['meter'] = s.pop('tunes_meter')
             s['mode'] = s.pop('tunes_mode')
             s['date'] = s.pop("tunes_date").replace(' ','T')

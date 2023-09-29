@@ -3,6 +3,7 @@
         "tune_id": 1,
         "popularity_tunebooks": 5279,
         "tunes_name": "Cooley's",
+        "tunes_type": "reel",
         "aliases_alias": "['Cooleys', 'Joe Cooley', \"Joe Cooley's\", \"Joe Cooley's Fancy\", 'Joe Cooleys', \"Luttrell's Pass\", 'Put The Cake In The Dresser', 'Put The Cake On The Dresser', 'Reaping The Rye', 'R\u00edl Na Tula\u00ed', 'Tulla, The']",
         "recordings": [
             {
@@ -1538,6 +1539,7 @@
         "tune_id": 2,
         "popularity_tunebooks": 1970,
         "tunes_name": "Bucks Of Oranmore, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Bucks Of Aranmore, The', 'Bucks Of Arranmore, The', 'Bucks Of Bohermore, The', 'Bucks Of Clare, The', 'Bucks Of Oran Mor, The', 'Bucks, The', 'Hearty Bucks Of Oranmore, The', 'Hearty Bucks, The']",
         "recordings": [
             {
@@ -3105,6 +3107,7 @@
         "tune_id": 3,
         "popularity_tunebooks": 388,
         "tunes_name": "Boil The Breakfast Early",
+        "tunes_type": "reel",
         "aliases_alias": "[\"Peadar's\", \"Pedar's\"]",
         "recordings": [
             {
@@ -3506,6 +3509,7 @@
         "tune_id": 4,
         "popularity_tunebooks": 627,
         "tunes_name": "Belfast, The",
+        "tunes_type": "hornpipe",
         "aliases_alias": "['Great Eastern', 'Great Western', 'Great Western Clog', 'Great Western Clog, The', 'Great Western Lancashire Clog', 'Great Western Lancashire Clog, The', \"Millicen's Favourite\", \"Millicent's\", \"Millicent's Favourite\", 'Royal Belfast', 'Royal Belfast, The', \"Sailor's Delight\", \"Sweep's\", \"Sweep's, The\", 'Sweeps, The', \"Van Dam's\"]",
         "recordings": [
             {
@@ -4011,6 +4015,7 @@
         "tune_id": 5,
         "popularity_tunebooks": 2751,
         "tunes_name": "Blarney Pilgrim, The",
+        "tunes_type": "jig",
         "aliases_alias": "[\"Dean Lloyd's Jig #1\", \"Jackson's Rambles\", 'Killoughery', 'Killoughery Jig No. 1']",
         "recordings": [
             {
@@ -4791,6 +4796,7 @@
         "tune_id": 6,
         "popularity_tunebooks": 399,
         "tunes_name": "This Is My Love, Do You Like Her?",
+        "tunes_type": "jig",
         "aliases_alias": "[\"Anthony Frawley's Favourite\", \"Anton A'Bhearnais\", \"Art O'Keeffe's\", \"Biddy Crowley's Ball\", 'Bonnie Wee Charlie', 'Bundle And Go', \"Con Curtin's Frolics\", \"Cronin's\", 'Culcrevie', 'I Found My Love In The Morning', 'I Lost My Love', 'I Lost My Love And I Care Not', 'I Love You Not And Care For You Not', \"Johnny Mick Dinny's\", 'Kiss The Maid Behind The Bar', 'Kiss The Maid Behind The Bier', 'Kiss The Maid Behind The Byre', \"McCusker's\", 'Mo Ghr\u00e1sa Ar Maidin', 'My Love In The Morning', 'Old Comrades', \"Patrick Kelly's Favourite\", 'Pussycat Up In A Plum Tree', 'Pussycat Up In The Plum Tree', 'Pussycat Up The Plum Tree', 'Pussycats Up In Plum Trees', 'Segmented, The', 'She Never Would Leave Me', 'She Would Never Leave Me', 'This Is My Love Do You Like Her?', 'This Is My Love, Do You Like Her', 'Tony Of The Gap', 'Up To See Grandma']",
         "recordings": [
             {
@@ -5602,6 +5608,7 @@
         "tune_id": 7,
         "popularity_tunebooks": 711,
         "tunes_name": "Bonaparte Crossing The Rhine",
+        "tunes_type": "march",
         "aliases_alias": "['Battle Call Of The Fianna', 'Battle Of Waterloo, The', 'Bonaparte Crossing The Alps', 'Bonaparte Crossing The Rockies', 'Bonaparte Crossing The Rocky Mountains', \"Bonaparte's\", \"Bonnie's\", 'Caledonian', 'Cead Su\u00ed Do Mhag Uidhir', 'Fare Thee Well Sweet Killaloe', 'Hot Asphalt', 'Johnny Get Up', 'Let Mr. Maguire Sit Down', 'Listowell', 'Mick Maguire', 'Mr Maguire', 'Mr. Maguire', 'Napolean Crossing The Alps', 'Old Cuckoo, The', 'Rohallion', 'Shermans Maech', 'Star Of Columbia, The', 'Sweet Killaloe']",
         "recordings": [
             {
@@ -6101,6 +6108,7 @@
         "tune_id": 8,
         "popularity_tunebooks": 3610,
         "tunes_name": "Banshee, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Bansee, The', 'Bean An Mull\u00f3ga Si\u00f3g', 'Bean Si, The', 'Bean Sidhe', \"James McMahon's\", \"James McMahon's #3\", 'Kilcavan Banks', 'Kilcavan Banks, The', \"MacMahon's\", \"McMahon's\", \"Miss McMahon's\", 'Moyasta Junction', 'Moyasta, The', 'Willing Hands']",
         "recordings": [
             {
@@ -6960,6 +6968,7 @@
         "tune_id": 9,
         "popularity_tunebooks": 3638,
         "tunes_name": "Banish Misfortune",
+        "tunes_type": "jig",
         "aliases_alias": "['Banished Misfortune', 'D\u00edbir Anachain', 'D\u00edbir M\u00ed-\u00c1dh', 'Horse Under The Stairs, The', 'Humours Of Mullinafauna, The', 'Little Bag Of Meal, The', \"Mammy's Horse Is Dying\", 'Mangled Badger, The', 'Ruaig An M\u00ed-\u00e1dh', 'Stoat That Ate Me Sandals, The', 'Whore Amongst The Nettles Roaring, The']",
         "recordings": [
             {
@@ -8029,6 +8038,7 @@
         "tune_id": 10,
         "popularity_tunebooks": 5059,
         "tunes_name": "Butterfly, The",
+        "tunes_type": "slip jig",
         "aliases_alias": "[\"Barney's Goat\", 'Bug, The', 'Butterfly Gig, The', 'Eitil Im', 'Fiona', 'Im Ag Eitilt', 'Kick The Peeler', 'Red Admiral Butterfly, The', 'Red Monarch Butterfly, The']",
         "recordings": [
             {
@@ -9034,6 +9044,7 @@
         "tune_id": 11,
         "popularity_tunebooks": 926,
         "tunes_name": "Boys Of Malin, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Boys Of Mallin, The', 'Boys Of Mallow, The', \"Karen Logan's\"]",
         "recordings": [
             {
@@ -9738,6 +9749,7 @@
         "tune_id": 12,
         "popularity_tunebooks": 2181,
         "tunes_name": "Cliffs Of Moher, The",
+        "tunes_type": "jig",
         "aliases_alias": "['Cliffs Of Mohir, The']",
         "recordings": [
             {
@@ -10826,6 +10838,7 @@
         "tune_id": 13,
         "popularity_tunebooks": 904,
         "tunes_name": "Chief O'Neill's Favourite",
+        "tunes_type": "hornpipe",
         "aliases_alias": "[\"Chief O'Neil's\", \"Chief O'Neil's Favourite\", \"Chief O'Neill's\", \"Chief O'Neill's Fancy\", \"Chief O'Neill's Favorite\", 'Flowers Of Ardigne', \"Francis O'Neill's Favourite\", \"O'Neill's\", \"True Lovers', The\"]",
         "recordings": [
             {
@@ -11575,6 +11588,7 @@
         "tune_id": 14,
         "popularity_tunebooks": 233,
         "tunes_name": "Cuil Aodha, The",
+        "tunes_type": "slide",
         "aliases_alias": "[\"Connie Walsh's\", 'Trip To The Jacks, The']",
         "recordings": [
             {
@@ -11860,6 +11874,7 @@
         "tune_id": 15,
         "popularity_tunebooks": 2138,
         "tunes_name": "Calliope House",
+        "tunes_type": "jig",
         "aliases_alias": "['Calico House', 'Caliope House', 'Calliope Horse', 'Kaliope House', \"Richardson's\"]",
         "recordings": [
             {
@@ -12642,6 +12657,7 @@
         "tune_id": 16,
         "popularity_tunebooks": 620,
         "tunes_name": "Clumsy Lover, The",
+        "tunes_type": "reel",
         "recordings": [
             {
                 "recordings_id": 2593,
@@ -12972,6 +12988,7 @@
         "tune_id": 17,
         "popularity_tunebooks": 785,
         "tunes_name": "Coleraine, The",
+        "tunes_type": "jig",
         "aliases_alias": "['Colairne', \"Coleraine's\", 'Colerane, The', 'Colraine', 'Colraine, The', 'Corelaine', 'Kitty Of Coleraine']",
         "recordings": [
             {
@@ -13345,6 +13362,7 @@
         "tune_id": 18,
         "popularity_tunebooks": 1154,
         "tunes_name": "Concertina, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Farting Badger, The', \"Miko Russel's\", 'Old Concertina, The']",
         "recordings": [
             {
@@ -13904,6 +13922,7 @@
         "tune_id": 19,
         "popularity_tunebooks": 2884,
         "tunes_name": "Connaughtman's Rambles, The",
+        "tunes_type": "jig",
         "aliases_alias": "['Bean Ag Baint Duileasc', \"Connacht Man's Rambles, The\", \"Connachtman's Rambles, The\", \"Connachtmann's Rambles, The\", \"Connaght Man's Rambles\", \"Connaught Man's Ramble, The\", \"Connaught Man's Rambles, The\", 'Connaughtman Rambles, The', \"Connaughtman's\", \"Connaughtman's Ramble\", \"Connaughtman's Ramble, The\", \"Connaughtman's Rambles, The\", 'Duck From Drummock, The', 'Gathering Dilisk', 'Mickey The Moulder', \"Mooney's\"]",
         "recordings": [
             {
@@ -15520,6 +15539,7 @@
         "tune_id": 20,
         "popularity_tunebooks": 2067,
         "tunes_name": "Cup Of Tea, The",
+        "tunes_type": "reel",
         "aliases_alias": "['An Cup\u00e1n Sughtrom\u00e1in', 'An Cup\u00e1n Tae', \"Cup O' Tea, The\", 'Cup Of Overdrawn Tea, The', 'Sweet Cup Of Tea', 'Unfortunate Cup Of Tea, The']",
         "recordings": [
             {
@@ -16332,6 +16352,7 @@
         "tune_id": 21,
         "popularity_tunebooks": 1386,
         "tunes_name": "Castle Kelly",
+        "tunes_type": "reel",
         "aliases_alias": "['Caisle\u00e1n U\u00ed Cheallaigh', \"Castle Kelly's\", 'Castlekelly', \"Jimmy's Folly\", \"Kelly's Castle\"]",
         "recordings": [
             {
@@ -17380,6 +17401,7 @@
         "tune_id": 22,
         "popularity_tunebooks": 69,
         "tunes_name": "Dancing Dog, The",
+        "tunes_type": "slide",
         "recordings": [
             {
                 "recordings_id": 3512,
@@ -17412,6 +17434,7 @@
         "tune_id": 23,
         "popularity_tunebooks": 633,
         "tunes_name": "Dingle Regatta, The",
+        "tunes_type": "slide",
         "aliases_alias": "['Gar\u00e7on Volage', \"Slattery's Grove\"]",
         "recordings": [
             {
@@ -17702,6 +17725,7 @@
         "tune_id": 24,
         "popularity_tunebooks": 836,
         "tunes_name": "Dinkey's",
+        "tunes_type": "reel",
         "aliases_alias": "[\"Dinkey Dorian's\", \"Dinkey Dorrian's\", \"Dinkie Dorian's\", 'Dinkie Dorrian', \"Dinkie Dorrian's\", \"Dinkie's\", 'Dinkies', \"Dinky Dolan's\", \"Dinky Dorrian's\", \"Dinky's\"]",
         "recordings": [
             {
@@ -18300,6 +18324,7 @@
         "tune_id": 26,
         "popularity_tunebooks": 1259,
         "tunes_name": "Donnybrook Fair",
+        "tunes_type": "jig",
         "aliases_alias": "['An Carbhat', \"Andy Keone's\", 'Aonach Domhnach Broc', 'Aonach Domhnach Brocach', 'Caravat, The', 'Humours Of Donnybrook, The', 'Joy Of My Life, The', 'Joys Of Life, The', 'Joys Of Love, The', 'Joys Of My Life', 'Joys Of My Life, The', \"Kiss Me I'm Irish\", 'Lutgair Mo Beata', 'Our Little Green Isle', 'River Cree, The']",
         "recordings": [
             {
@@ -18961,6 +18986,7 @@
         "tune_id": 27,
         "popularity_tunebooks": 6411,
         "tunes_name": "Drowsy Maggie",
+        "tunes_type": "reel",
         "aliases_alias": "['Drowsey Maggie', 'Drowsie Maggie', 'Drowsy Maggy', 'Maggie Drowsy', 'Maggie Tuirseach', \"Maggie's Drowsy\"]",
         "recordings": [
             {
@@ -20569,6 +20595,7 @@
         "tune_id": 28,
         "popularity_tunebooks": 317,
         "tunes_name": "Dusty Miller, The",
+        "tunes_type": "slip jig",
         "aliases_alias": "[\"Benny's Jig\", 'Dusty Millar, The', \"Johnny Docherty's\", 'Top The Candle']",
         "recordings": [
             {
@@ -20977,6 +21004,7 @@
         "tune_id": 29,
         "popularity_tunebooks": 1506,
         "tunes_name": "Dusty Windowsills",
+        "tunes_type": "jig",
         "aliases_alias": "['Austin Barratts', \"Austin Barrett's\", 'Blasket Sound, The', 'Chicago, The', 'Dust On The Windowsills', 'Dusty Windmill, The', 'Dusty Windowsill, The', 'Dusty Windowsills, The', 'Grandfather, The', \"Harding's\", \"Harling's\", 'Hiccup, The', \"John Harling's\", \"Johnny Harling's\", 'Nancy Harling', \"Tim Harding's\", 'Trip To The Highlands, The', 'Whiskey For Breakfast']",
         "recordings": [
             {
@@ -21598,6 +21626,7 @@
         "tune_id": 30,
         "popularity_tunebooks": 2052,
         "tunes_name": "Off To California",
+        "tunes_type": "hornpipe",
         "aliases_alias": "['Bound For California', \"Fireman's\", \"Fireman's Reel\", \"Fireman's Reel, The\", \"Fireman's, The\", 'Going To California', 'Humours Of California, The', 'Imtigte Go California', 'Juggler, The', \"Miss Johnson's\", 'Off The California', 'Portsmouth Hornipe, The', 'Trip To California', 'Whiskey', 'Whiskey, The']",
         "recordings": [
             {
@@ -22328,6 +22357,7 @@
         "tune_id": 31,
         "popularity_tunebooks": 299,
         "tunes_name": "Franc A'Phoill",
+        "tunes_type": "jig",
         "aliases_alias": "[\"Frainc A Phoill's\", \"Frainc A'Phoill\", \"Frainc A'Phoill's\", 'Frainc An Phoill', \"Francis Faughey's Favourite\", 'Frank Of The Hollow', 'King Of The Pipers', 'King Of The Pipers, The', \"Walkin', The\"]",
         "recordings": [
             {
@@ -22672,6 +22702,7 @@
         "tune_id": 32,
         "popularity_tunebooks": 194,
         "tunes_name": "Friendly Visit, The",
+        "tunes_type": "hornpipe",
         "aliases_alias": "['A Friendly Visit', \"Callana's Retreat\", \"Callanan's Retreat\", \"Smith's Favourite\", 'Tom Has Gone To The Fair', 'Whittle Dean', 'Whittle Dene', 'Wittle Dean']",
         "recordings": [
             {
@@ -23172,6 +23203,7 @@
         "tune_id": 33,
         "popularity_tunebooks": 1454,
         "tunes_name": "Farewell To Ireland",
+        "tunes_type": "reel",
         "aliases_alias": "['Farewell To \u00c9ire', 'Farewell To Eirinn', 'Farewell To Erin', 'Goodbye To Ireland', 'Sl\u00e1n Le H\u00c9ireann', 'Slan Le HEirinn']",
         "recordings": [
             {
@@ -23992,6 +24024,7 @@
         "tune_id": 34,
         "popularity_tunebooks": 790,
         "tunes_name": "Frieze Breeches, The",
+        "tunes_type": "jig",
         "aliases_alias": "['Connla', 'Cunla', \"Friar's Breeches, The\", \"Friar's Britches, The\", 'Friars Britches', 'Frieze Breetches, The', 'Frieze Britches, The', \"Fry's Britches\", \"Gallagher's\", \"La San Sean, Ba Chraite An Mhaidin I'\", 'Old Frieze Britches, The']",
         "recordings": [
             {
@@ -24974,6 +25007,7 @@
         "tune_id": 35,
         "popularity_tunebooks": 1333,
         "tunes_name": "Jig Of Slurs, The",
+        "tunes_type": "jig",
         "aliases_alias": "[\"Jig O' Slurs, The\"]",
         "recordings": [
             {
@@ -25512,6 +25546,7 @@
         "tune_id": 36,
         "popularity_tunebooks": 873,
         "tunes_name": "Golden Keyboard, The",
+        "tunes_type": "reel",
         "aliases_alias": "['An M\u00e9archl\u00e1r \u00d3rga', 'Golden Headboard, The']",
         "recordings": [
             {
@@ -26022,6 +26057,7 @@
         "tune_id": 37,
         "popularity_tunebooks": 604,
         "tunes_name": "Gold Ring, The",
+        "tunes_type": "jig",
         "aliases_alias": "['An F\u00e1inne \u00d3ir', 'An F\u00e1inne \u00d3r', 'An Faire', 'Fainne Oir', 'Golden Ring, The']",
         "recordings": [
             {
@@ -26823,6 +26859,7 @@
         "tune_id": 38,
         "popularity_tunebooks": 663,
         "tunes_name": "Galway, The",
+        "tunes_type": "hornpipe",
         "aliases_alias": "['Bald Headed Bachelor, The', 'Cornph\u00edopa Na Gaillimhe', \"Dan Lowry's\", \"McDermott's\", \"McDermott's No.1\"]",
         "recordings": [
             {
@@ -27531,6 +27568,7 @@
         "tune_id": 39,
         "popularity_tunebooks": 1452,
         "tunes_name": "Kerry, The",
+        "tunes_type": "polka",
         "aliases_alias": "[\"Daly's\", 'East Limerick', 'Easy Limerick, The', \"Egan's\", 'Egans', \"John Egan's\", \"Peg Ryan's\"]",
         "recordings": [
             {
@@ -28017,6 +28055,7 @@
         "tune_id": 40,
         "popularity_tunebooks": 461,
         "tunes_name": "Guns Of The Magnificent Seven, The",
+        "tunes_type": "reel",
         "aliases_alias": "[\"Fintan McManus's\", 'Guns, The', 'Return Of The Magnificent Seven']",
         "recordings": [
             {
@@ -28273,6 +28312,7 @@
         "tune_id": 41,
         "popularity_tunebooks": 627,
         "tunes_name": "Green Groves Of Erin, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Green Groves, The', 'Ned Falveys']",
         "recordings": [
             {
@@ -28891,6 +28931,7 @@
         "tune_id": 42,
         "popularity_tunebooks": 2597,
         "tunes_name": "Gravel Walks, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Asphalt Walk', \"Barty's Choice\", \"Grannie's Gravel Walks\", 'Gravel Path To Granny', \"Gravel Path To Granny's, The\", 'Gravel Walk', \"Gravel Walk To Grania's, The\", \"Gravel Walk To Granny's, The\", 'Gravel Walk, The', 'Gravel Walk, The', 'Gravel Walks To Granie, The', 'Gravel Walks To Grannie', 'Gravel Walks To Grannie, The', 'Gravelwalk', 'Gravelwalks, The', 'Na Cos\u00e1in Ghriothail', \"Walk To Grania's\"]",
         "recordings": [
             {
@@ -29815,6 +29856,7 @@
         "tune_id": 43,
         "popularity_tunebooks": 1261,
         "tunes_name": "Geese In The Bog, The",
+        "tunes_type": "jig",
         "aliases_alias": "['Geese In The Bogs, The', 'Humours Of Ballinafad, The', \"Ken Fahey's\", 'Na G\u00e9anna Sa Phortach', 'Old Geese In The Bog, The']",
         "recordings": [
             {
@@ -30733,6 +30775,7 @@
         "tune_id": 44,
         "popularity_tunebooks": 989,
         "tunes_name": "High, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Alexander Duff', 'An R\u00edl Ard', 'An T-\u00c1rd R\u00edl', '\u00c1rdcor', '\u00c1rdr\u00edl', \"Dr MacKinnon's\", 'Duffy The Dancer', 'Gauger, The', 'Sandy Duff']",
         "recordings": [
             {
@@ -31465,6 +31508,7 @@
         "tune_id": 45,
         "popularity_tunebooks": 1147,
         "tunes_name": "Humours Of Glendart, The",
+        "tunes_type": "jig",
         "aliases_alias": "['Cashel, The', \"Curraig Diamuid Do'n Capall Beg\", 'Custom House, The', 'Darby Gallagher', \"Darby Gallagher's\", 'East At Glendart', 'East Of Glendart', 'East To Glendart', \"Finley's\", 'Housemaid, The', 'Humors Of Glendart, The', \"Humours O' Glendart, The\", 'Humours Of Glen, The', 'Humours Of Glendarth, The', 'Humours Of Glentart, The', 'Shins Around The Fire', 'Shins Around The Fireside', 'S\u00fagradh Ghleann Dairte', 'Tim The Piper']",
         "recordings": [
             {
@@ -32330,6 +32374,7 @@
         "tune_id": 46,
         "popularity_tunebooks": 619,
         "tunes_name": "Humours Of Whiskey, The",
+        "tunes_type": "slip jig",
         "aliases_alias": "['Humours Of Whisky, The', 'Phuktiphanno', 'Plearacha Na Ceise']",
         "recordings": [
             {
@@ -32762,6 +32807,7 @@
         "tune_id": 47,
         "popularity_tunebooks": 319,
         "tunes_name": "Humours Of Westport, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Because He Was A Bonny Lad', 'Col McBain', 'Humors Of Westport, The', \"Maguinnis' Delight\", \"McBand's\", 'Milestone At The Garden, The', \"Tom Billy's\"]",
         "recordings": [
             {
@@ -33299,6 +33345,7 @@
         "tune_id": 48,
         "popularity_tunebooks": 895,
         "tunes_name": "Hardiman The Fiddler",
+        "tunes_type": "slip jig",
         "aliases_alias": "['Heart Of A Loaf, The', 'Poit\u00edn Whiskey', 'Pottien Whiskey']",
         "recordings": [
             {
@@ -34213,6 +34260,7 @@
         "tune_id": 49,
         "popularity_tunebooks": 2681,
         "tunes_name": "Harvest Home, The",
+        "tunes_type": "hornpipe",
         "aliases_alias": "['Cincinatti', 'Cincinnati', 'Cork', 'Cork, The', 'Harvest Homes', 'Harvest Time']",
         "recordings": [
             {
@@ -35285,6 +35333,7 @@
         "tune_id": 50,
         "popularity_tunebooks": 622,
         "tunes_name": "Jackie Coleman's",
+        "tunes_type": "reel",
         "aliases_alias": "[\"Farmer Moroney's\", \"Jackie Coleman's #1\"]",
         "recordings": [
             {
@@ -35953,6 +36002,7 @@
         "tune_id": 51,
         "popularity_tunebooks": 87,
         "tunes_name": "Johnny Boyle's",
+        "tunes_type": "jig",
         "recordings": [
             {
                 "recordings_id": 4,
@@ -36048,6 +36098,7 @@
         "tune_id": 52,
         "popularity_tunebooks": 2658,
         "tunes_name": "Kid On The Mountain, The",
+        "tunes_type": "slip jig",
         "aliases_alias": "['Bogadh Faoi Sh\u00fasa', 'Bugga Fee Hoosa', 'Kid Of The Mountain, The', 'Kid On A Mountain, The']",
         "recordings": [
             {
@@ -37049,6 +37100,7 @@
         "tune_id": 53,
         "popularity_tunebooks": 965,
         "tunes_name": "O'Keeffe's",
+        "tunes_type": "slide",
         "aliases_alias": "[\"Dan O'Keefe's\", \"Dan O'Keeffe's\", \"Dan O'Ryarke's\", \"Danny Ab O'Keefe's\", \"Danny Ab's\", \"Danny Ab's No. 1\", \"Denis O'Keefe's\", 'Kerry Slide No. 2', 'Knocknaboul', \"O'Keefe's\", \"Padraig O'Keefe's Slides No. 1\"]",
         "recordings": [
             {
@@ -37370,6 +37422,7 @@
         "tune_id": 54,
         "popularity_tunebooks": 492,
         "tunes_name": "King Of The Pipers",
+        "tunes_type": "jig",
         "aliases_alias": "['King Of Pipers, The', 'King Of The Pipers, The', 'King Of The Pipes', 'King Of The Pipes, The', 'Ri Na Bpiobairi', 'Turlough McSweeney']",
         "recordings": [
             {
@@ -37822,6 +37875,7 @@
         "tune_id": 55,
         "popularity_tunebooks": 6031,
         "tunes_name": "Kesh, The",
+        "tunes_type": "jig",
         "aliases_alias": "['Castle', 'Castle, The', \"Conrad's Lament\", \"Conrad's Trip To The Bog\", \"Kerrigan's\", 'Kesh Mountain, The', 'Kincora, The', \"Mountaineers' March, The\"]",
         "recordings": [
             {
@@ -38927,6 +38981,7 @@
         "tune_id": 56,
         "popularity_tunebooks": 1053,
         "tunes_name": "Old Favourite, The",
+        "tunes_type": "jig",
         "aliases_alias": "['Clare, The', 'Club C\u00e9ili', \"Keane's Delight\", 'Kilfenora Sexy, The', 'Kilfenora, The', \"Miko Doyle's\", 'Old Favorite, The', 'Spanish Schottische No.2', 'West Clare, The']",
         "recordings": [
             {
@@ -39495,6 +39550,7 @@
         "tune_id": 57,
         "popularity_tunebooks": 280,
         "tunes_name": "Old John's",
+        "tunes_type": "jig",
         "aliases_alias": "['Port Shean She\u00e1in', 'Port Shean tSe\u00e1in']",
         "recordings": [
             {
@@ -39715,6 +39771,7 @@
         "tune_id": 58,
         "popularity_tunebooks": 766,
         "tunes_name": "Lads Of Laois, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Gearrbhoda\u00ed Laoise', 'Lads Of Laoise', 'Lads Of Laoise, The', 'Lads Of Leith, The', 'Lord Of Laois, The', 'Sic A Wife As I Hae Gotten', \"Sir Adam Ferguson's\"]",
         "recordings": [
             {
@@ -40392,6 +40449,7 @@
         "tune_id": 59,
         "popularity_tunebooks": 589,
         "tunes_name": "Lady Anne Montgomery",
+        "tunes_type": "reel",
         "aliases_alias": "['Lady Ann Montgomery', \"Lady Anne Montgomery's\", \"Lady Anne'\", \"Lady Anne's\", 'Lady Montgomery']",
         "recordings": [
             {
@@ -41082,6 +41140,7 @@
         "tune_id": 60,
         "popularity_tunebooks": 2400,
         "tunes_name": "Lilting Banshee, The",
+        "tunes_type": "jig",
         "aliases_alias": "['Ballinasloe Fair', \"Banshee's Lament, The\", \"Bobby Casey's\", \"Butcher's March, The\", \"Fallon's\", 'Glanmire Miller, The', \"John Conroy's\", 'Killaloe Boat, The', 'Miller Of Glanmire, The', 'Moyasta Junction', 'Moyasta, The', 'Paddy In London', \"Rita Keane's\", \"Ryan's\", \"Ryan's Favourite\", 'Sligo, The', 'Wail Of The Banshee, The', 'Wailing Banshee, The']",
         "recordings": [
             {
@@ -41850,6 +41909,7 @@
         "tune_id": 61,
         "popularity_tunebooks": 668,
         "tunes_name": "Langstrom's Pony",
+        "tunes_type": "jig",
         "aliases_alias": "['Cuir Diallaid Air An Clibin', 'Langstern Pony', 'Langstern Pony, The', \"Langstern's Pony\", 'Langstrom Pony, The', \"Langstrom's Pony\", 'Langstrome Pony', 'Langstroms Pony', \"Langstron's Pony\", 'Lanxtrum', 'Lastrumpony', 'Saddle The Pony', 'Treasure Cave']",
         "recordings": [
             {
@@ -42400,6 +42460,7 @@
         "tune_id": 62,
         "popularity_tunebooks": 2366,
         "tunes_name": "Lark In The Morning, The",
+        "tunes_type": "jig",
         "aliases_alias": "['A Western Lilt', 'Fuiseog Ar Maidin', \"Ha'penny Bridge\", \"Ha'penny Bridge, The\", 'Humours Of Mullingar, The', 'Kelso Races']",
         "recordings": [
             {
@@ -43501,6 +43562,7 @@
         "tune_id": 63,
         "popularity_tunebooks": 683,
         "tunes_name": "Last Night's Fun",
+        "tunes_type": "reel",
         "aliases_alias": "[\"Joe Cooley's No. 1\", \"Killoran's Reels\", \"Last Night's Fun\", 'Last Nights Fun', 'Scl\u00e9ip Na HO\u00edche Ar\u00e9ir']",
         "recordings": [
             {
@@ -44282,6 +44344,7 @@
         "tune_id": 64,
         "popularity_tunebooks": 3778,
         "tunes_name": "Maid Behind The Bar, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Barmaid, The', 'Freastala\u00ed Laistiar Cuntar', 'Freastala\u00ed Laistiar \u1e0den \u01e5Cuntar', 'Haymaker, The', \"Indy's Favorite\", 'Kiss The Maid Behind The Bar', 'Little Judy', \"Little Judy's\", 'New York']",
         "recordings": [
             {
@@ -45743,6 +45806,7 @@
         "tune_id": 65,
         "popularity_tunebooks": 232,
         "tunes_name": "Sporting Molly",
+        "tunes_type": "reel",
         "aliases_alias": "[\"Jackdaw's Nest, The\", 'Maud Millar', 'Maud Miller', \"Maud Miller's\", \"Maude Millar's\", \"Maude Miller's\", \"Old Maud Miller's\", 'Sporting Mall', 'Sporting Moll']",
         "recordings": [
             {
@@ -45938,6 +46002,7 @@
         "tune_id": 66,
         "popularity_tunebooks": 435,
         "tunes_name": "Mulqueeney's",
+        "tunes_type": "reel",
         "aliases_alias": "['Free And Easy', \"Kenny's Favourite\", 'Kerry Lasses', \"Mulqueen's\", \"Mulqueeny's\", 'Spindle Shanks', \"Spindle's Shank, The\"]",
         "recordings": [
             {
@@ -46474,6 +46539,7 @@
         "tune_id": 67,
         "popularity_tunebooks": 1589,
         "tunes_name": "Monaghan, The",
+        "tunes_type": "jig",
         "aliases_alias": "['Clay Pipe', 'Clay Pipe, The', 'Cock Up Your Chin Billy', \"Coleman's\", \"Monaghan's\", 'Monahan', \"Monahan's\", 'Port Mhuineach\u00e1in']",
         "recordings": [
             {
@@ -47470,6 +47536,7 @@
         "tune_id": 68,
         "popularity_tunebooks": 2312,
         "tunes_name": "Mountain Road, The",
+        "tunes_type": "reel",
         "recordings": [
             {
                 "recordings_id": 6955,
@@ -48792,6 +48859,7 @@
         "tune_id": 69,
         "popularity_tunebooks": 1984,
         "tunes_name": "Morning Dew, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Dr\u00facht Na Maidne', 'Giorria Sa BhFraoch', 'Hare Among The Heather, The', 'Hare In The Heather, The', 'Sundew']",
         "recordings": [
             {
@@ -50283,6 +50351,7 @@
         "tune_id": 70,
         "popularity_tunebooks": 1532,
         "tunes_name": "Merrily Kissed The Quaker",
+        "tunes_type": "slide",
         "aliases_alias": "['Humours Of Last Night, The', 'Kiss The Crater', \"Kiss The Quaker's Wife\", \"Merrily Danc'd The Quaker's Wife\", \"Merrily Danced The Quaker's Wife\", 'Merrily Danced The Quakers Wife', 'Merrily Kiss The Quaker', \"Merrily Kiss The Quaker's Wife\", \"Merrily Kissed The Quaker's Daughter\", \"Merrily Kissed The Quaker's Wife\", 'Quaker, The', \"Quaker's Wife, The\"]",
         "recordings": [
             {
@@ -51049,6 +51118,7 @@
         "tune_id": 71,
         "popularity_tunebooks": 4700,
         "tunes_name": "Morrison's",
+        "tunes_type": "jig",
         "aliases_alias": "[\"Jim Morrison's\", \"Lyon's Favourite\", \"Maurice Carmody's Favourite\", \"Maurice Carmondy's Favourite\", \"Morrison's Aaron\", \"Morrison's Comedy\", \"Morrison's No. 1\", \"Paddy Stack's Fancy\", 'Port Ui Mhuirgheasa', 'Stick Across The Hob', 'Stick Across The Hob, The', 'Stick On The Hob, The', \"Tom Carmondy's Favourite\"]",
         "recordings": [
             {
@@ -52255,6 +52325,7 @@
         "tune_id": 72,
         "popularity_tunebooks": 2067,
         "tunes_name": "Merry Blacksmith, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Blackened Smith, The', 'Boys Of The Lake, The', 'Corkonian, The', \"Drayman's Round, The\", 'Music Of The Forge', 'Paddy On The Railroad', \"Peeler's Cap, The\", 'Sleigh Ride']",
         "recordings": [
             {
@@ -53184,6 +53255,7 @@
         "tune_id": 73,
         "popularity_tunebooks": 2911,
         "tunes_name": "Musical Priest, The",
+        "tunes_type": "reel",
         "aliases_alias": "['An Sagart Ceolmhar', 'New Bridge Of Eden, The', 'New Bridge Of Erin, The']",
         "recordings": [
             {
@@ -54440,6 +54512,7 @@
         "tune_id": 74,
         "popularity_tunebooks": 2438,
         "tunes_name": "Mason's Apron, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Braes Of Glenorchy', 'Lady Carbury', 'Lowrie Tarrell', 'Mason Apron', 'Mason Laddie', \"Mason's Apprentice, The\", \"Mason's Cap\", 'Masons Apron']",
         "recordings": [
             {
@@ -56291,6 +56364,7 @@
         "tune_id": 75,
         "popularity_tunebooks": 1798,
         "tunes_name": "Miss McLeod's",
+        "tunes_type": "reel",
         "aliases_alias": "['Did You Ever Meet The Devil, Uncle Joe?', 'Have You Ever Seen The Devil, Uncle Joe?', 'Hop High Ladies', 'In\u00edon Mhic Le\u00f3id', \"McCleod's\", \"McCloud's\", \"McLeod's\", 'Miss MacLeod', 'Miss McCleod', \"Miss McCleod's\", 'Miss McCloud', \"Miss McCloud's\", 'Miss McLeod', \"Miss McLeod's\", 'Mrs MacLeod Of Raasay', \"Mrs Mc Leod's\", 'Mrs Mcleod Of Raasay', \"Mrs McLeod's\", 'Mrs McLeods', \"Mrs. MacLeod's\", 'Mrs. Mc Cloud', 'Mrs. McCloud', \"Mrs. McCloud's\", 'Mrs. McClouds', 'Mrs. McLeod', 'Mrs. McLeod Of Rasay', \"Mrs. McLeod's\", 'Mrs. McLeods', \"Ms McCloud's\", \"Ms. McLeod's\", \"Uncle Joe's\"]",
         "recordings": [
             {
@@ -58166,6 +58240,7 @@
         "tune_id": 76,
         "popularity_tunebooks": 1731,
         "tunes_name": "My Darling Asleep",
+        "tunes_type": "jig",
         "aliases_alias": "[\"Mummer's, The\", \"Mummers', The\", \"My Darling's A Sheep\", \"My Darling's Asleep\", 'Weverdans']",
         "recordings": [
             {
@@ -58835,6 +58910,7 @@
         "tune_id": 77,
         "popularity_tunebooks": 822,
         "tunes_name": "My Love Is In America",
+        "tunes_type": "reel",
         "aliases_alias": "['Dandy Apron, The', \"Jenny Hind's\", 'My Love Is In America Highland Fling', 'My Love Is In Amerikay', \"My Love She's In America\"]",
         "recordings": [
             {
@@ -59631,6 +59707,7 @@
         "tune_id": 78,
         "popularity_tunebooks": 183,
         "tunes_name": "Eonach Mhic Coil\u00edn",
+        "tunes_type": "reel",
         "aliases_alias": "['Anna Maculeen', 'Anna MaCullen', 'Annamaculeen', \"Donaghue's\", 'Down The Meadows', \"Kevin Henry's\", 'Lacarrow', 'Laccaroe, The', 'Old Ashplant, The', 'Tyrone Ashplant, The']",
         "recordings": [
             {
@@ -59906,6 +59983,7 @@
         "tune_id": 79,
         "popularity_tunebooks": 583,
         "tunes_name": "Paddy Ryan's Dream",
+        "tunes_type": "reel",
         "aliases_alias": "['Aisling Ph\u00e1id\u00edn U\u00ed Riain', 'Miss Grant Of Laggan', 'Miss Lyall', \"Miss Lyall's\", 'Miss Lyle', \"Miss Lyle's\", \"Mooney's\", \"Mooney's Favourite\", \"O Cuinneagain's Downfall\"]",
         "recordings": [
             {
@@ -60832,6 +60910,7 @@
         "tune_id": 80,
         "popularity_tunebooks": 367,
         "tunes_name": "Pigtown Fling, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Buck Creek Girls', \"Goin' Up Caney\", \"Kelton's\", 'Old Dad', \"Pappy Looney's\", 'Pig Town', 'Pig Town Fling', 'Pigtown', 'Pigtown Highland Fling, The', 'Pigtown, The', 'Pilltown, The', 'Stoney Point', 'Wild Horse', 'Wild Horses At Stoney Point']",
         "recordings": [
             {
@@ -61149,6 +61228,7 @@
         "tune_id": 81,
         "popularity_tunebooks": 947,
         "tunes_name": "Pipe On The Hob, The",
+        "tunes_type": "jig",
         "aliases_alias": "['Pipe In The Hob, The', 'Pipe On The Hob No. 2, The', 'Piper Of The Embers, The', 'Piper On The Hob, The', 'Pipes On The Hob, The']",
         "recordings": [
             {
@@ -62041,6 +62121,7 @@
         "tune_id": 82,
         "popularity_tunebooks": 570,
         "tunes_name": "Pride Of Petravore, The",
+        "tunes_type": "hornpipe",
         "aliases_alias": "['Eibhl\u00edn \u00d3g', 'Eileen Og', 'Eileen Oge', 'Eileen Ogg', 'Eileen Oige', 'Molly At The Fair', 'Shamrock Barndance, The']",
         "recordings": [
             {
@@ -62387,6 +62468,7 @@
         "tune_id": 83,
         "popularity_tunebooks": 2827,
         "tunes_name": "Rights Of Man, The",
+        "tunes_type": "hornpipe",
         "aliases_alias": "['High Could Cat', 'Right Of Man, The']",
         "recordings": [
             {
@@ -63498,6 +63580,7 @@
         "tune_id": 84,
         "popularity_tunebooks": 1031,
         "tunes_name": "Rakes Of Kildare, The",
+        "tunes_type": "jig",
         "aliases_alias": "['Barn Door, The', 'Barndoor, The', 'Cum Y \u00e7henn Oanrey \u00e7heh', 'Cum Yn \u00c7henn Oanrey \u00c7heh', 'Cum Yn Shenn Oanrey Cheh', 'Fagamaoid S\u00fad Mar At\u00e1 S\u00e9', 'Galbally Farmer, The', 'Get Up Early', \"Jim McBride's\", 'Leave That As It Is', 'Let Us Leave That As It Is', \"McBride's\", 'Old Barn Door, The', 'Old Barndoor, The', 'Race Of Kildare, The', 'Rake Of Kildare, The', 'Rakes Of Kildare Retreat March, The']",
         "recordings": [
             {
@@ -64215,6 +64298,7 @@
         "tune_id": 85,
         "popularity_tunebooks": 823,
         "tunes_name": "Rakes Of Mallow, The",
+        "tunes_type": "polka",
         "aliases_alias": "['Balls Up', 'Galway Piper', 'High Could Cap', 'Jolly Sailor', 'La Pitoune', 'Lhigey, Lhigey', 'Mallow Fling', 'Na Racairide Ua Mag-Ealla', 'Notre Dame University Fight Song', 'Piping Tim Of Galway', 'Rakes Of London, The', 'Rakes Of Mall, The', 'Rakes Of Malta, The', 'Rakes Of Marlow, The', 'Rakes Of Mellow, The', \"Rigs O' Marlow, The\", 'Rigs Of Marlow, The', 'Romping Molly', \"Tim's Reel\", \"Wee Girls' Sevens\", 'What A Bloody Balls Up']",
         "recordings": [
             {
@@ -64664,6 +64748,7 @@
         "tune_id": 86,
         "popularity_tunebooks": 1358,
         "tunes_name": "Rakish Paddy",
+        "tunes_type": "reel",
         "aliases_alias": "['Cabar Feidh', 'Cabar Feigh', 'Caber Feidh', 'Caber Feigh', 'Caberfeidh', \"Deer's Antlers, The\", 'Fainne Gail An Lae', \"O'Halloran's\", 'P\u00e1draic R\u00e9ice', 'Rakish Pat']",
         "recordings": [
             {
@@ -66276,6 +66361,7 @@
         "tune_id": 87,
         "popularity_tunebooks": 1277,
         "tunes_name": "Rolling In The Ryegrass",
+        "tunes_type": "reel",
         "aliases_alias": "['Kitty Lies Over', \"Lady's Top Dress, The\", \"Piper's Lass, The\", 'Roll Her In The Rye Grass', 'Roll Her In The Rye-grass', 'Roll Her In The Ryegrass', \"Rollin' In The Rye Grass\", 'Rolling In The Rye Grass', 'Rolling In The Ryegrass Highland Fling', 'Rolling On The Rye Grass', 'Rolling On The Ryegrass', 'Shannon Breeze', 'Shannon Breeze, The', 'Shannon Breezes, The', 'What Ails You']",
         "recordings": [
             {
@@ -67127,6 +67213,7 @@
         "tune_id": 88,
         "popularity_tunebooks": 1282,
         "tunes_name": "Rolling Waves, The",
+        "tunes_type": "jig",
         "aliases_alias": "['Humours Of Trim, The', 'Rolling Wave, The']",
         "recordings": [
             {
@@ -67859,6 +67946,7 @@
         "tune_id": 89,
         "popularity_tunebooks": 1230,
         "tunes_name": "Rambling Pitchfork, The",
+        "tunes_type": "jig",
         "aliases_alias": "['An P\u00edce Ar F\u00e1n', \"Baxter's\", 'Clar-claigean An Monca\u00ed', 'Cl\u00e1r-Cloigeann An Monca\u00ed', \"Farmer's Frolic, The\", \"Fisherman's Widow, The\", \"Ramblin' Pitchfork\", \"Roland's Return\", 'Rollicking Dandy, The']",
         "recordings": [
             {
@@ -68959,6 +69047,7 @@
         "tune_id": 90,
         "popularity_tunebooks": 432,
         "tunes_name": "O'Rourke's",
+        "tunes_type": "reel",
         "aliases_alias": "[\"O'Keefe's\", \"Rogue's\", 'Westport Chorus, The', 'Wild Irishman, The']",
         "recordings": [
             {
@@ -69570,6 +69659,7 @@
         "tune_id": 91,
         "popularity_tunebooks": 978,
         "tunes_name": "Roaring Barmaid, The",
+        "tunes_type": "jig",
         "aliases_alias": "[\"Mrs. Oswald's Favourite\", 'Roarin Barmaid, The', 'Roaring Bar Maid, The', \"Tony O'Sullivan's\"]",
         "recordings": [
             {
@@ -69956,6 +70046,7 @@
         "tune_id": 92,
         "popularity_tunebooks": 1959,
         "tunes_name": "Irish Washerwoman, The",
+        "tunes_type": "jig",
         "aliases_alias": "['An Bhean N\u00edoch\u00e1in \u00c9ireannach', 'Corporal Casey', 'Do Virgins Taste Better?', 'Irish Woman, The', 'Wash Woman, The', 'Washing Woman, The']",
         "recordings": [
             {
@@ -70906,6 +70997,7 @@
         "tune_id": 93,
         "popularity_tunebooks": 752,
         "tunes_name": "Cock And The Hen, The",
+        "tunes_type": "slip jig",
         "aliases_alias": "[\"Cathal McConnell's\", 'Cock And Hen', \"Dennis Ryan's\", \"Joe Ryan's\", \"Keane's Favourite\", \"Ryan's\"]",
         "recordings": [
             {
@@ -71376,6 +71468,7 @@
         "tune_id": 94,
         "popularity_tunebooks": 657,
         "tunes_name": "Scholar, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Poor Scholar', 'Poor Scholar, The', 'Scolair, The', 'South Shore, The']",
         "recordings": [
             {
@@ -72113,6 +72206,7 @@
         "tune_id": 95,
         "popularity_tunebooks": 287,
         "tunes_name": "Scarce O' Tatties",
+        "tunes_type": "jig",
         "aliases_alias": "[\"A Scarce O'Tatties\", \"Cion A'Bhuntata\", \"Scarce O' Tatties\", \"Scarce O'Tatties\", 'Scarce Of Tatties', 'Tatties Are Scarce']",
         "recordings": [
             {
@@ -72363,6 +72457,7 @@
         "tune_id": 96,
         "popularity_tunebooks": 412,
         "tunes_name": "Scotch Mary",
+        "tunes_type": "reel",
         "aliases_alias": "['Abbey', 'Abbey, The', 'Baile Na Finne', 'Dimen Dru Deelish', 'Fintown, The', 'Ireland Green', 'Irish Molly', 'Knocknagoe', 'Knocknagow', 'Knocknagow, The', \"Mary O' Wisp\", 'My Love Is Far Away', 'Rosses Highland Fling, The', 'Rosses Highland, The', \"Scotch Mary's\", 'Scots Mary', \"Tom Keane's\"]",
         "recordings": [
             {
@@ -73166,6 +73261,7 @@
         "tune_id": 97,
         "popularity_tunebooks": 347,
         "tunes_name": "Shetland Fiddler, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Shetland Fiddlers, The']",
         "recordings": [
             {
@@ -73459,6 +73555,7 @@
         "tune_id": 98,
         "popularity_tunebooks": 2478,
         "tunes_name": "Sally Gardens, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Na Gaird\u00edn\u00ed Saileacha', 'N\u00e1 Garranta Sail\u00ed', 'Salley Gardens, The', 'Sally Garden, The', \"Sally Garden's\", \"Sally Gardner's\", \"Sally's Garden\"]",
         "recordings": [
             {
@@ -74835,6 +74932,7 @@
         "tune_id": 99,
         "popularity_tunebooks": 1122,
         "tunes_name": "Salamanca, The",
+        "tunes_type": "reel",
         "aliases_alias": "['Salamanco, The', 'Salamango, The']",
         "recordings": [
             {
@@ -75659,6 +75757,7 @@
         "tune_id": 101,
         "popularity_tunebooks": 723,
         "tunes_name": "Smash The Windows",
+        "tunes_type": "jig",
         "aliases_alias": "['Roaring Jelly', 'Smash The Window']",
         "recordings": [
             {
@@ -76110,6 +76209,7 @@
         "tune_id": 102,
         "popularity_tunebooks": 143,
         "tunes_name": "Colonel McBain",
+        "tunes_type": "reel",
         "aliases_alias": "['Brian Boru', \"Captain MacBean's\", \"Captain McBane's\", 'Col McBain', \"Dan Sullivan's\", 'Devonshire, The', 'Duke Of Clarence, The', 'General McBean', 'John Frank', \"Johnny's Wedding\", 'Sean Frank', \"Sean Frank's\", 'Smoky House, The', 'Sporting Mollie']",
         "recordings": [
             {

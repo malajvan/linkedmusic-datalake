@@ -18,7 +18,7 @@
         "mode": "wdt:P826",
 
         "settings": "wdt:P9533",
-        
+        "name": "wd:P2561",
         
         "username": "wdt:P50", 
         "date": {
