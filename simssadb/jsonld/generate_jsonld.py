@@ -2,7 +2,7 @@ import pandas as pd
 import json
 import re
 
-df = pd.read_csv('../flattening/final_flattened.csv')
+df = pd.read_csv('../reconciled_WikiID.csv')
 json_data = df.to_json(orient='records')
 parsed_json = json.loads(json_data)
 # pretty_json = json.dumps(parsed_json, indent=4)
@@ -12,36 +12,37 @@ parsed_json = json.loads(json_data)
 
 json_keys = [
     "file_format_1", "file_format_2", "file_format_3", "file_format_4",
+    "file_format_1_@id", "file_format_2_@id", "file_format_3_@id", "file_format_4_@id",
     "url_to_file_1", "url_to_file_2", "url_to_file_3", "url_to_file_4",
     "Last_Pitch_Class_1", "Last_Pitch_Class_2", "Last_Pitch_Class_3", "Last_Pitch_Class_4"
 ]
 
 # Create a nested list of dictionaries
-def handle_rec_col(work, val, key, wID):
+def handle_rec_col(work,key):
+    val = work.pop(key)
+    wID = work.pop(f'{key}_@id')
     if val is None:
         return None
-    if re.match(r"^[Q]\d+", val ): #if cell was reconciled with wikidata
-        return f"wd:{val}"
+    if re.match(r"^[Q]\d+", wID ): #if cell was reconciled with wikidata
+        # work["@context"].append({key:f"wdt:{name_wID}"}) # overwrite context
+        return {"@id":f"wd:{wID}",
+                "name":val}
+        
     if val[:8]=="https://" : #if cell was reconciled with another source
-        return val
+        return {"@id": val}
     else: #cell is value
-        work["@context"].append({key:f"wdt:{wID}"}) # overwrite context
+        # work["@context"].append({key:f"wdt:{wID}"}) # overwrite context
         return val
 
 
 for work in parsed_json:
-    work["@context"] = ["https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/simssadb/jsonld/context.jsonld"]
+    work["@context"] = "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/add_original_content/simssadb/jsonld/context.jsonld"
     work['database'] = 'simssadb:'
     work["@type"] = "wd:Q2188189"
     work["@id"] = f"mw:{work.pop('musical_work_id')}"
-
-    work.pop("contributor_viaf_id")
-    work.pop("contributor_auth_url")
     
-    work["composer"] =  handle_rec_col(work,work.pop("contributor_full_name"),"composer","P86")
-    # work["P1476"] = work.pop("musical_work_variant_titles")
-    # work["P136"] = f'wd:{work.pop("genre_style")}'
-    work["genre_style"] = handle_rec_col(work,work.pop("genre_style"),"genre_style", "P136")
+    work["composer"] =  handle_rec_col(work,"composer")
+    work["genre_style"] = handle_rec_col(work,"genre_style")
 
 
 
@@ -61,7 +62,7 @@ for work in parsed_json:
             "@type": "simssadb_file", 
             "@id": url,
             # 'P2701': f'wd:{file_format}',
-            "file_format": handle_rec_col(None,file_format,'file_format',"P2701" ),
+            "file_format": handle_rec_col({"file_format": file_format, "file_format_@id":work[f'file_format_{i}_@id']},'file_format'),
             'Last_Pitch_Class': last_pitch
         })
     work['files'] = nested_list

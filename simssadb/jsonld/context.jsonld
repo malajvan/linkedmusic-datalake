@@ -4,23 +4,16 @@
         "mw": "simssadb:musicalworks/",
         "simssadb_file": "simssadb:files/",
         "musical_work_variant_titles": "wdt:1476",
-        "composer": {
-            "@id": "wdt:P86",
-            "@type": "@id"
-        },
-        "genre_style": {
-            "@id": "wdt:P136",
-            "@type": "@id"
-        },
+        "composer": "wdt:P86",
+        "genre_style": "wdt:P136",
+
         "database": {
             "@id": "https://schema.org/Dataset",
             "@type": "@id"
         },
         "files": "simssadb_file",
-        "file_format": {
-            "@id": "wdt:P2701",
-            "@type": "@id"
-        },
+        "file_format": "wdt:P2701",
+        "name": "wd:P2561",
 
         "wd": "http://www.wikidata.org/entity/",
         "wdt": "http://www.wikidata.org/prop/direct/"

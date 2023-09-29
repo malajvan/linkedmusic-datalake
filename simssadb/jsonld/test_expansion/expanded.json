@@ -1,12 +1,17 @@
 [
   {
-    "@id": "https://db.simssa.ca/musicalworks/25",
+    "@id": "https://db.simssa.ca/musicalworks/78",
     "@type": [
       "http://www.wikidata.org/entity/Q2188189"
     ],
     "http://www.wikidata.org/prop/direct/P86": [
       {
-        "@id": "http://www.wikidata.org/entity/Q7442579"
+        "@id": "http://www.wikidata.org/entity/Q143100",
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "des Prez Josquin"
+          }
+        ]
       }
     ],
     "https://schema.org/Dataset": [
@@ -16,130 +21,83 @@
     ],
     "https://db.simssa.ca/files/": [
       {
-        "@id": "https://db.simssa.ca/files/100",
+        "@id": "https://db.simssa.ca/files/309",
         "@type": [
           "https://db.simssa.ca/files/"
         ],
         "http://www.wikidata.org/prop/direct/P2701": [
           {
-            "@id": "http://www.wikidata.org/entity/Q27967347"
+            "@id": "http://www.wikidata.org/entity/Q2115",
+            "http://www.wikidata.org/entity/P2561": [
+              {
+                "@value": "xml"
+              }
+            ]
           }
         ]
       },
       {
-        "@id": "https://db.simssa.ca/files/97",
+        "@id": "https://db.simssa.ca/files/310",
         "@type": [
           "https://db.simssa.ca/files/"
         ],
         "http://www.wikidata.org/prop/direct/P2701": [
           {
-            "@id": "http://www.wikidata.org/entity/Q2115"
+            "@id": "http://www.wikidata.org/entity/Q10610388",
+            "http://www.wikidata.org/entity/P2561": [
+              {
+                "@value": "midi"
+              }
+            ]
           }
         ]
       },
       {
-        "@id": "https://db.simssa.ca/files/98",
+        "@id": "https://db.simssa.ca/files/311",
         "@type": [
           "https://db.simssa.ca/files/"
         ],
         "http://www.wikidata.org/prop/direct/P2701": [
           {
-            "@id": "http://www.wikidata.org/entity/Q10610388"
+            "@id": "http://www.wikidata.org/entity/Q42332",
+            "http://www.wikidata.org/entity/P2561": [
+              {
+                "@value": "pdf"
+              }
+            ]
           }
         ]
       },
       {
-        "@id": "https://db.simssa.ca/files/99",
+        "@id": "https://db.simssa.ca/files/312",
         "@type": [
           "https://db.simssa.ca/files/"
         ],
         "http://www.wikidata.org/prop/direct/P2701": [
           {
-            "@id": "http://www.wikidata.org/entity/Q42332"
+            "@id": "http://www.wikidata.org/entity/Q27967347",
+            "http://www.wikidata.org/entity/P2561": [
+              {
+                "@value": "sibelius"
+              }
+            ]
           }
         ]
       }
     ],
     "http://www.wikidata.org/prop/direct/P136": [
       {
-        "@id": "http://www.wikidata.org/entity/Q4692"
+        "@id": "http://www.wikidata.org/entity/Q4692",
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "Renaissance"
+          }
+        ]
       }
     ],
     "http://www.wikidata.org/prop/direct/1476": [
       {
-        "@value": "['\u039f passi sparsi \u03bf pensier vaghi et pronti']"
-      }
-    ]
-  },
-  {
-    "@id": "https://db.simssa.ca/musicalworks/26",
-    "@type": [
-      "http://www.wikidata.org/entity/Q2188189"
-    ],
-    "http://www.wikidata.org/prop/direct/P86": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q7442579"
-      }
-    ],
-    "https://schema.org/Dataset": [
-      {
-        "@id": "https://db.simssa.ca/"
-      }
-    ],
-    "https://db.simssa.ca/files/": [
-      {
-        "@id": "https://db.simssa.ca/files/101",
-        "@type": [
-          "https://db.simssa.ca/files/"
-        ],
-        "http://www.wikidata.org/prop/direct/P2701": [
-          {
-            "@id": "http://www.wikidata.org/entity/Q2115"
-          }
-        ]
-      },
-      {
-        "@id": "https://db.simssa.ca/files/102",
-        "@type": [
-          "https://db.simssa.ca/files/"
-        ],
-        "http://www.wikidata.org/prop/direct/P2701": [
-          {
-            "@id": "http://www.wikidata.org/entity/Q10610388"
-          }
-        ]
-      },
-      {
-        "@id": "https://db.simssa.ca/files/103",
-        "@type": [
-          "https://db.simssa.ca/files/"
-        ],
-        "http://www.wikidata.org/prop/direct/P2701": [
-          {
-            "@id": "http://www.wikidata.org/entity/Q42332"
-          }
-        ]
-      },
-      {
-        "@id": "https://db.simssa.ca/files/104",
-        "@type": [
-          "https://db.simssa.ca/files/"
-        ],
-        "http://www.wikidata.org/prop/direct/P2701": [
-          {
-            "@id": "http://www.wikidata.org/entity/Q27967347"
-          }
-        ]
-      }
-    ],
-    "http://www.wikidata.org/prop/direct/P136": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q4692"
-      }
-    ],
-    "http://www.wikidata.org/prop/direct/1476": [
-      {
-        "@value": "['Amor quando fioriva mia speme']"
+        "@value": "['Ave Maria gratia plena \u2026 virgo serena']"
       }
     ]
   }
