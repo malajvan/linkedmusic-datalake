@@ -33,7 +33,7 @@ def handle_rec_col(work,key):
 def create_json_compact(js):
     for work in js:
 
-        work["@context"] = "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/add_original_content/cantusdb/jsonld/context.jsonld"
+        work["@context"] = "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld"
         work["@id"] = f"chant:{work.pop('chant_id')}" #the @id of each document should be the link to the chant in its database
         work["@type"] = "wd:Q23072435" #chant
 

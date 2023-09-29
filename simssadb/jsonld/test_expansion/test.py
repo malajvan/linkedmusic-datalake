@@ -5,7 +5,7 @@ import json
 tested =   [    
     {
         "musical_work_variant_titles": "['Ave Maria gratia plena \u2026 virgo serena']",
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/add_original_content/simssadb/jsonld/context.jsonld",
+        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld",
         "database": "simssadb:",
         "@type": "wd:Q2188189",
         "@id": "mw:78",

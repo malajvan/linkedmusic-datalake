@@ -12,7 +12,7 @@ doc = json.loads(open('naive.json',"r").read())
 for rec in doc:
     rec['@id'] = f"tunes:{rec.pop('tune_id')}"
     rec['@type'] = "wd:Q2188189" #musical_work
-    rec['@context'] = 'https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/new_context/the_session/jsonld/context.json'
+    rec['@context'] = "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/thesession/jsonld/context.json"
 
 
 

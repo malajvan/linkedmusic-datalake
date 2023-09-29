@@ -7,7 +7,7 @@ link_doc =     [
         "incipit": "Judica causam meam defende quia ",
         "finalis": "G",
         "absolute_url": "https://cantusdatabase.org/chant/562072",
-        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/add_original_content/cantusdb/jsonld/context.jsonld",
+        "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/cantusdb/jsonld/context.jsonld",
         "@id": "chant:562072",
         "@type": "wd:Q23072435",
         "database": "cantusdb:",
