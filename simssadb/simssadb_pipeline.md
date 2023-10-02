@@ -16,7 +16,7 @@ Note that we divided the flattening step to 2 since one could want to bypass the
 
 
 ## 2. Reconciliation with OpenRefine
-I performed OpenRefine reconciliation. You can see the reconciled file `reconciled_wikiID.csv`
+I performed OpenRefine reconciliation. You can see the reconciled file `reconciled_wikiID.csv`. You can use `openrefine/history.json` to facilitate reconciliation and `openrefine/export_template.json` to export to the desired csv format.
 The following is a list of reconciled columns:
 - genre_style
 - genre_type
