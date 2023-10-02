@@ -13,6 +13,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -65,6 +69,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
         },
         "files": [
             {
@@ -119,12 +127,16 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/10",
                 "file_format": {
-                    "@id": "wd:Q80535",
+                    "@id": "wd:Q10610388",
                     "name": "midi"
                 },
                 "Last_Pitch_Class": "[7.0]"
@@ -171,6 +183,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
         },
         "files": [
             {
@@ -225,6 +241,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -277,6 +297,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
         },
         "files": [
             {
@@ -331,6 +355,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -383,6 +411,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
         },
         "files": [
             {
@@ -437,6 +469,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -489,6 +525,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
         },
         "files": [
             {
@@ -543,6 +583,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -595,6 +639,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
         },
         "files": [
             {
@@ -649,6 +697,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -701,6 +753,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
         },
         "files": [
             {
@@ -755,6 +811,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -807,6 +867,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
         },
         "files": [
             {
@@ -861,6 +925,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -913,6 +981,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
         },
         "files": [
             {
@@ -967,6 +1039,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -1019,6 +1095,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
         },
         "files": [
             {
@@ -1073,6 +1153,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -1125,6 +1209,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
         },
         "files": [
             {
@@ -1179,6 +1267,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -1231,6 +1323,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
         },
         "files": [
             {
@@ -1285,6 +1381,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -1316,7 +1416,10 @@
             {
                 "@type": "simssadb_file",
                 "@id": "https://db.simssa.ca/files/99",
-                "file_format": "pdf",
+                "file_format": {
+                    "@id": "wd:Q42332",
+                    "name": "pdf"
+                },
                 "Last_Pitch_Class": null
             }
         ]
@@ -1334,6 +1437,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
         },
         "files": [
             {
@@ -1388,6 +1495,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q944800",
+            "name": "Frottola"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -1437,6 +1548,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q944800",
+            "name": "Frottola"
         },
         "files": [
             {
@@ -1488,6 +1603,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q944800",
+            "name": "Frottola"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -1537,6 +1656,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q944800",
+            "name": "Frottola"
         },
         "files": [
             {
@@ -1591,6 +1714,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1092924",
+            "name": "Villotta"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -1643,6 +1770,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q1092924",
+            "name": "Villotta"
         },
         "files": [
             {
@@ -1697,6 +1828,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1092924",
+            "name": "Villotta"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -1750,6 +1885,7 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": "Northern proto-villotta",
         "files": [
             {
                 "@type": "simssadb_file",
@@ -1803,6 +1939,7 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": "Northern proto-villotta",
         "files": [
             {
                 "@type": "simssadb_file",
@@ -1855,6 +1992,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q944800",
+            "name": "Frottola"
         },
         "files": [
             {
@@ -1909,6 +2050,7 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": "Northern proto-villotta",
         "files": [
             {
                 "@type": "simssadb_file",
@@ -1962,6 +2104,7 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": "Northern proto-villotta",
         "files": [
             {
                 "@type": "simssadb_file",
@@ -2011,6 +2154,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q4024389",
+            "name": "Zibaldone"
         },
         "files": [
             {
@@ -2062,6 +2209,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q4024389",
+            "name": "Zibaldone"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -2111,6 +2262,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q4024389",
+            "name": "Zibaldone"
         },
         "files": [
             {
@@ -2165,6 +2320,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1092924",
+            "name": "Villotta"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -2217,6 +2376,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q1092924",
+            "name": "Villotta"
         },
         "files": [
             {
@@ -2271,6 +2434,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1092924",
+            "name": "Villotta"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -2321,6 +2488,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1092924",
+            "name": "Villotta"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -2370,6 +2541,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q193217",
+            "name": "Madrigal"
         },
         "files": [
             {
@@ -2424,6 +2599,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -2473,6 +2652,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
         },
         "files": [
             {
@@ -2524,6 +2707,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -2574,6 +2761,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -2623,6 +2814,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
         },
         "files": [
             {
@@ -2677,6 +2872,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -2730,6 +2929,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -2779,6 +2982,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
         },
         "files": [
             {
@@ -2830,6 +3037,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -2879,6 +3090,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
         },
         "files": [
             {
@@ -2933,6 +3148,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -2986,6 +3205,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -3035,6 +3258,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
         },
         "files": [
             {
@@ -3086,6 +3313,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -3135,6 +3366,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
         },
         "files": [
             {
@@ -3189,6 +3424,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -3242,6 +3481,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -3291,6 +3534,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
         },
         "files": [
             {
@@ -3345,6 +3592,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -3397,6 +3648,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
         },
         "files": [
             {
@@ -3451,6 +3706,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -3504,6 +3763,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -3553,6 +3816,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
         },
         "files": [
             {
@@ -3607,6 +3874,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q1062328",
+            "name": "Chanson"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -3659,6 +3930,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q188285",
+            "name": "Motet"
         },
         "files": [
             {
@@ -3713,6 +3988,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q188285",
+            "name": "Motet"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -3766,6 +4045,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q188285",
+            "name": "Motet"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -3815,6 +4098,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q188285",
+            "name": "Motet"
         },
         "files": [
             {
@@ -3869,6 +4156,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q188285",
+            "name": "Motet"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -3921,6 +4212,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q188285",
+            "name": "Motet"
         },
         "files": [
             {
@@ -3975,6 +4270,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q188285",
+            "name": "Motet"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -4028,6 +4327,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q188285",
+            "name": "Motet"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -4077,6 +4380,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q188285",
+            "name": "Motet"
         },
         "files": [
             {
@@ -4131,6 +4438,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q188285",
+            "name": "Motet"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -4183,6 +4494,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q188285",
+            "name": "Motet"
         },
         "files": [
             {
@@ -4237,6 +4552,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q188285",
+            "name": "Motet"
+        },
         "files": [
             {
                 "@type": "simssadb_file",
@@ -4290,6 +4609,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4305,6 +4628,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     },
@@ -4322,6 +4649,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4337,6 +4668,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     },
@@ -4354,6 +4689,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4369,6 +4708,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     },
@@ -4386,6 +4729,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4401,6 +4748,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     },
@@ -4418,6 +4769,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4433,6 +4788,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     },
@@ -4450,6 +4809,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4465,6 +4828,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     },
@@ -4482,6 +4849,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4497,6 +4868,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     },
@@ -4514,6 +4889,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4529,6 +4908,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     },
@@ -4546,6 +4929,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4561,6 +4948,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     },
@@ -4578,6 +4969,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4593,6 +4988,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     },
@@ -4610,6 +5009,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4625,6 +5028,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     },
@@ -4642,6 +5049,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4657,6 +5068,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     },
@@ -4674,6 +5089,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4689,6 +5108,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     },
@@ -4706,6 +5129,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4721,6 +5148,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     },
@@ -4738,6 +5169,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4753,6 +5188,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     },
@@ -4770,6 +5209,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4785,6 +5228,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     },
@@ -4802,6 +5249,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4818,6 +5269,10 @@
             "@id": "wd:Q4692",
             "name": "Renaissance"
         },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
+        },
         "files": []
     },
     {
@@ -4833,6 +5288,10 @@
         "genre_style": {
             "@id": "wd:Q4692",
             "name": "Renaissance"
+        },
+        "genre_type": {
+            "@id": "wd:Q217295",
+            "name": "Mass"
         },
         "files": []
     }

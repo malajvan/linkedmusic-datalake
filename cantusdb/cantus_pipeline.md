@@ -10,6 +10,7 @@ Since each lines represent a chant_id already, there was no need to flatten like
 ## 1. Reconciliation with OpenRefine
 I performed OpenRefine reconciliation with 3 columns: **genre, mode_name, and composer** (which defaulted to Anonymous since all values of this column is so)
 I then generate the csv with the corresponding wikidata IDs in the reconciled cells (see [here](https://github.com/malajvan/linkedmusic-datalake/blob/main/cantusdb/cantus_reconciled.csv))
+You can use `openrefine/history.json` to apply reconciliation steps and `openrefine/export_template.json` to export the file.  
 
 ## 2. Reconcile column names and generating json-ld
 Currently the json-ld is generated as follow:

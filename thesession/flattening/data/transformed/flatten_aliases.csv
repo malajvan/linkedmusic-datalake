@@ -85,7 +85,7 @@ tune_id,name,alias
 89,"Rambling Pitchfork, The","['An Píce Ar Fán', ""Baxter's"", 'Clar-claigean An Moncaí', 'Clár-Cloigeann An Moncaí', ""Farmer's Frolic, The"", ""Fisherman's Widow, The"", ""Ramblin' Pitchfork"", ""Roland's Return"", 'Rollicking Dandy, The']"
 90,O'Rourke's,"[""O'Keefe's"", ""Rogue's"", 'Westport Chorus, The', 'Wild Irishman, The']"
 91,"Roaring Barmaid, The","[""Mrs. Oswald's Favourite"", 'Roarin Barmaid, The', 'Roaring Bar Maid, The', ""Tony O'Sullivan's""]"
-92,"Irish Washerwoman, The","['An Bhean Níocháin Éireannach', 'Corporal Casey', 'Do Virgins Taste Better?', 'Irish Woman, The', 'Wash Woman, The', 'Washing Woman, The']"
+92,"Irish Washerwoman, The","['An Bhean Níocháin Éireannach', 'Corporal Casey', 'Country Courtship, The', 'Do Virgins Taste Better?', 'Irish Woman, The', 'Wash Woman, The', 'Washing Woman, The']"
 93,"Cock And The Hen, The","[""Cathal McConnell's"", 'Cock And Hen', ""Dennis Ryan's"", ""Joe Ryan's"", ""Keane's Favourite"", ""Ryan's""]"
 94,"Scholar, The","['Poor Scholar', 'Poor Scholar, The', 'Scolair, The', 'South Shore, The']"
 95,Scarce O' Tatties,"[""A Scarce O'Tatties"", ""Cion A'Bhuntata"", ""Scarce O' Tatties"", ""Scarce O'Tatties"", 'Scarce Of Tatties', 'Tatties Are Scarce']"
@@ -104,7 +104,7 @@ tune_id,name,alias
 110,"Toormore, The","['An Choisir', 'An Coisir', 'Cullen', 'House Party, The', 'Jack Regan', ""Jack Regan's"", ""Johnny O'Leary's"", 'Tourmore, The', 'Tuar Mór, The', 'Wedding Feast, The', ""Yank Nolan's, The""]"
 111,Tripping Up The Stairs,"[""Paddy O'Flaherty"", 'Plains Of Kilkorkery', 'Plains Of Kilkorkery, The', 'Pride Of Kildare, The', 'Roscabury', ""Sacho's"", ""Sacko's"", 'Sackos', ""Sackow's"", 'Sackows', 'Syracuse, The', ""Trippin' Up The Stairs"", 'Tripping Up Stairs']"
 112,"Trip To Pakistan, The","['Pakistan, The']"
-113,Toss The Feathers,"['Croith Na Cleití', ""Killian's"", ""Martin Roachford's"", 'Scaipeadh Na gCleití', ""Shank's Mare"", 'Shanks Mare', 'Toss The Feathers #1']"
+113,"Humours, The","['Croith Na Cleití', 'Humords, The', ""Killian's"", ""Martin Roachford's"", 'Scaipeadh Na gCleití', ""Shank's Mare"", 'Shanks Mare', 'Toss The Feathers #1']"
 114,Temperance,"['Bowl Of Coffee, The', 'Road To Newbridge, The', 'Teatotaler, The', ""Teatotaler's Fancy, The"", ""Teatotaler's, The"", 'Teatotalers, The', 'Teatotaller, The', ""Teatotaller's Fancy, The"", 'Teatotlers', 'Teetotaler, The', 'Teetotalers, The', 'Teetotaller, The', ""Teetotaller's Fancy, The"", ""Teetotaller's, The"", 'Teetotler, The', 'Temperance, The', 'Temprance, The']"
 115,Over The Moor To Maggie,"['Four Green Fields', 'Green Meadow', 'Green Meadow, The', 'Green Meadows', 'Green Meadows, The', 'Little Christmas', ""O'er The Moor To Maggie"", ""Over The Moor To Maggie's"", 'Over The Moore To Maggie', 'Over The Moors To Maggie', 'Rakes Of Abbeyfeale', 'Rakes Of Abeyfale', 'Rowenella']"
 116,"Wind That Shakes The Barley, The","['An Ghaoth A Bhogann An Eorna', 'Da Wind Dat Shakes Da Barley', 'Fields Ye Fancy', 'Kerry Lassies, The', 'Little Pack Of Tailors, The', 'Pack Of Tailors, The', 'Wind That Blows The Barly Down, The', 'Wind That Shake The Barley, The']"
@@ -204,7 +204,7 @@ tune_id,name,alias
 236,Swinging On The Gate,"[""Charlie Harris's"", 'Swinging On A Gate']"
 237,"Blackhaired Lass, The","['Black Haired Lass, The', 'Black-Haired Lass, The', 'Cailín Na Gruaige Doinne', 'Cailín Na Gruaige Duibhe', 'Dark Haired Lass, The', 'Dark-Haired Lass, The', 'Kilcogy, The', 'Molly Will You Do It?', 'Smokey House']"
 238,"Ballydesmond, The","['Ballydesmond No. 2, The', 'Cock Your Pistol Charlie', ""Donal De Barra's"", 'Jib, The', ""Manley's"", ""Maurice Manley's"", 'Polca De Ballydesmond']"
-239,"Ballydesmond, The","['Ballydesmond No. 3', ""Blind Tom's"", 'Polca De Ballydesmond', ""Tom Billy's""]"
+239,"Ballydesmond, The","['Ballydesmond No. 1, The', 'Ballydesmond No. 3', ""Blind Tom's"", 'Polca De Ballydesmond', ""Tom Billy's""]"
 240,"Silver Spire, The","['An Spiora Airgid', ""Bennett's Favourite"", 'Great Eastern, The', ""O'Byrne's Fancy"", 'Silverspire']"
 241,"Old Grey Goose, The","['Gray Goose, The', 'Grey Goose, The', 'Old Goose, The', 'Old Grey Goose, The', 'Rakes Of Kinsale, The']"
 243,"Fairy Queen, The","['Bean Righ Na Sibhrach', 'Faery Queen, The']"
@@ -273,7 +273,7 @@ tune_id,name,alias
 328,"Waterbed, The","['Metalkid', 'Water Bed, The']"
 329,John Walsh's,"['Derrygallen Bridge, The', 'Gob Lacan', ""Jimmy Welshe's"", ""John Walsh's #1"", ""John Walsh's No 1"", ""John Walsh's No. 1"", 'Newmarket, The', ""Walsh's""]"
 330,"Newmarket, The","[""Dan Mac's"", ""Dan Macdonald's"", 'Dan Mack', ""Dan Mack's"", ""Jack Mitchell's"", ""Jerome Burke's"", 'Kerry Polka #1', ""Mac's Rambles"", ""Mack's Rambles""]"
-331,Newmarket,"[""Cuz Teahan's"", 'Gleanntán', 'Gleanntán, The', 'Glin, The', ""Jackie Daly's #4"", 'Mickey Chewing Bubble Gum', 'Newmarket', ""Terry Teehan's""]"
+331,Newmarket,"[""Cuz Teahan's"", 'Dingle, The', 'Gleanntán', 'Gleanntán, The', 'Glin, The', ""Jackie Daly's #4"", 'Mickey Chewing Bubble Gum', 'Newmarket', ""Terry Teehan's""]"
 332,"White Petticoat, The","['An Cota-Beag Ban', 'An Cota-Beag Bhan', 'Le Jupon Blanc', 'White Pettycoat, The']"
 333,"Miller's Maggot, The","['An Chéad Punann', ""Miller's Marggot, The"", ""Russell's"", 'Single']"
 334,"Newmarket, The","[""Art O'Keefe's"", ""Art O'Keefes"", 'Bag Of Beer', ""Billy Mahoney's"", ""Billy Mahony's"", 'Green Cottage #3', 'Green Cottage No.3, The', 'Kiskeam', ""Willie Reidy's""]"
@@ -341,7 +341,7 @@ tune_id,name,alias
 413,"Humours Of Drinagh, The","['Drinagh Town', ""Gillan's Apples"", ""Gillian's Apples""]"
 414,Seamus Cooley's,"['Belhabour', 'Bohola', ""Cooley's"", ""Cooley's Delight"", ""Foster's Favourite"", ""Joe Cooley's"", ""Joe Cooley's Delight"", 'Leg Of The Duck', ""Lucy Farr's"", ""Seamus Cooley's""]"
 417,Arthur Darley's,"[""Arthur Daley's"", ""Arthur Darley's Swedish"", 'Bruckless Shore', 'Bruckless Shore, The', ""Doherty's"", 'Swedish', 'Swedish, The']"
-418,Ievan Polkka,"['A Finnish', ""Eva's"", 'Finnish, The', ""Ieva's"", ""Ieva's Polkka"", ""Ievan's Polkka"", 'Kuppari Eeva', 'Leekspin', ""Leva's"", 'Levan', 'Levan Polkka', 'Levan, The', ""Loituma's"", 'Savitaipaleen Polkka']"
+418,Ievan Polkka,"['A Finnish', 'A Finnish', ""Eva's"", 'Finnish, The', ""Ieva's"", ""Ieva's Polkka"", ""Ievan's Polkka"", 'Kuppari Eeva', 'Leekspin', ""Leva's"", 'Levan', 'Levan Polkka', 'Levan, The', ""Loituma's"", 'Savitaipaleen Polkka']"
 419,President Garfield's,"['Blue Water', 'Blue Water, The', ""Garfield's"", 'Lament For President Garfield', 'President Garfield', ""President Garfield's""]"
 420,Glencolmcille,"['American', 'Fantastic, The', 'Gleann Cholm Cille', 'Glencolmcille, The', 'Glencolmkille', 'Glencolumbkille', 'Glencolumkill', 'Glencolumkille', 'Inver Races, The']"
 422,A Parcel Of Land,"['Parcel Of Land', 'Parcel Of Land, The']"
@@ -361,7 +361,7 @@ tune_id,name,alias
 437,Muiñeira De Cabana,"['Jig Danced At The Church Square, The', 'Muineira A De Cabana', 'Muneira De Cabana']"
 438,"Doon, The","['Cavan, The', 'Chasing Squirrels', 'Flowing Bowl, The', 'Leather Buttons', ""Mason's Men, The"", 'Ríl An Dúin']"
 439,Andy Renwick's Ferret,"['Ferret, The']"
-440,Christmas Eve,"['Christmas Eve, The', 'Christmas, The', 'Oiche Nollag', 'Oiche Nollaig', ""Tommy Coen's"", ""Tommy Coen's Christmas Eve""]"
+440,Christmas Eve,"['Christmas Eve, The', 'Christmas, The', 'Martinmastime', 'Oiche Nollag', 'Oiche Nollaig', ""Tommy Coen's"", ""Tommy Coen's Christmas Eve""]"
 441,John Ryan's,"['Armagh', 'Armagh, The', 'Hills Of Connemara', ""Jack Ryan's"", ""Johnny Ryan's"", 'Keadue', 'Keadue, The', ""Ryan's"", ""Sean Ryan's""]"
 442,"Flowers Of Red Hill, The","['Bláthanna An Chnoic Rua', 'Clogher, The', ""Dan McCarthy's Fancy"", 'Flowers Of Redhill', 'Flowers Of Redhill, The', 'Flowers Of The Red Hill', 'Flowers Of The Red Hill, The', 'Hills Of Clogher', 'Rose Of Red Hill, The']"
 444,Terry Teehan's,"[""Cuz Teehan's"", 'Deireadh Fomhair', 'Frank Thornton', ""Frank Thornton's"", ""Frank Thornton's Highland"", 'Kerry Fling', ""Teahan's Highland"", ""Teehan's"", ""Teehan's Highland"", ""Terry 'Cuz' Teahan's"", ""Terry 'Cuz' Teehan's Favourite"", ""Terry Teahan's"", ""Terry Teehan's"", ""Terry Teehan's Highland Fling""]"
@@ -436,7 +436,7 @@ tune_id,name,alias
 527,Moll Roe,"['A Bumper At Parting', ""B'fhearr Liomsa Ainnir Gan Guna"", 'Come Under My Dimity', 'Devil And The Bailiff, The', 'Ditherum Doodle', ""I'll Take A Glass With A Friend"", 'Jig An Da Thuistiun', ""Johnny D's"", 'Maire Rua', 'Maire Ruadh', 'Maire Ruaid', 'Mall Rua', 'Market Stake, The', 'Maura Rua', 'Moll Roe', 'Moll Roe In The Morning', ""Moll Roe's"", 'Moll Rua', ""Munsterman's Flattery, The"", 'One Bumper At Parting', 'Red Haired Mary', 'Rent In Arrears', 'Salt, The', 'Sweet Molly Roe', 'Taim In Arrears', 'Though Late Was I Plump', 'Wheels Of The World, The']"
 528,Tuttle's,"[""Bearna 'n Aonaigh"", ""Bobby Casey's"", ""Casey's"", 'Custom Gap, The', 'Jug Of Punch', 'Jug Of Punch, The', 'Mills Are Grinding, The', 'Millstones Are Grinding, The', 'Turtle, The', 'Tuttle', 'Windy Gap', 'Windy Gap, The']"
 529,"Mountain Top, The","['Barr An tSléibhe', 'Crooked Way To Dublin, The', 'Dillon Brown', 'Doone Hill', 'Dunne Hills, The', 'Holly Bush']"
-531,"Ballydesmond, The","[""Andy Boyle's"", 'Ballydesmond #3', ""Cathy's Favourite"", 'Dan Macks', 'Dargin, The', 'Evening, The', 'Glenside No.1', 'Hen Dance, The', 'Kerry', 'Kerry No 1, The', 'Kerry No. 1, The', 'Kerry No.1, The', 'Kerry Polka #1', ""Kevin's"", 'Mist On The Glen, The', ""Pat Horgan's #1"", ""Pat Horgan's No. 1"", ""Pat Horgan's No.1"", 'Pat Organs #1', 'Rhubarb Sandwich', ""Sean Ryan's"", 'Shoe The Donkey', 'Waterford, The']"
+531,Shoe The Donkey,"[""Andy Boyle's"", 'Ballydesmond #3', 'Ballydesmond No.3, The', 'Ballydesmond, The', ""Cathy's Favourite"", 'Dan Macks', 'Dargin, The', 'Evening, The', 'Glenside No.1', 'Hen Dance, The', 'Kerry', 'Kerry No 1, The', 'Kerry No. 1, The', 'Kerry No.1, The', 'Kerry Polka #1', ""Kevin's"", 'Mist On The Glen, The', ""Pat Horgan's #1"", ""Pat Horgan's No. 1"", ""Pat Horgan's No.1"", 'Pat Organs #1', 'Rhubarb Sandwich', ""Sean Ryan's"", 'Shoe The Donkey', 'Waterford, The']"
 532,Paddy Fahey's,"[""Fahey's Favourite"", ""Paddy Fahey's Jig #1"", ""Paddy Fahy's""]"
 533,Dash To Portobello,"['Dash To Portabello, The', 'Dash To Portobello, The', 'Gael Linn', 'Port Gael-linn', ""Sean Ryan's Favourite"", ""Sean Ryan's Star Of Munster""]"
 534,"Glenside, The","[""Andy Boyle's"", 'Battery #1', 'Battery Single #1', 'Battery Singles #1', 'Battery, The', 'Derryveeney, The', ""John Doonan's #2"", 'Kerry #1', 'Kerry #2', ""Kevin's"", 'Listowel #2, The', 'Listowel No. 2, The', 'Listowel, The', 'Mall, The', ""McElroy's Fancy"", ""Pat Horgan's #2"", ""Pat Organ's #2"", 'Single From The Battery #1', 'Singles From The Battery #1', 'Taoḃ An Ġleann', ""Tom Billy Murphy's"", ""Tom McGowan's"", ""Tony Lowe's"", 'West Limerick']"
@@ -623,7 +623,7 @@ tune_id,name,alias
 767,Farewell To Chernobyl,"['A Farewell Chernobyl', 'Farewell To Cherbobyl', 'Farewell To Tchernobyl', ""Ferry's"", 'Fire In The Belly', ""Michel Ferry's"", 'Return From Tchernobyl', 'Return To Chernobyl', 'Trip To Chernobyl']"
 769,"Belles Of Tipperary, The","['An Garda Nua', 'Bells Of Tipperary', 'Bells Of Tipperary, The', ""John Donnelly's Fancy"", ""Michael Dwyer's Favourite"", 'New Policeman, The']"
 770,Palm Sunday,"['Casog An Mairnealaig', ""Mariner's Frock, The"", ""Scully Casey's"", ""Scully's""]"
-771,"Carraroe, The","['An Ċeaṫrú Rua', 'An Cheathrú Rua', 'Ballinakill']"
+771,"Carraroe, The","['An Ċeaṫrú Rua', 'An Cheathrú Rua', 'Ballinakill', 'Caroe', 'Carroe']"
 772,Queen Of The Fair,"['Queen Of The Fair, The']"
 773,Christmas Day Ida Moarnin',"['Christmas Day I´da Mornin', ""Christmas Day I'da Moarnin"", 'Christmas Day Ida Moarnin', 'Christmas Day In Da Moarning', ""Christmas Day In Da' Morning"", ""Christmas Day In The Morn'"", 'Christmas Day In The Morning', ""Da Christmas Day Ida Mornin' March"", 'Single', 'Xmas Day In The Morning']"
 774,Mickey Callaghan's Fancy,"[""Michael Tubridy's"", ""Mickey Callaghan's Fancy"", ""Mickey O'Callaghan's"", ""Mickey O'Callaghan's Fancy"", ""Micky O'Callaghhan's Fancy"", ""Mikey Callaghan's"", ""Mikey O'Callaghan's"", ""O'Callaghan's Favourite"", ""P.J. Hayes'"", ""Tubridy's"", 'Turf Burner', 'Turf Burner, The']"
@@ -637,7 +637,7 @@ tune_id,name,alias
 787,Sleepy Maggie,"['Sleeepy Maggie', 'Sleepy Maggy', 'Sleepy Moggy', ""Small Coals An' Little Money"", 'Small Coals And Little Money', 'Small Coals And Ready Money', 'To The Quick']"
 788,Carolan's Concerto,"['Bean Poer', 'Carolans Concerto', 'Mrs. Poer', 'Mrs. Power', ""O'Carolan's Concerto""]"
 789,"Primrose Lasses, The","['4 Nights Drunk', ""Byrne's"", 'Primrose Lass', 'Primrose Lass, The', 'Primrose Lassie', 'Primrose Lassies Highland Fling, The', 'Primrose Lassies, The']"
-790,Planxty Irwin,"['Capt. John Irwin', 'Captain John Irwin', 'Col. John Irwin', 'Colonel John Irwin', 'Planxty Capt. John Irwin', 'Planxty Col. John Irwin', 'Planxty Colonel Irwin']"
+790,Old Joe Clark,"['Capt. John Irwin', 'Captain John Irwin', 'Col. John Irwin', 'Colonel John Irwin', 'Planxty Capt. John Irwin', 'Planxty Col. John Irwin', 'Planxty Colonel Irwin']"
 791,Father Kelly's,"['Father Kelly No.1', ""Father Kelly's No.1"", ""Father Kelly's Number One"", ""Fr. Kelly's"", 'Rossmore Jetty, The']"
 793,Jimmy Ward's,"['An Chéad Phunnann', 'Clare', 'Clare, The', 'First Sheaf, The', ""Jim Ward's"", 'Jimmy Ward J.G.', ""Jimmy Ward's Favourite"", ""Jimmy Ward's J.G."", ""Maeve ODonnell's Kesh"", 'Port Shéamus Mhic A Bháird', ""Seamus's"", ""Tom Ward's"", ""Ward's"", ""Ward's Favourite""]"
 794,"Cowboy, The","['Charley The Prayermaster', 'Charlie The Prayermaster', 'Cowboys, The', 'Girls Of The Town']"
@@ -694,7 +694,7 @@ tune_id,name,alias
 865,Kevin McHugh's,"['Adam And Eve', ""Adam And Eve's"", 'Adam And Eves', 'John McHugh', ""John McHugh's"", ""McHugh's""]"
 866,"Ale Is Dear, The","['Elisa Dear', 'Elsie Dear', 'Lady Margaret Stewart', ""Lady Margaret Stewart's""]"
 868,Kevin McHugh's,"[""Kevin McHugh's #2"", ""Kevin McHugh's No 2"", ""Kevin McHugh's No. 2"", ""McHugh's"", ""Tom Cawley's"", ""Tommy Cawley's"", 'Wind Off The Lake, The', 'Wind On The Lake', 'Wind On The Lake, The']"
-869,Kitty's Wedding,"['Golden Wedding, The', 'Ideal, The', ""Kitty's German"", ""Kitty's Wedding"", ""Old Smith's"", 'Ships In Full Sail', ""Smith's"", ""Smith's Delight"", ""Smith's Delight, The"", ""Smith's Reel"", 'Smiths Delight', 'Smiths Reel']"
+869,Kitty's Wedding,"['Golden Wedding, The', 'Hauling Home, The', 'Ideal, The', ""Kitty's German"", ""Kitty's Wedding"", ""Old Smith's"", 'Ships In Full Sail', ""Smith's"", ""Smith's Delight"", ""Smith's Delight, The"", ""Smith's Reel"", 'Smiths Delight', 'Smiths Reel']"
 870,Spórt,"['An Sport', 'Coolea', ""Peadar O'Riada's""]"
 872,Fisher's,"['Ballymanus Fair', ""Blacksmith's, The"", ""Blanchard's"", 'Engelsk Långdans Nr.1', 'Fischers', 'Fisher, The', ""Fisher's, The"", ""Fisherman's Lilt, The"", ""Fisherman's, The"", 'Fishermens', 'Fishers', 'Thresher, The', 'Y Dynwr', 'Y Dyrnwr']"
 874,Rathlin Island,"[""Peter Brown's"", 'Raitlin Island', 'Rathlin Island Highland Fling, The', 'Rathlin, The']"
@@ -847,7 +847,7 @@ tune_id,name,alias
 1072,"Tempest, The","['Ap Shenkin', 'Ap Siencyn']"
 1074,"Trip To Windsor, The",['A Trip To Windsor']
 1075,"Britches Full Of Stitches, The","['Breeches Full Of Stitches, The', ""Irish Lad's A Jolly Boy, The"", 'O The Britches Full Of Stitches', 'Oh The Breeches Full Of Stitches', 'Oh The Britches Full Of Stitches', 'Oh! The Breeches Full Of Stitches', 'Oh! The Britches Full Of Stitches', ""Witches' Britches""]"
-1076,"Black Rogue, The","['An Rógaire Dubh', ""Billy O'Rourke"", ""Billy O'Rourke's"", 'Black Robe, The', 'Black Rouge, The', 'Blarney Castle', 'Johnny McGill', 'Paddy McNicholas', ""Paddy McNicholas'"", ""Paddy McNicholas's"", ""Paddy's Own"", 'Rogaire Dubh', 'Sack Of Potatoes, The', 'Sail Round The Rocks', 'Sail Round The Rocks By Todd Denman', 'Sweet Tibbie Dunbar']"
+1076,"Black Rogue, The","['An Rógaire Dubh', 'An Rogaire Dubh', ""Billy O'Rourke"", ""Billy O'Rourke's"", 'Black Robe, The', 'Black Rouge, The', 'Blarney Castle', 'Johnny McGill', 'Paddy McNicholas', ""Paddy McNicholas'"", ""Paddy McNicholas's"", ""Paddy's Own"", 'Rogaire Dubh', 'Sack Of Potatoes, The', 'Sail Round The Rocks', 'Sail Round The Rocks By Todd Denman', 'Sweet Tibbie Dunbar']"
 1077,Munster Buttermilk,"['Boats Of Killaloe, The', 'Bridge Of Athlone, The', ""Carty's"", 'Christmas Day In The Morning', ""Frank Stamp's"", ""Paddy Haverty's"", 'Sports Of Multyfarnham', 'Sports Of Multyfarnham, The']"
 1078,"Four Poster Bed, The","['Four Posted Bed', 'Four Posted Bed, The', 'Four Posts Of The Bed', 'Four-Poster Bed, The', 'Fourposter Bed, The', 'Pedwar Post Y Gwely']"
 1080,Father O'Flynn,"['At The Top Of Cork Road', 'At The Top Of The Cork Road', 'Father O Flynn', ""Father O'Flynn's"", ""Fr. O'Flynn"", 'Lasses Of Scotland', 'On The Top Of Cork Road', 'Rollicking Irishman, The', 'Ten Penny Bit', 'Top Of Cork Road, The', 'Top Of The Cork Road, The', 'Yorkshire Lasses, The']"
@@ -857,7 +857,7 @@ tune_id,name,alias
 1084,Hullichan,"[""Houlichan's"", ""Houlihan's"", ""Houllichan's"", ""Hulichan's"", 'Huligan', 'Huligan, The', 'Hullichan, The', ""Hullichan's"", 'Hullichans']"
 1085,Tommy Bhetty's,"[""Tom Bhetty's"", ""Tommy Bheiti's""]"
 1086,Hughie Shortie's,"[""Dinny's Fancy"", ""Hughie Shorty's"", ""Johnny Wilmot's"", ""Patricia Wilmot's""]"
-1087,Patsy Touhey's,"['Glountane, The', 'New Found Out, The', 'Pat Touhey', 'Pat Tuohey', ""Pat Tuohey's"", ""Pat Tuohy's"", ""Patsy Toughey's"", ""Patsy Touhey's"", ""Patsy Touhy's"", ""Patsy Tuohey's"", ""Patsy Tuohy's""]"
+1087,Patsy Touhey's,"['Glountane, The', 'New Found Out, The', 'Pat Touhey', 'Pat Tuohey', ""Pat Tuohey's"", ""Pat Tuohy's"", ""Patsy Toughey's"", ""Patsy Touhey's"", ""Patsy Touhy's"", ""Patsy Tuohey's"", ""Patsy Tuohy's"", ""Tuohy's""]"
 1088,Dancing The Baby,['Rocking The Baby']
 1089,Jizaique,"['Jezaïg', 'Jezaique', 'Jizique']"
 1090,Cahir's Kitchen,"['Breton Breeze, The']"
@@ -1051,7 +1051,7 @@ tune_id,name,alias
 1356,Soldier's Joy,"['Chicken In The Bread Tray', 'Clap Dance, The', 'Da Soldiers Joy', 'French Four', 'Gower', 'Gower, The', ""King's Head, The"", 'Lumbers', 'Morris Reel, The', 'Pibddawns Gwyr', 'Reel Des Pompiers', 'Reel Du Vagabon', 'Reel Du Vagabond', 'Seksmannsril', 'Sex Man Engelska', ""Soldier's Joy"", ""Soldier's Joy, The"", 'Soldiers Joy', ""Soldiers' Joy""]"
 1357,Jenny Picking Cockles,"['Johnny Going To France', 'Take Her Out And Air Her']"
 1358,"Bird's Nest, The","['Birds Nest, The', ""Thrush's Nest, The""]"
-1359,"Old Hag, You Have Killed Me","[""'Chailligh Do Mhairis Mé"", 'A Chailleach, Do Mharais Mé', 'Away With Ye', 'Na Caoire Ar Na Sleibhtibh', 'O Hag You Have Killed Me', ""Oh Hag You've Killed Me"", 'Old Hag You Have Killed Me', 'Old Hag You Have Killed Me!', ""Old Hag You've Killed Me"", ""Old Hag, You've Killed Me"", 'Sheep On The Mountain, The', 'Sheep On The Mountains, The']"
+1359,"Old Hag, You Have Killed Me","[""'Chailligh Do Mhairis Mé"", 'A Chailleach Do Mharais Me', 'A Chailleach, Do Mharais Mé', 'Away With Ye', 'Na Caoire Ar Na Sleibhtibh', 'O Hag You Have Killed Me', ""Oh Hag You've Killed Me"", 'Old Hag You Have Killed Me', 'Old Hag You Have Killed Me!', ""Old Hag You've Killed Me"", ""Old Hag, You've Killed Me"", 'Sheep On The Mountain, The', 'Sheep On The Mountains, The']"
 1360,McGoldrick's,"[""Dorrian's"", ""Michelle O'Sullivan's""]"
 1361,Daly's,"[""Daily's"", ""Daley's""]"
 1362,"Sunshine, The","['Corn Phíopa Na Gréine', ""Shunster's"", 'St. Elmo']"
@@ -1266,7 +1266,7 @@ tune_id,name,alias
 1662,Contentment Is Wealth,"['Ballinamore, The', 'Fáilte Roiṁ Ó Conaill Go Dtí Duḃ Linn', 'Is Saibhreas An Sástacht', ""Miner's, The"", 'Molloys Favourite', ""O'Connell's Welcome To Dublin"", ""Paddy Canny's"", ""Paddy Carty's"", ""Paddy Carty's Favourite"", 'Port Mhoss Martin', 'Tongs By The Fire, The', ""Tony Molloy's""]"
 1663,Johnston's,"['Johnson, The', ""Johnson's"", ""Saint Johnston's""]"
 1664,Hanly's,"[""James Hanley's"", 'New Line To Loughaun, The', ""Patsy Hanley's"", ""Patsy Hanly's""]"
-1665,La Cosa Mulligan,"[""Danny Meehan's"", ""Jackson's"", ""Jackson's No. 2"", ""Jackson's No2"", 'Jacksons #2']"
+1665,La Cosa Mulligan,"[""Danny Meehan's"", ""Jackson's"", ""Jackson's No. 2"", ""Jackson's No2"", 'Jacksons #2', ""Tommy Peoples'""]"
 1667,Dinny O'Brien's,"[""Denny O'Brien's"", ""Dinny O'Brien"", ""Dinny O'Briens"", 'Last House In Connacht', 'Last House In Connacht, The', 'Last House In Connaught', 'Last House In Connaught, The', 'Last House Of Connacht', 'Last House Of Connacht, The', 'Last House Of Connaught', 'Last House Of Connaught, The']"
 1668,An Súisín Bán,"['An Suisin Ban', 'Casadh An Tsúgáin', 'Twisting Of The Hayrope', 'Twisting Of The Rope, The', 'Twisting The Hayrope', 'Twisting The Rope', 'White Blanket, The']"
 1669,"Happy Bloom Of Youth, The","['Happy Days Of Youth, The', ""John McKenna's"", ""McKenna's No. 2"", ""Sean McKenna's"", ""Sean McKenna's No 2"", ""Sean McKenna's No. 2"", ""Thomas Byrne's"", 'Thos Byrnes']"
@@ -1684,7 +1684,7 @@ tune_id,name,alias
 2345,What Pain I've Endured Since Last Year,"[""Gur Mis Tha Gu Craiteadh O'n Uiridh"", 'What Pain I Have Endured Since Last Year']"
 2348,Mike Flanagan's,"['Cavan', 'Cavan, The', ""Flanagan's"", 'Green Jacket']"
 2350,"Clougher, The","['Rest In Peace', 'Rip The Calco']"
-2352,"Blue Idol, The","[""Elaine Jeffreys'""]"
+2352,"Blue Idol, The","[""Elaine Jeffreys'"", ""King William's Rambles""]"
 2353,Joe Bane's,"[""Joe Bane's Fling"", ""Joe Bane's Highland Fling"", 'Joe Banes', ""Tom Ban's""]"
 2357,Miss Sarah McFadyen,"['Miss Sarah MacFadyen', 'Miss Sarah MacFayden', 'Miss Sarah McFayden']"
 2358,"Haughton House, The","['Auchadon House', 'Auchdon House', 'Auchdon House March', 'Joe Ryan', ""Joe Ryan's"", ""Joe Ryan's Barn Dance""]"
@@ -1703,7 +1703,7 @@ tune_id,name,alias
 2381,A Whack At The Whigs,"['Curl The Wig', 'Leather The Wig']"
 2383,Éirinn Go Brách,"[""Brannigan's"", 'Devil The Care', 'Eireann Go Brach', ""Ellen O'Leary's"", ""Johnny Leary's"", ""Johnny O'Leary's"", ""Julia Clifford's""]"
 2386,"Ravelled Hank Of Yarn, The","['An Ceirtlín Snáithe In Aimhréidh', 'Fulham Broadway', ""Killoran's"", 'Raveled Hank Of Yarn, The', 'Tangled Hank Of Yarn, The']"
-2387,"Fairhaired Child, The","['An Paisdín Fionn', 'An Paistin Fionn', 'Fair Haired Boy, The', 'Fair Haired Child, The', 'Fair-haired Child, The', 'Little Fair Child, The', 'Paisdín Fionn', 'Paistin Fionn']"
+2387,"Fairhaired Child, The","['An Paisdín Fionn', 'An Paistin Fionn', 'An Páistín Fionn', 'Fair Haired Boy, The', 'Fair Haired Child, The', 'Fair-haired Child, The', 'Little Fair Child, The', 'Paisdín Fionn']"
 2388,Sir Phillip McHugh,"['An Gabhar Ban', 'Drummore Lasses', 'Funny Mistake, The', ""Man Who'll Never Be Able, The"", 'Phillip McHugh', 'Sir Philip McHugh']"
 2389,Larry's Favourite,"[""Lar Gavin's Favourite"", ""Paddy O'Briens""]"
 2392,"Old Monaghan Twig, The","[""Eddie Curran's Monaghan Twig"", ""Eddie Duffy's"", 'Fermanagh Twig, The']"
@@ -2043,7 +2043,7 @@ tune_id,name,alias
 2999,"Clogger's Quilt, The","['Ballyket Courthouse', 'Ballyket Courthouse, The', ""Barry's Fancy"", 'Clogger Quilt', 'Clogger Quilt, The', ""Cogger's Quilt, The"", 'Corry Hilly', ""Glogger's Quilt, The"", ""Kathleen's Fiddle"", ""Larry Redican's"", ""Larry Redigan's"", ""Micho Russell's Favourite"", ""Paddy Finlay's"", ""Rattigan's"", 'Shallow, The', 'St Andrews', ""St. Andrew's"", 'St. Andrews', 'Swallow, The']"
 3000,"Humours Of Tralibane, The","['Humors Of Trailbane, The']"
 3001,Michael's,"[""Michael's Muzurka"", 'Michaels', 'Michaels']"
-3002,Whelan's Old Sow,"[""Cat's Rambles"", ""Cat's Rambles, The"", ""Whelan's Sow""]"
+3002,Whelan's Old Sow,"[""Cat's Rambles"", ""Cat's Rambles, The"", ""Eddie Moloney's"", ""Whelan's Sow""]"
 3003,Paddy Ryan's Nightmare,"[""Paddy Kenny's""]"
 3005,Cap And Bells,"['Amuigh Ar An mBothar', 'Cap And Bell', 'Cap And Bell, The', 'Cap And The Bell, The', 'Out On The Road']"
 3006,Caherlistrane,"[""McMahon's Favourite""]"
@@ -2443,7 +2443,7 @@ tune_id,name,alias
 3771,"Piper Of Drummons, The","['Piper Of Drummond, The']"
 3779,Miss McDonald,"['Ingean Ní Mic Domnaill', 'Lady McDonald', ""Lady McDonald's"", 'Miss MacDonald', ""Miss McDonald's"", 'Miss McDonalds', 'Spinning Wheel, The']"
 3781,"Walls Of Limerick, The","['Eight And Forty Sisters, The']"
-3786,Rodney's Glory,"[""Brave Rodney's Glory"", 'Princess Royal']"
+3786,Rodney's Glory,"['5 In A Line', ""Brave Rodney's Glory"", 'Princess Royal']"
 3788,Sam Cormier's,"['Brid Harpers', ""Denis Lanctot's"", ""Denis Langtou's"", ""Dennis Langtou's"", ""Dinny Lanctot's"", ""Dinny Langtou's"", 'Dinny Langtous', 'Reel Sam Cormier', 'Sam Cormier', 'Sam Cormier']"
 3791,Lt. Col. P.W. Forbes Of Corse OBE,['Lieutenant Colonel PW Forbes Of Corse OBE']
 3793,Farewell To Edinburgh,['Farawell To Edinburgh']
@@ -2525,6 +2525,7 @@ tune_id,name,alias
 3957,Drogheda Bay,"['Big Pat', ""Big Pat's"", 'Dandy, The', 'Tie The Ribbons', 'Trim The Bonnet']"
 3962,Geaftaí Baile Bhuí,"['Gaftai Baile Bui', 'Geaftai Baile Bui', 'Geaftai Bhaile Bhuí', 'Geaftai Bhaile Bui']"
 3965,"Doberman's Wallet, The","[""Dobermann's Wallet"", 'Drimneen', 'Drimneen, The']"
+3967,"Spotted Dog, The",['An Raibh An Pósadh Chuir I Gcrích?']
 3968,Jessie Over The Bridge,"[""Con McGinley's"", 'Over The Bride To Betty', 'Over The Bridge To Bessie']"
 3971,Cairngorum Mountain,"['Cairngorm Mountain', 'Cairngorm Mountains, The', 'Cairngorms, The', ""I Ne'er Shall Wean Her"", ""Mrs. O'Sullivan's"", ""Mrs. Sullivan's""]"
 3981,Con Cassidy's,['Lazy Dog']
@@ -2706,7 +2707,7 @@ tune_id,name,alias
 4368,Carrickfergus,['Carrigfergus']
 4369,Cheshire Round,"['Cheshire Round, The', 'Cheshire Rounds', 'Old Lancaster Hornpipe, The', 'Reed House Rant', 'Reed House Rant, The']"
 4373,Padraig O 'Keeffe's,"[""O'Keefe's"", 'Old Torn Petticoat', ""Padraig O'Keefe's""]"
-4376,"Navvie On The Line, The","['Clog, The', ""Dillon's"", ""Ewan's"", 'London, The', 'Navigator, The', 'Navvie, The', 'Navvy On The Line, The']"
+4376,"Navvie On The Line, The","['Clog, The', ""Dillon's"", ""Ewan's"", 'London, The', 'Navigator, The', 'Navvie, The', 'Navvy On The Line, The', 'Spring Time, The']"
 4377,"Hurricane, The","[""Skinner's""]"
 4382,Old Man And The Old Woman,"['Le Bonhomme Et La Bonne Femme', 'Le Vieillard Et La Vielle Dame', 'Old Man And Old Woman', 'Old Man-Old Woman']"
 4384,"Raheen, The","['Dingle, The', 'Galway Shawl', ""Jack Coen's"", ""Pip Murphy's"", 'Raheen Medley #3, The', ""Seán Walsh's""]"
@@ -3111,7 +3112,7 @@ tune_id,name,alias
 5327,"Peeler And The Goat, The","['An Buailteoir', 'An Gabhar Bán', 'An Siotcoimeadaide Agus An Ga', 'Cavan Buck, The', 'Gabhar Bán', ""I'll Puck You With My Horn O"", 'Recruiting Sergeant, The', 'Single', 'White Goat, The']"
 5332,"Bond Store, The","[""Deirdre Collis'"", 'Fort Of Kincora, The', ""Paddy Gavin's""]"
 5334,Myxamatosis,"['Dun Bunny, The', 'E Myxomatosis', 'Mixamojito', 'Myxomatosis', 'Randy The Rabbit']"
-5335,Ghoid Iad Mo Bhean Uam An Raoir,"['Ghoid Iad Mo Bhean Uam An Reir', 'Ghoid Lad Mo Bhean Uam An Raoir', 'They Stole My Wife Last Night', 'Traditional Gaelic Melody']"
+5335,Ghoid Iad Mo Bhean Uam An Raoir,"['Ghoid Iad Mo Bhean Uam An Reir', 'They Stole My Wife Last Night', 'Traditional Gaelic Melody']"
 5336,Nothing Can Sadden Us,['Nothing In Life Can Sadden Us']
 5337,Eileen O'Brien's,"[""Conor Tully's No.1""]"
 5343,Rosebud,"['Rosebud Sled, The', 'Rosebud, The', 'Sled, The']"
@@ -3178,7 +3179,7 @@ tune_id,name,alias
 5477,"Dooney Rock, The","[""Sean Ryan's""]"
 5478,'S Iomadh Rud A Chunnaic Mi,"[""'S Ioma Rud A Chunna Mi"", ""'S Iomadh Rud A Chunna Mi"", ""'S Iomadh Rud A Chunnaic Mi Highland Fling"", ""'S Iomaidh Rud A'Chunna Mi"", ""'S Ionadh Riud A Chunnaic Mi"", ""'Siomadh Rud A Chunna Mi"", 'Cenneag Mhor', 'Many Things Have I Seen', ""Many's The Thing I Saw""]"
 5479,Boys Of School Hill,"['Blokes Of Bluehill, The', 'Boys Of Blue Hill', 'Boys Of The Blue Hill, The']"
-5480,An Ugly Customer,"['After The Hare', 'Casagh, The', 'Eleventh Of October, The', ""John Henry's"", ""John Watt Henry's"", ""Johnny 'Watt' Henry's"", ""Johnny Henry's"", ""Johnny Watt Henry's"", ""Paddy Sean Nancy's"", 'Rochdaire Gránna']"
+5480,An Ugly Customer,"['After The Hare', 'Casagh, The', 'Eleventh Of October, The', ""John Henry's"", ""John Watt Henry's"", ""Johnny 'Watt' Henry's"", ""Johnny Henry's"", ""Johnny Watt Henry's"", ""Paddy Sean Nancy's"", 'Rochdaire Gránna', 'Ugly Customer, The']"
 5481,Barrack Street,"['Humours Of Barrack Street, The']"
 5483,"Night Cap, The","[""John McKenna's No. 2"", ""Judy Callahan's"", 'Nightcap, The']"
 5487,Ur-Chnoc Chein Mhic Cainte,"[""Killin's Fairy Hill"", 'Uir Chnoic Cein Mhic Cainte', 'Ur Cnoc Cein-Mhic-Cainte', 'Úr Cnoc Chéin Mhic Cáinte', 'Urchnoc Chein Mhic Cainte']"
@@ -3448,7 +3449,7 @@ tune_id,name,alias
 6164,Frank Quinn's,"[""Mary's Favourite"", ""Miss Fahey's Fancy""]"
 6166,"Bottom Of The Punchbowl, The","['Bottom Of The Punch Bowl', 'Bottom Of The Punch Bowl, The', 'Punch Bowl, The']"
 6169,"Limerick, The","[""Pat Hanley's, Pat Hanley's No. 2""]"
-6170,Ray's Classic,"['Metro', 'North Cregg, The', 'Race Classic, The', ""Roy's Session"", ""Tina Lech's"", 'West Clare', 'West Limerick, The', ""Willie Hunter's""]"
+6170,Ray's Classic,"[""Fiddler's Path, The"", 'Metro', 'North Cregg, The', 'Race Classic, The', ""Roy's Session"", ""Tina Lech's"", 'West Clare', 'West Limerick, The', ""Willie Hunter's""]"
 6177,"Doctor's, The","['Doctor, The']"
 6178,"Road To Ennis, The",['Man Of Aran']
 6180,McDonnell's Rant,"['Banagher Lasses, The']"
@@ -3941,7 +3942,7 @@ tune_id,name,alias
 7222,Tie The Bonnet,"['Easy And Slow', 'Janet Tied The Bonnet Tight', 'Jenny Lace Your Tights', 'Tie The Bonnet Tight']"
 7225,Sean McGuire's Dream,"[""Sean Maguire's Dream""]"
 7226,Scotty's Highland,"['Highland, The']"
-7227,Indian Ate The Woodchuck,"['Black Rock', 'Duck Chewed Tobacco, The', 'Duck Chews Tobacco, The', 'Gilderoy', 'Indian Ate A Wood Chuck', 'Indian Ate A Woodchuck', 'Indian Ate A Woodcock', 'Indian Ate A Woodhen', 'Indian Ate A Woodpecker', 'Indian Ate The Woodcock', 'Indian Ate The Woodhen', 'Indian Ate The Woodpecker', 'Indian Eat A Woodchuck', 'Indian Eat A Woodcock', 'Indian Eat A Woodhen', 'Indian Eat A Woodpecker', 'Indian Eat The Woodchuck', 'Indian Eat The Woodcock', 'Indian Eat The Woodhen', 'Indian Eat The Woodpecker', 'Indian Killed A Woodcock', 'Indian Killed The Woodcock', 'Jolly Beggarman, The', 'Nellie On The Shore']"
+7227,Indian Ate The Woodchuck,"['Black Rock', 'Duck Chewed Tobacco, The', 'Duck Chews Tobacco, The', 'Gilderoy', 'Indian Ate A Wood Chuck', 'Indian Ate A Woodchuck', 'Indian Ate A Woodcock', 'Indian Ate A Woodhen', 'Indian Ate A Woodpecker', 'Indian Ate The Woodcock', 'Indian Ate The Woodhen', 'Indian Ate The Woodpecker', 'Indian Eat A Woodchuck', 'Indian Eat A Woodcock', 'Indian Eat A Woodhen', 'Indian Eat A Woodpecker', 'Indian Eat The Woodchuck', 'Indian Eat The Woodcock', 'Indian Eat The Woodhen', 'Indian Eat The Woodpecker', 'Indian Killed A Woodcock', 'Indian Killed The Woodcock', 'Jolly Beggarman, The', 'Nellie On The Shore', 'Roving Journeyman, The']"
 7229,"Murray River, The","['Murray River Two-Step, The']"
 7231,Maggie And Jock,"['Maggie And Jock Barn Dance, The']"
 7233,"Flappers, The","['Flappers One-Step, The']"
@@ -4136,7 +4137,7 @@ tune_id,name,alias
 7635,"Bobers Of Brechin, The","[""Bob'ers Of Brechin, The"", 'Bobbers Of Brechin', 'Bobbers Of Brechin, The', 'Strathbogie Toast, The']"
 7636,Maguire And Paterson,"['Macguire & Patterson', 'Maguire & Paterson', 'Maguire & Patterson', 'Maguire And Patterson', ""Maguire And Patterson's"", ""McGuire And Patterson's""]"
 7637,Willie's Auld Trews,"['Deil Stick The Minister', 'Devil Stick The Minister', 'Sean Triubhas Uilleachan', 'Seann Bhriogais Aig Uilleam', 'Seann Bhriogais Uilleim', 'Shantruish', 'Stick The Minister', 'This Is No My Ain Hoose', 'This Is No My Ain Plaid', ""Willie's Aul' Trews"", ""Willie's Old Trousers"", 'Willies Auld Trews']"
-7639,Rosin The Bow,"['Boys Of Kilmichael, The', 'Catalpa', 'Kilcash Or Caoine Cill Cháis', 'Old Rosin The Beau', 'Old Rosin The Bow', 'Rosin The Beau', 'Rosin The Bow']"
+7639,Rosin The Bow,"['Boys Of Kilmichael, The', 'Catalpa', 'Kilcash Or Caoine Cill Cháis', 'Old Rosin The Beau', 'Old Rosin The Bow', 'Rose That The Wind Blew Down, The', 'Rosin The Beau', 'Rosin The Bow']"
 7642,Albert Farmer's Bonfire,"[""Albert Farmer's"", ""Albert Farmer's Bonfire Dance"", ""Albert Farmer's Bonfire Tune"", ""Albert Farmer's Schottische""]"
 7644,Jerome's Farewell To Gibraltar,"[""Jerome's Farewell"", ""Jerome's Farewell To Georges Banks""]"
 7648,"Kilfenora, The","['Cill Ḟionnúraċ', 'Fog On The Mountain', 'Kilfenora No. 3']"
@@ -4909,7 +4910,7 @@ tune_id,name,alias
 9449,Carraigban,['Carraighan']
 9450,Kilteery,['Kilteery Pier']
 9451,Lynch's,"[""Lynchs'""]"
-9457,Billy First's,"[""Billy Rush's"", 'Brenann Mac Finn']"
+9457,Billy First's,"[""Billy Rush's"", 'Brenann Mac Finn', 'Brennan Mac Finn', 'Brennan MacFinn']"
 9460,"Road To Reel, The","['Road To Reel., The', 'Road To The Reel', 'Road To The Reel, The']"
 9461,Lyndhurst,"['Lyndhurst, The']"
 9463,Drunken Duck,"['Drunken Duck, The']"
@@ -5030,7 +5031,7 @@ tune_id,name,alias
 9768,Tibbie Fowler O' The Glen,"[""Sic A Wife As Willie's Wife"", ""Tibby Fowler O' The Glen""]"
 9779,Gleanntan Glas Gaoith Dobhair,"[""Paddy's Sweet Shamrock Shore""]"
 9780,Hannah Mhici Mchicheail's,"[""Hannah Mhici Mhicheail's""]"
-9781,"Frieze Breeches, The","['An Brístín Mire', 'Boyne Hunt, The', ""Gallagher's""]"
+9781,"Frieze Breeches, The","['An Brístín Mire', 'Boyne Hunt, The', ""Gallagher's"", 'Seilg Na Boinne']"
 9783,Carmarthen,"['Carmarthenshire', 'Carmarthenshire, The', 'Pibddawns Caerfyrddin', 'Pibddawns Sir Gar', 'Pibddawns Sirgar']"
 9786,John McKenna's,"[""John McKenna's""]"
 9795,Pump The Weasel,['Whack Your Porcupine']
@@ -5647,7 +5648,7 @@ tune_id,name,alias
 11633,Tam Bain's Lum,"[""Tam Bain's Slum""]"
 11634,"House Of Letterfourie, The","[""Lady Anne Gordon's"", 'Lasses Look Behind You', 'Lasses Look Beyond You']"
 11636,Andre Alain's,"[""6/8 D'André Alain""]"
-11637,Uirchill A' Chreagain,"['Ag Úirchill An Chreagáin', 'Churchyard Of Kilcreggan, The', 'Clay Of Kilcreggan, The', 'Clay Of The Church Of Creggan, The', 'Creggan Churchyard', 'Úirchill An Chreagáin']"
+11637,Uirchill A' Chreagain,"['Ag Úirchill An Chreagáin', 'Churchyard Of Kilcreggan, The', 'Clay Of Kilcreggan, The', 'Clay Of The Church Of Creggan, The', 'Creggan Churchyard', 'Úirchill An Chreagáin', 'Ur Chill A Chreagain']"
 11641,Paddy Glackin's Trip To Dingle,"[""Paddy's Trip To Dingle""]"
 11644,Kelso Accordion And Fiddle Club,"['Kelso Accordion And Fiddle Club, The']"
 11645,Joys Of Quebec,"['Joys Of Quebec, The', 'Les Joyeuse Québécoise', 'Les Joyeuses Québécoises', 'Les Joyeuses Quebequoises']"
@@ -5718,7 +5719,7 @@ tune_id,name,alias
 11796,Les Filles De Mon Pays,"['Adieu Les Filles', 'Les Jolies Filles De Mon Pays']"
 11798,Me Mother Won't Let Me Marry,"[""Daddy Won't Let Me Marry"", ""Me Daddy Won't Let Me Marry"", ""Mother Won't Let Me Marry"", ""My Daddy Won't Let Me Marry"", ""My Mother Won't Let Me Marry""]"
 11799,Grassy Road,"['Grassy Road, The']"
-11801,Munlochy Bridge,"[""Dh'ith Na Coinna Maragan"", ""Gun D' Dhiùlt Am Bodach Fodar Dhomh"", ""I'll Hap Ye In My Petticoat"", ""I'll Hap Ye In My Plaidie"", 'Ith Na Coin Na Maragan', 'Leith Wynd', 'Munlochie Bridge', 'Munlocky Bridge', 'O Dhiùlt Am Bodach Fodar Dhomh', ""Sir Harry's Welcome Home"", ""Tha M'inntinn Raoir A-nochd 's A-raoir""]"
+11801,Munlochy Bridge,"[""Dh'ith Na Coinna Maragan"", ""Gun D' Dhiùlt Am Bodach Fodar Dhomh"", ""I'll Hap Ye In My Petticoat"", ""I'll Hap Ye In My Plaidie"", 'Ith Na Coin Na Maragan', 'Leith Wynd', 'Munlochie Bridge', 'Munlocky Bridge', ""O Dh'ith Na Coin Na Maragan"", 'O Dhiùlt Am Bodach Fodar Dhomh', ""Sir Harry's Welcome Home"", ""Tha M'inntinn Raoir A-nochd 's A-raoir""]"
 11815,Grind Hans Jässpôdspolska,"['Banquet Polska After Grins Hans', 'C E G', 'C I G', 'Grinds Hans Jässpösspolska', 'Grins Hans Jässpôdspolska', 'Jässpôdspolska Efter Grins Hans']"
 11817,Lemmy Brazil's,"[""Lemmy Brazil's #2"", ""Lemmy Brazil's No. 2""]"
 11818,Matt Hayes',"[""Matt Hayes' No. 1""]"
@@ -6944,6 +6945,7 @@ tune_id,name,alias
 16177,Manfrina Di Castelbolognese,['Manfrina Di Castelbolognese (di Livio)']
 16179,Errigal McCreigh,"['Young Black Cow, The']"
 16184,La Vanderina,['Manfrina Di San Giovanni In Marignano']
+16187,John Joe McElroy's,"['Midnight Schottische', 'Rainbow Schottische', 'Winter Night Schottische']"
 16217,Tori's,['Footpath']
 16218,Red House,"['Red House In Cardiff, The']"
 16222,Miss MacLean Of Inverscadle,"[""Miss MacLean's, Miss M'Lean""]"
@@ -7031,7 +7033,7 @@ tune_id,name,alias
 16610,Paddy Fahey's,"[""Paddy Fahey's No. 14""]"
 16611,Paddy Fahey's,"[""Paddy Fahey's No. 28""]"
 16616,Flowers Of The Forest,"['Liltin, The']"
-16620,Eliza Jane,['Liza Jane']
+16620,Eliza Jane,"['Little Liza Jane', 'Liza Jane']"
 16623,Shetland Lullaby,['Wren Song']
 16624,King Robert The Bruce,"[""Bruce's March"", 'Robert The Bruce']"
 16625,Trip To The Quarry,['A Curious Denis Murphy']
@@ -7043,7 +7045,7 @@ tune_id,name,alias
 16655,Wat Ye Wha I Met The Streen,"[""Lord Haddo's Favourite""]"
 16661,Na Conneries,"['Connerys, The', 'Na Connerys']"
 16667,An Bríste Bréidín,"['Frieze Britches, The']"
-16673,Amhran Na Tra Baine,"['Amhrán An Bhá', 'Curachaí Na Trá Báine', 'Song Of The Drowning']"
+16673,Amhran Na Tra Baine,"['Amhrán An Bhá', 'Amhrán Na Trá Báine', 'Curachaí Na Trá Báine', 'Song Of The Drowning']"
 16678,Aliyah Leahy's Baptism,"[""Aliyah Leahy's""]"
 16679,Old Wooden Bridge,"['Old Wooden Bridge, The']"
 16692,Deerness Two-Step,"['Deerness Two-Step, The']"
@@ -7140,7 +7142,7 @@ tune_id,name,alias
 17172,Scottish Urbaine,['Schottische Urbain']
 17173,Old Banish Misfortune,['Díbir An Mí-ádh']
 17175,Da Thabh Air An Fharaidh,['Good House On The Shore']
-17176,Da Foostra,['Lucky Can You Link Ony']
+17176,Da Foostra,"['Da Foostra', 'Lucky Can You Link Ony']"
 17188,Fante Vals,"['Ein Gammal Vals Etter Karl-Fant', 'Fantevals', 'Vals Efter Karl-Fant']"
 17190,Van Diemens Land,"['Gallant Poachers, The', ""King's Lynn""]"
 17191,Lady Mauchline's,"['Dublin Lasses', ""Lord Mauchline's"", 'Lothian Lasses', 'Muircheartach Ua Maelmhuaidh', 'Murtough Molloy']"
@@ -7307,7 +7309,7 @@ tune_id,name,alias
 17934,Finbarr Dwyer's,['Funny Old']
 17936,DAF Truck,"[""Cashman's""]"
 17937,Lehane's,['Polca Uí Liatháin']
-17943,Le Reel De Violon Du Monte En Vielle,"['Fiddle Tunned Like A Viol', 'Le Reel De Violon Du Monde En Veille', 'Le Violon Accordé Comme Une Viole', 'Reel Du Violon Monté En Vièle']"
+17943,Le Reel De Violon Du Monte En Vielle,"['Fiddle Tunned Like A Viol', 'Le Reel De Violon Du Monde En Veille', 'Le Violon Accordé Comme Une Viole', 'Reel Du Violon Monté En Vièle', 'Violon Accordé Comme Une Viole', 'Violon Accorder Comme Une Viole']"
 17945,Welcome To The Piper,"[""Dougald's Favourite""]"
 17946,"Nightly Frolics Of Dominic Reardon, The",['Frolics']
 17956,Da Bonnie Lass O' Bekkahill,"[""Bonny Lass O' Bekkahill"", ""Da Boannie Lass O' Bekka Hill""]"
@@ -7386,7 +7388,6 @@ tune_id,name,alias
 18326,Clark's,"[""Jim Clark's""]"
 18329,Jimmy's Close-In,"[""Jimmy's Close In""]"
 18332,Mac Master's,"[""Mac Master's Tune"", ""Mack Master's""]"
-18336,Lucky Can You Link Only,['Da Foostra']
 18352,Mrs. Sampson's Delight,"[""Mrs Sampson's Delight""]"
 18353,Taka's Tune,"[""Taka's Tune #1""]"
 18375,Robert MacDonald's,['Drummond Castle']
@@ -7937,7 +7938,7 @@ tune_id,name,alias
 21656,Deálaí's,"[""Muiris Ó Dálaigh's""]"
 21657,"Sporting Boys Of Scotstown, The","['Sporting Lads Of Scotstown, The']"
 21666,Ukraine National Anthem,"['Shche Ne Vmerla Ukrayini I Slava, I Volya', 'Ukraine Is Not Yet Lost']"
-21672,Pop,['Pop Polka #1']
+21672,Pop,"['Pop Polka #1', 'Pop Polka 1']"
 21673,Pop,['Pop Polka #2']
 21674,Pop,['Pop Polka #3']
 21681,Wayesborough,['Waynesboro']
@@ -7954,7 +7955,7 @@ tune_id,name,alias
 21745,Top Road,['Top Road Polka #2']
 21759,Sadhbh Ni Bhruinneallaigh,"['Sadhbh Bhruinnealla', 'Sadhbh Ní Bhruinnealla', 'Sadhbh Ní Mhongaile', 'Sadhbh Ní Mhonghaile']"
 21774,Chris Stout's Compliments To The Bon Accord Ale House,['Ode To The Bon Accord Ale House']
-21775,Missouri Mud,"['Hell In The Mud', 'Stuck In The Mud']"
+21775,A,"['Hell In The Mud', 'Stuck In The Mud']"
 21788,See It. Say It. Sorted.,"['See It, Say It, Sorted']"
 21792,Giullan Nam Bo,"['Cow Boy, The', 'Cowboy, The']"
 21797,Dougie McDonald's,"[""Dougie McDonald's #2""]"
@@ -7998,6 +7999,7 @@ tune_id,name,alias
 22003,Paddy Fahey's,"[""Paddy Fahey's No. 22""]"
 22004,Sean's,"[""Sean's 60th, Sleamhnán Sean""]"
 22008,Vargus's,"[""John Ferguson's No.1""]"
+22011,Tuskar Rock,['Tuscar Rock']
 22021,Miss Laura Andrew,['Laura Andrew']
 22028,Seán Ryan's,"[""Seán Ryan's No.10""]"
 22031,Mary Ellen,['Waltz Mary Ellen']
@@ -8087,6 +8089,7 @@ tune_id,name,alias
 22749,Turas Go Tír Na NÓg,['Tir Na Nog']
 22767,Nantwich Fair,['Namptwich Fair']
 22768,An Ciarraíoch Mallaithe,"['Accursed Kerryman, The']"
+22781,Thank You For Coming,['Thanks For Coming']
 22823,We Hold The Wall,['On Tient Le Mur']
 22824,"Tocane River, The","['River, The']"
 22833,Sunbeam,"['Sunbeam, The']"
@@ -8184,9 +8187,18 @@ tune_id,name,alias
 23416,Bidh Clann Ulaidh,"['Children Of Ulster', 'Men Of Ulster']"
 23428,"Have You Seen Mary, Daughter Of Alasdair","['An Bhfaca Sibh Máire, Iníon Alasdair', 'Faca Sibh Mairi Nighean Alasdair', 'Faca Sibh Máiri Nighean An Alasdair (Have You Seen Mary, Daughter Of Alasdair)']"
 23430,Captain H. Munro,['Captain H. Munro Of Newtown']
-23450,King Of The Sea,['Ree Ny Marrey']
+23450,King Of The Sea,"['King Of The Sea, The', 'Ree Ny Marrey']"
 23459,Xovellanos,"['Xovellanos, 1']"
 23463,Ní Ar Chnoc Ná Ar Ísleacht,['Neither A High Place Nor A Low Place']
 23467,Violin Sonata,['Violin Sonata No.1']
 23474,Mike Hoban's,"[""Mike Hoban's Joy""]"
 23480,Danny O'Donnell's,"[""Danny O'Donnell's #1""]"
+23504,"Bonniest Lass In A' The World, The","[""Bonniest Lass In A' The Warld, The"", 'Bonniest Lass In All The World, The']"
+23526,Hunter's Moon,['Shropshire Lad']
+23530,Ben Goehring's,"[""Ben Goehring's #20""]"
+23548,Horse In The Dike,['Horse In The Gripe']
+23549,Philip Astira,"['Brave Philip Store', 'Philip A Stór']"
+23568,She's Sweetest,"[""She's Sweetest When She Is Naked"", ""Sweetest When She's Naked""]"
+23572,Taka's,"[""Taka's No.2""]"
+23573,Taka's,"[""Taka's No.3""]"
+23589,"Postman's Lament, The","[""John Harrington's Lament""]"

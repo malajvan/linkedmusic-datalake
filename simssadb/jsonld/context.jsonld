@@ -5,7 +5,8 @@
         "simssadb_file": "simssadb:files/",
         "musical_work_variant_titles": "wdt:1476",
         "composer": "wdt:P86",
-        "genre_style": "wdt:P136",
+        "genre_style": "wdt:P135",
+        "genre_type": "wdt:P136",
 
         "database": {
             "@id": "https://schema.org/Dataset",

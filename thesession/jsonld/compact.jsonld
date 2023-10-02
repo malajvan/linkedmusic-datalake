@@ -1,6 +1,6 @@
 [
     {
-        "popularity_tunebooks": 5279,
+        "popularity_tunebooks": 5304,
         "tunes_name": "Cooley's",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -1562,7 +1562,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1970,
+        "popularity_tunebooks": 1976,
         "tunes_name": "Bucks Of Oranmore, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -1848,6 +1848,13 @@
                 "artist": "Finbar Furey",
                 "recording": "Prince Of Pipers",
                 "track": 1
+            },
+            {
+                "@id": "thesession:recordings/7907",
+                "@type": "wd:Q3302947",
+                "artist": "Fintan Vallely, Gerry O'Connor, Tiarnan \u00d3 Duinnchinn, Sib\u00e9al Davitt",
+                "recording": "Comp\u200b\u00e1\u200bnach - Music from All Counties of Ireland",
+                "track": 15
             },
             {
                 "@id": "thesession:recordings/4953",
@@ -3567,7 +3574,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 627,
+        "popularity_tunebooks": 629,
         "tunes_name": "Belfast, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=hornpipe",
@@ -4091,7 +4098,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 2751,
+        "popularity_tunebooks": 2761,
         "tunes_name": "Blarney Pilgrim, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -5741,7 +5748,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 711,
+        "popularity_tunebooks": 712,
         "tunes_name": "Bonaparte Crossing The Rhine",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=march",
@@ -6253,7 +6260,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 3610,
+        "popularity_tunebooks": 3626,
         "tunes_name": "Banshee, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -7135,7 +7142,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 3638,
+        "popularity_tunebooks": 3653,
         "tunes_name": "Banish Misfortune",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -7393,6 +7400,13 @@
                 "artist": "Finbarr Dwyer",
                 "recording": "Pure Traditional Music Of Ireland",
                 "track": 6
+            },
+            {
+                "@id": "thesession:recordings/7907",
+                "@type": "wd:Q3302947",
+                "artist": "Fintan Vallely, Gerry O'Connor, Tiarnan \u00d3 Duinnchinn, Sib\u00e9al Davitt",
+                "recording": "Comp\u200b\u00e1\u200bnach - Music from All Counties of Ireland",
+                "track": 22
             },
             {
                 "@id": "thesession:recordings/3457",
@@ -8220,7 +8234,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 5059,
+        "popularity_tunebooks": 5075,
         "tunes_name": "Butterfly, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=slip jig",
@@ -9247,7 +9261,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 926,
+        "popularity_tunebooks": 931,
         "tunes_name": "Boys Of Malin, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -9966,7 +9980,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 2181,
+        "popularity_tunebooks": 2189,
         "tunes_name": "Cliffs Of Moher, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -10716,6 +10730,13 @@
                 "track": 12
             },
             {
+                "@id": "thesession:recordings/7914",
+                "@type": "wd:Q3302947",
+                "artist": "The Kelly Family",
+                "recording": "A Family Tradition: Traditional Irish Music From The Kelly Family",
+                "track": 10
+            },
+            {
                 "@id": "thesession:recordings/4714",
                 "@type": "wd:Q3302947",
                 "artist": "The Moving Violations",
@@ -11082,7 +11103,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 904,
+        "popularity_tunebooks": 908,
         "tunes_name": "Chief O'Neill's Favourite",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=hornpipe",
@@ -12143,7 +12164,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 2138,
+        "popularity_tunebooks": 2151,
         "tunes_name": "Calliope House",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -12955,7 +12976,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 620,
+        "popularity_tunebooks": 621,
         "tunes_name": "Clumsy Lover, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -13298,7 +13319,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 785,
+        "popularity_tunebooks": 789,
         "tunes_name": "Coleraine, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -13691,7 +13712,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1154,
+        "popularity_tunebooks": 1161,
         "tunes_name": "Concertina, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -14049,6 +14070,13 @@
                 "track": 11
             },
             {
+                "@id": "thesession:recordings/7914",
+                "@type": "wd:Q3302947",
+                "artist": "The Kelly Family",
+                "recording": "A Family Tradition: Traditional Irish Music From The Kelly Family",
+                "track": 11
+            },
+            {
                 "@id": "thesession:recordings/2623",
                 "@type": "wd:Q3302947",
                 "artist": "The Kings River Band",
@@ -14267,7 +14295,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 2884,
+        "popularity_tunebooks": 2890,
         "tunes_name": "Connaughtman's Rambles, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -15914,7 +15942,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 2067,
+        "popularity_tunebooks": 2072,
         "tunes_name": "Cup Of Tea, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -15990,6 +16018,13 @@
                 "artist": "Cattle Grid",
                 "recording": "A Spider In The Hood",
                 "track": 11
+            },
+            {
+                "@id": "thesession:recordings/5829",
+                "@type": "wd:Q3302947",
+                "artist": "CCE Tour 1975",
+                "recording": "Comhaltas Champions On Tour 1975",
+                "track": 4
             },
             {
                 "@id": "thesession:recordings/2018",
@@ -16559,13 +16594,6 @@
                 "track": 4
             },
             {
-                "@id": "thesession:recordings/5829",
-                "@type": "wd:Q3302947",
-                "artist": "Various Artists",
-                "recording": "Comhaltas Champions On Tour 1975",
-                "track": 4
-            },
-            {
                 "@id": "thesession:recordings/6761",
                 "@type": "wd:Q3302947",
                 "artist": "Various Artists",
@@ -16744,7 +16772,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1386,
+        "popularity_tunebooks": 1390,
         "tunes_name": "Castle Kelly",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -17858,12 +17886,12 @@
                 "meter": "12/8",
                 "mode": "Amixolydian",
                 "date": "2009-12-19T16:32:46",
-                "username": "muspc"
+                "username": "Peter"
             }
         ]
     },
     {
-        "popularity_tunebooks": 633,
+        "popularity_tunebooks": 636,
         "tunes_name": "Dingle Regatta, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=slide",
@@ -17918,6 +17946,13 @@
                 "artist": "Eddie Clarke",
                 "recording": "Unheard",
                 "track": 25
+            },
+            {
+                "@id": "thesession:recordings/7907",
+                "@type": "wd:Q3302947",
+                "artist": "Fintan Vallely, Gerry O'Connor, Tiarnan \u00d3 Duinnchinn, Sib\u00e9al Davitt",
+                "recording": "Comp\u200b\u00e1\u200bnach - Music from All Counties of Ireland",
+                "track": 16
             },
             {
                 "@id": "thesession:recordings/6939",
@@ -18167,7 +18202,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 836,
+        "popularity_tunebooks": 838,
         "tunes_name": "Dinkey's",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -18539,6 +18574,13 @@
                 "track": 10
             },
             {
+                "@id": "thesession:recordings/7911",
+                "@type": "wd:Q3302947",
+                "artist": "Oscar West and Rennie Pearson",
+                "recording": "Polytropos",
+                "track": 7
+            },
+            {
                 "@id": "thesession:recordings/4434",
                 "@type": "wd:Q3302947",
                 "artist": "Paul and David Garner with Jon Hicks",
@@ -18779,7 +18821,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1259,
+        "popularity_tunebooks": 1266,
         "tunes_name": "Donnybrook Fair",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -19154,7 +19196,7 @@
                 "@id": "thesession:recordings/768",
                 "@type": "wd:Q3302947",
                 "artist": "Oisin",
-                "recording": "Oisin",
+                "recording": "Ois\u00edn",
                 "track": 1
             },
             {
@@ -19454,7 +19496,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 6411,
+        "popularity_tunebooks": 6431,
         "tunes_name": "Drowsy Maggie",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -21099,7 +21141,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 317,
+        "popularity_tunebooks": 318,
         "tunes_name": "Dusty Miller, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=slip jig",
@@ -21520,7 +21562,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1506,
+        "popularity_tunebooks": 1516,
         "tunes_name": "Dusty Windowsills",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -22164,7 +22206,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 2052,
+        "popularity_tunebooks": 2065,
         "tunes_name": "Off To California",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=hornpipe",
@@ -22310,6 +22352,13 @@
                 "artist": "Fiddler's Leap",
                 "recording": "Tam's Auld Love Song",
                 "track": 12
+            },
+            {
+                "@id": "thesession:recordings/7907",
+                "@type": "wd:Q3302947",
+                "artist": "Fintan Vallely, Gerry O'Connor, Tiarnan \u00d3 Duinnchinn, Sib\u00e9al Davitt",
+                "recording": "Comp\u200b\u00e1\u200bnach - Music from All Counties of Ireland",
+                "track": 4
             },
             {
                 "@id": "thesession:recordings/5191",
@@ -22914,7 +22963,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 299,
+        "popularity_tunebooks": 301,
         "tunes_name": "Franc A'Phoill",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -23277,7 +23326,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 194,
+        "popularity_tunebooks": 195,
         "tunes_name": "Friendly Visit, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=hornpipe",
@@ -23791,7 +23840,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1454,
+        "popularity_tunebooks": 1460,
         "tunes_name": "Farewell To Ireland",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -23972,6 +24021,13 @@
                 "artist": "Fidil",
                 "recording": "Fidil 3",
                 "track": 7
+            },
+            {
+                "@id": "thesession:recordings/7907",
+                "@type": "wd:Q3302947",
+                "artist": "Fintan Vallely, Gerry O'Connor, Tiarnan \u00d3 Duinnchinn, Sib\u00e9al Davitt",
+                "recording": "Comp\u200b\u00e1\u200bnach - Music from All Counties of Ireland",
+                "track": 30
             },
             {
                 "@id": "thesession:recordings/4429",
@@ -24273,6 +24329,13 @@
                 "artist": "The Huckleberries",
                 "recording": "Reelgrass",
                 "track": 8
+            },
+            {
+                "@id": "thesession:recordings/7914",
+                "@type": "wd:Q3302947",
+                "artist": "The Kelly Family",
+                "recording": "A Family Tradition: Traditional Irish Music From The Kelly Family",
+                "track": 9
             },
             {
                 "@id": "thesession:recordings/5064",
@@ -24637,7 +24700,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 790,
+        "popularity_tunebooks": 791,
         "tunes_name": "Frieze Breeches, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -25646,7 +25709,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1333,
+        "popularity_tunebooks": 1339,
         "tunes_name": "Jig Of Slurs, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -26201,7 +26264,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 873,
+        "popularity_tunebooks": 877,
         "tunes_name": "Golden Keyboard, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -26604,7 +26667,7 @@
                 "@id": "thesession:recordings/1410",
                 "@type": "wd:Q3302947",
                 "artist": "Various Artists",
-                "recording": "Seoltai Seidte (Setting Sail)",
+                "recording": "Seolta\u00ed S\u00e9idte: Setting Sail",
                 "track": 41
             },
             {
@@ -26728,7 +26791,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 604,
+        "popularity_tunebooks": 608,
         "tunes_name": "Gold Ring, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -27543,7 +27606,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 663,
+        "popularity_tunebooks": 665,
         "tunes_name": "Galway, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=hornpipe",
@@ -28270,7 +28333,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1452,
+        "popularity_tunebooks": 1456,
         "tunes_name": "Kerry, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=polka",
@@ -28451,13 +28514,6 @@
                 "artist": "Michael Coleman",
                 "recording": "The Enduring Magic",
                 "track": 19
-            },
-            {
-                "@id": "thesession:recordings/4415",
-                "@type": "wd:Q3302947",
-                "artist": "Michael Sexton C\u00e9il\u00ed Band",
-                "recording": "Michael Sexton Ceili Band, Volume 2: Mad to Dance",
-                "track": 10
             },
             {
                 "@id": "thesession:recordings/5113",
@@ -28777,7 +28833,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 461,
+        "popularity_tunebooks": 463,
         "tunes_name": "Guns Of The Magnificent Seven, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -29048,7 +29104,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 627,
+        "popularity_tunebooks": 629,
         "tunes_name": "Green Groves Of Erin, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -29679,7 +29735,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 2597,
+        "popularity_tunebooks": 2603,
         "tunes_name": "Gravel Walks, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -29916,6 +29972,13 @@
                 "artist": "Eileen Ivers",
                 "recording": "Crossing The Bridge",
                 "track": 1
+            },
+            {
+                "@id": "thesession:recordings/7907",
+                "@type": "wd:Q3302947",
+                "artist": "Fintan Vallely, Gerry O'Connor, Tiarnan \u00d3 Duinnchinn, Sib\u00e9al Davitt",
+                "recording": "Comp\u200b\u00e1\u200bnach - Music from All Counties of Ireland",
+                "track": 9
             },
             {
                 "@id": "thesession:recordings/2371",
@@ -30621,7 +30684,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1261,
+        "popularity_tunebooks": 1265,
         "tunes_name": "Geese In The Bog, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -31558,7 +31621,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 989,
+        "popularity_tunebooks": 993,
         "tunes_name": "High, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -31851,6 +31914,13 @@
                 "artist": "Nine-8ths Irish",
                 "recording": "West of Ireland",
                 "track": 1
+            },
+            {
+                "@id": "thesession:recordings/7911",
+                "@type": "wd:Q3302947",
+                "artist": "Oscar West and Rennie Pearson",
+                "recording": "Polytropos",
+                "track": 12
             },
             {
                 "@id": "thesession:recordings/2654",
@@ -32305,7 +32375,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1147,
+        "popularity_tunebooks": 1154,
         "tunes_name": "Humours Of Glendart, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -33392,7 +33462,7 @@
                 "@id": "thesession:recordings/768",
                 "@type": "wd:Q3302947",
                 "artist": "Oisin",
-                "recording": "Oisin",
+                "recording": "Ois\u00edn",
                 "track": 8
             },
             {
@@ -33640,7 +33710,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 319,
+        "popularity_tunebooks": 320,
         "tunes_name": "Humours Of Westport, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -34193,7 +34263,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 895,
+        "popularity_tunebooks": 898,
         "tunes_name": "Hardiman The Fiddler",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=slip jig",
@@ -35072,7 +35142,7 @@
                 "meter": "9/8",
                 "mode": "Adorian",
                 "date": "2010-07-15T14:39:39",
-                "username": "muspc"
+                "username": "Peter"
             },
             {
                 "tunes_type": "slip jig",
@@ -35122,7 +35192,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 2681,
+        "popularity_tunebooks": 2688,
         "tunes_name": "Harvest Home, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=hornpipe",
@@ -36001,7 +36071,7 @@
                 "@id": "thesession:recordings/1410",
                 "@type": "wd:Q3302947",
                 "artist": "Various Artists",
-                "recording": "Seoltai Seidte (Setting Sail)",
+                "recording": "Seolta\u00ed S\u00e9idte: Setting Sail",
                 "track": 19
             },
             {
@@ -36213,7 +36283,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 622,
+        "popularity_tunebooks": 624,
         "tunes_name": "Jackie Coleman's",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -36527,6 +36597,13 @@
                 "artist": "Oisin",
                 "recording": "Celtic Dream",
                 "track": 16
+            },
+            {
+                "@id": "thesession:recordings/7916",
+                "@type": "wd:Q3302947",
+                "artist": "Oisin",
+                "recording": "The Jeannie C",
+                "track": 3
             },
             {
                 "@id": "thesession:recordings/7860",
@@ -36999,7 +37076,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 2658,
+        "popularity_tunebooks": 2671,
         "tunes_name": "Kid On The Mountain, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=slip jig",
@@ -38025,7 +38102,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 965,
+        "popularity_tunebooks": 972,
         "tunes_name": "O'Keeffe's",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=slide",
@@ -38171,13 +38248,6 @@
                 "artist": "Pipers Gathering",
                 "recording": "The Pipers' Gathering 2016, Vol. 2",
                 "track": 5
-            },
-            {
-                "@id": "thesession:recordings/7681",
-                "@type": "wd:Q3302947",
-                "artist": "P\u00f3lca 4",
-                "recording": "P\u00f3lca 4",
-                "track": 8
             },
             {
                 "@id": "thesession:recordings/7115",
@@ -38830,7 +38900,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 6031,
+        "popularity_tunebooks": 6057,
         "tunes_name": "Kesh, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -39966,7 +40036,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1053,
+        "popularity_tunebooks": 1063,
         "tunes_name": "Old Favourite, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -40546,7 +40616,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 280,
+        "popularity_tunebooks": 281,
         "tunes_name": "Old John's",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -40601,6 +40671,13 @@
                 "artist": "Fergal Scahill",
                 "recording": "The Dusty Bridge",
                 "track": 7
+            },
+            {
+                "@id": "thesession:recordings/439",
+                "@type": "wd:Q3302947",
+                "artist": "Frankie Gavin, Arty McGlynn & Aidan Coffey",
+                "recording": "Irlande (Live)",
+                "track": 14
             },
             {
                 "@id": "thesession:recordings/2873",
@@ -40780,7 +40857,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 766,
+        "popularity_tunebooks": 768,
         "tunes_name": "Lads Of Laois, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -41473,7 +41550,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 589,
+        "popularity_tunebooks": 591,
         "tunes_name": "Lady Anne Montgomery",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -41780,6 +41857,13 @@
                 "artist": "Oisin",
                 "recording": "Celtic Dream",
                 "track": 16
+            },
+            {
+                "@id": "thesession:recordings/7916",
+                "@type": "wd:Q3302947",
+                "artist": "Oisin",
+                "recording": "The Jeannie C",
+                "track": 3
             },
             {
                 "@id": "thesession:recordings/7277",
@@ -42178,7 +42262,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 2400,
+        "popularity_tunebooks": 2410,
         "tunes_name": "Lilting Banshee, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -43527,7 +43611,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 2366,
+        "popularity_tunebooks": 2383,
         "tunes_name": "Lark In The Morning, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -44655,7 +44739,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 683,
+        "popularity_tunebooks": 685,
         "tunes_name": "Last Night's Fun",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -45451,7 +45535,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 3778,
+        "popularity_tunebooks": 3789,
         "tunes_name": "Maid Behind The Bar, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -45716,6 +45800,13 @@
                 "artist": "Dave Hum",
                 "recording": "Celtic and Bluegrass 5 String Banjo",
                 "track": 15
+            },
+            {
+                "@id": "thesession:recordings/529",
+                "@type": "wd:Q3302947",
+                "artist": "Dave Swarbrick",
+                "recording": "Rags, Reels And Airs",
+                "track": 13
             },
             {
                 "@id": "thesession:recordings/3865",
@@ -47076,6 +47167,13 @@
                 "track": 5
             },
             {
+                "@id": "thesession:recordings/7920",
+                "@type": "wd:Q3302947",
+                "artist": "The Unprepared",
+                "recording": "Caught off Guard",
+                "track": 7
+            },
+            {
                 "@id": "thesession:recordings/5722",
                 "@type": "wd:Q3302947",
                 "artist": "Therese McInerney",
@@ -47140,7 +47238,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 435,
+        "popularity_tunebooks": 438,
         "tunes_name": "Mulqueeney's",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -47691,7 +47789,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1589,
+        "popularity_tunebooks": 1598,
         "tunes_name": "Monaghan, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -47921,6 +48019,13 @@
                 "artist": "Evergreen",
                 "recording": "The Unseen Dance",
                 "track": 6
+            },
+            {
+                "@id": "thesession:recordings/7907",
+                "@type": "wd:Q3302947",
+                "artist": "Fintan Vallely, Gerry O'Connor, Tiarnan \u00d3 Duinnchinn, Sib\u00e9al Davitt",
+                "recording": "Comp\u200b\u00e1\u200bnach - Music from All Counties of Ireland",
+                "track": 22
             },
             {
                 "@id": "thesession:recordings/7042",
@@ -48707,7 +48812,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 2312,
+        "popularity_tunebooks": 2328,
         "tunes_name": "Mountain Road, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -50054,7 +50159,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1984,
+        "popularity_tunebooks": 1992,
         "tunes_name": "Morning Dew, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -50543,6 +50648,13 @@
                 "artist": "Johnny 'Ringo' McDonagh and Conor Keane",
                 "recording": "Rough And Ready",
                 "track": 2
+            },
+            {
+                "@id": "thesession:recordings/7818",
+                "@type": "wd:Q3302947",
+                "artist": "Johnny Brennan",
+                "recording": "Lupi",
+                "track": 4
             },
             {
                 "@id": "thesession:recordings/3692",
@@ -51570,7 +51682,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1532,
+        "popularity_tunebooks": 1537,
         "tunes_name": "Merrily Kissed The Quaker",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=slide",
@@ -52357,7 +52469,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 4700,
+        "popularity_tunebooks": 4729,
         "tunes_name": "Morrison's",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -53579,11 +53691,20 @@
                 "mode": "Edorian",
                 "date": "2023-09-08T12:32:58",
                 "username": "jdogbishop96"
+            },
+            {
+                "tunes_type": "jig",
+                "@id": "https://thesession.org/tunes/71#setting48150",
+                "@type": "wd:Q113899068",
+                "meter": "6/8",
+                "mode": "Edorian",
+                "date": "2023-09-11T13:29:06",
+                "username": "CreadurMawnOrganig"
             }
         ]
     },
     {
-        "popularity_tunebooks": 2067,
+        "popularity_tunebooks": 2074,
         "tunes_name": "Merry Blacksmith, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -54535,7 +54656,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 2911,
+        "popularity_tunebooks": 2919,
         "tunes_name": "Musical Priest, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -55819,7 +55940,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 2438,
+        "popularity_tunebooks": 2446,
         "tunes_name": "Mason's Apron, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -57705,7 +57826,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1798,
+        "popularity_tunebooks": 1804,
         "tunes_name": "Miss McLeod's",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -57921,6 +58042,13 @@
                 "artist": "Danny Meehan",
                 "recording": "Drimalost And Beyond - CD 2 of 2",
                 "track": 32
+            },
+            {
+                "@id": "thesession:recordings/529",
+                "@type": "wd:Q3302947",
+                "artist": "Dave Swarbrick",
+                "recording": "Rags, Reels And Airs",
+                "track": 14
             },
             {
                 "@id": "thesession:recordings/2327",
@@ -59193,14 +59321,14 @@
                 "@id": "thesession:recordings/1410",
                 "@type": "wd:Q3302947",
                 "artist": "Various Artists",
-                "recording": "Seoltai Seidte (Setting Sail)",
+                "recording": "Seolta\u00ed S\u00e9idte: Setting Sail",
                 "track": 5
             },
             {
                 "@id": "thesession:recordings/1410",
                 "@type": "wd:Q3302947",
                 "artist": "Various Artists",
-                "recording": "Seoltai Seidte (Setting Sail)",
+                "recording": "Seolta\u00ed S\u00e9idte: Setting Sail",
                 "track": 22
             },
             {
@@ -59611,7 +59739,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1731,
+        "popularity_tunebooks": 1737,
         "tunes_name": "My Darling Asleep",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -60302,7 +60430,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 822,
+        "popularity_tunebooks": 830,
         "tunes_name": "My Love Is In America",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -60490,6 +60618,13 @@
                 "artist": "Finnegan's AWake",
                 "recording": "Finnegan's AWake",
                 "track": 6
+            },
+            {
+                "@id": "thesession:recordings/7907",
+                "@type": "wd:Q3302947",
+                "artist": "Fintan Vallely, Gerry O'Connor, Tiarnan \u00d3 Duinnchinn, Sib\u00e9al Davitt",
+                "recording": "Comp\u200b\u00e1\u200bnach - Music from All Counties of Ireland",
+                "track": 4
             },
             {
                 "@id": "thesession:recordings/6577",
@@ -61402,7 +61537,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 583,
+        "popularity_tunebooks": 585,
         "tunes_name": "Paddy Ryan's Dream",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -62355,7 +62490,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 367,
+        "popularity_tunebooks": 368,
         "tunes_name": "Pigtown Fling, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -62685,7 +62820,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 947,
+        "popularity_tunebooks": 949,
         "tunes_name": "Pipe On The Hob, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -63591,7 +63726,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 570,
+        "popularity_tunebooks": 574,
         "tunes_name": "Pride Of Petravore, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=hornpipe",
@@ -63958,7 +64093,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 2827,
+        "popularity_tunebooks": 2835,
         "tunes_name": "Rights Of Man, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=hornpipe",
@@ -65092,7 +65227,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1031,
+        "popularity_tunebooks": 1036,
         "tunes_name": "Rakes Of Kildare, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -65203,6 +65338,13 @@
                 "artist": "Fiddlers 3",
                 "recording": "Encore!",
                 "track": 4
+            },
+            {
+                "@id": "thesession:recordings/7907",
+                "@type": "wd:Q3302947",
+                "artist": "Fintan Vallely, Gerry O'Connor, Tiarnan \u00d3 Duinnchinn, Sib\u00e9al Davitt",
+                "recording": "Comp\u200b\u00e1\u200bnach - Music from All Counties of Ireland",
+                "track": 17
             },
             {
                 "@id": "thesession:recordings/4986",
@@ -66298,7 +66440,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1358,
+        "popularity_tunebooks": 1365,
         "tunes_name": "Rakish Paddy",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -67933,11 +68075,29 @@
                 "mode": "Adorian",
                 "date": "2022-08-29T09:02:46",
                 "username": "James Dumbelton"
+            },
+            {
+                "tunes_type": "reel",
+                "@id": "https://thesession.org/tunes/86#setting48262",
+                "@type": "wd:Q113899068",
+                "meter": "4/4",
+                "mode": "Dmixolydian",
+                "date": "2023-09-24T14:29:04",
+                "username": "Fernando Durb\u00e1n Galnares"
+            },
+            {
+                "tunes_type": "reel",
+                "@id": "https://thesession.org/tunes/86#setting48319",
+                "@type": "wd:Q113899068",
+                "meter": "4/4",
+                "mode": "Emixolydian",
+                "date": "2023-09-30T12:19:08",
+                "username": "Fernando Durb\u00e1n Galnares"
             }
         ]
     },
     {
-        "popularity_tunebooks": 1277,
+        "popularity_tunebooks": 1288,
         "tunes_name": "Rolling In The Ryegrass",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -68048,6 +68208,13 @@
                 "artist": "Catherine McEvoy",
                 "recording": "The Home Ruler",
                 "track": 1
+            },
+            {
+                "@id": "thesession:recordings/5829",
+                "@type": "wd:Q3302947",
+                "artist": "CCE Tour 1975",
+                "recording": "Comhaltas Champions On Tour 1975",
+                "track": 10
             },
             {
                 "@id": "thesession:recordings/5619",
@@ -68498,13 +68665,6 @@
                 "track": 21
             },
             {
-                "@id": "thesession:recordings/5829",
-                "@type": "wd:Q3302947",
-                "artist": "Various Artists",
-                "recording": "Comhaltas Champions On Tour 1975",
-                "track": 10
-            },
-            {
                 "@id": "thesession:recordings/6869",
                 "@type": "wd:Q3302947",
                 "artist": "Various Artists",
@@ -68817,7 +68977,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1282,
+        "popularity_tunebooks": 1296,
         "tunes_name": "Rolling Waves, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -68991,6 +69151,13 @@
                 "artist": "Eliot Grasso & Adam Hendey",
                 "recording": "Breathe Blue",
                 "track": 9
+            },
+            {
+                "@id": "thesession:recordings/7907",
+                "@type": "wd:Q3302947",
+                "artist": "Fintan Vallely, Gerry O'Connor, Tiarnan \u00d3 Duinnchinn, Sib\u00e9al Davitt",
+                "recording": "Comp\u200b\u00e1\u200bnach - Music from All Counties of Ireland",
+                "track": 22
             },
             {
                 "@id": "thesession:recordings/6602",
@@ -69574,11 +69741,20 @@
                 "mode": "Dmajor",
                 "date": "2023-03-01T16:20:07",
                 "username": "Ben L \ud83e\ude97"
+            },
+            {
+                "tunes_type": "jig",
+                "@id": "https://thesession.org/tunes/88#setting48202",
+                "@type": "wd:Q113899068",
+                "meter": "6/8",
+                "mode": "Gmajor",
+                "date": "2023-09-18T10:42:09",
+                "username": "ConorW"
             }
         ]
     },
     {
-        "popularity_tunebooks": 1230,
+        "popularity_tunebooks": 1235,
         "tunes_name": "Rambling Pitchfork, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -70697,7 +70873,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 432,
+        "popularity_tunebooks": 434,
         "tunes_name": "O'Rourke's",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -70796,6 +70972,13 @@
                 "track": 9
             },
             {
+                "@id": "thesession:recordings/5829",
+                "@type": "wd:Q3302947",
+                "artist": "CCE Tour 1975",
+                "recording": "Comhaltas Champions On Tour 1975",
+                "track": 1
+            },
+            {
                 "@id": "thesession:recordings/2998",
                 "@type": "wd:Q3302947",
                 "artist": "Ceolt\u00f3ir\u00ed Cult\u00farlainne",
@@ -70871,6 +71054,13 @@
                 "artist": "Finbar Furey",
                 "recording": "Traditional Irish Pipe Music",
                 "track": 8
+            },
+            {
+                "@id": "thesession:recordings/7907",
+                "@type": "wd:Q3302947",
+                "artist": "Fintan Vallely, Gerry O'Connor, Tiarnan \u00d3 Duinnchinn, Sib\u00e9al Davitt",
+                "recording": "Comp\u200b\u00e1\u200bnach - Music from All Counties of Ireland",
+                "track": 19
             },
             {
                 "@id": "thesession:recordings/4429",
@@ -71181,13 +71371,6 @@
                 "track": 1
             },
             {
-                "@id": "thesession:recordings/5829",
-                "@type": "wd:Q3302947",
-                "artist": "Various Artists",
-                "recording": "Comhaltas Champions On Tour 1975",
-                "track": 1
-            },
-            {
                 "@id": "thesession:recordings/6761",
                 "@type": "wd:Q3302947",
                 "artist": "Various Artists",
@@ -71321,7 +71504,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 978,
+        "popularity_tunebooks": 981,
         "tunes_name": "Roaring Barmaid, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -71726,7 +71909,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1959,
+        "popularity_tunebooks": 1970,
         "tunes_name": "Irish Washerwoman, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -72301,6 +72484,13 @@
                 "track": 3
             },
             {
+                "@id": "thesession:recordings/1878",
+                "@type": "wd:Q3302947",
+                "artist": "The Tannahill Weavers",
+                "recording": "The Old Woman's Dance",
+                "track": 9
+            },
+            {
                 "@id": "thesession:recordings/4274",
                 "@type": "wd:Q3302947",
                 "artist": "Threepenny Bit",
@@ -72488,13 +72678,20 @@
                 "artist": "Wild Asparagus",
                 "recording": "Wherever You Go",
                 "track": 11
+            },
+            {
+                "@id": "thesession:recordings/7909",
+                "@type": "wd:Q3302947",
+                "artist": "Will Pound and Jenn Butterworth",
+                "recording": "Volume 1",
+                "track": 2
             }
         ],
         "@id": "tunes:92",
         "@type": "wd:Q2188189",
         "@context": "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/thesession/jsonld/context.json",
         "database": "thesession:",
-        "alias": "['An Bhean N\u00edoch\u00e1in \u00c9ireannach', 'Corporal Casey', 'Do Virgins Taste Better?', 'Irish Woman, The', 'Wash Woman, The', 'Washing Woman, The']",
+        "alias": "['An Bhean N\u00edoch\u00e1in \u00c9ireannach', 'Corporal Casey', 'Country Courtship, The', 'Do Virgins Taste Better?', 'Irish Woman, The', 'Wash Woman, The', 'Washing Woman, The']",
         "settings": [
             {
                 "tunes_type": "jig",
@@ -72706,7 +72903,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 752,
+        "popularity_tunebooks": 754,
         "tunes_name": "Cock And The Hen, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=slip jig",
@@ -73195,7 +73392,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 657,
+        "popularity_tunebooks": 659,
         "tunes_name": "Scholar, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -73588,6 +73785,13 @@
                 "track": 8
             },
             {
+                "@id": "thesession:recordings/7911",
+                "@type": "wd:Q3302947",
+                "artist": "Oscar West and Rennie Pearson",
+                "recording": "Polytropos",
+                "track": 3
+            },
+            {
                 "@id": "thesession:recordings/2127",
                 "@type": "wd:Q3302947",
                 "artist": "Osna",
@@ -73945,7 +74149,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 287,
+        "popularity_tunebooks": 288,
         "tunes_name": "Scarce O' Tatties",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -74211,7 +74415,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 412,
+        "popularity_tunebooks": 413,
         "tunes_name": "Scotch Mary",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -75037,7 +75241,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 347,
+        "popularity_tunebooks": 349,
         "tunes_name": "Shetland Fiddler, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -75340,7 +75544,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 2478,
+        "popularity_tunebooks": 2487,
         "tunes_name": "Sally Gardens, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -76731,7 +76935,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 1122,
+        "popularity_tunebooks": 1129,
         "tunes_name": "Salamanca, The",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",
@@ -77571,7 +77775,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 723,
+        "popularity_tunebooks": 725,
         "tunes_name": "Smash The Windows",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=jig",
@@ -78036,7 +78240,7 @@
         ]
     },
     {
-        "popularity_tunebooks": 143,
+        "popularity_tunebooks": 144,
         "tunes_name": "Colonel McBain",
         "tunes_type": {
             "@id": "https://thesession.org/tunes/search?type=reel",

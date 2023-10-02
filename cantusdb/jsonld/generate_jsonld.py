@@ -8,7 +8,7 @@ import re
 #       - make changes to the file 'context.jsonld' and make sure to push the 
 #         changes on the appropriate branch (make sure the link below match where you host the context)
 
-df = pd.read_csv('../reconciled_cantus_09282023.csv')
+df = pd.read_csv('../reconciled_cantus_09292023.csv')
 json_data = df.to_json(orient='records')
 parsed_json = json.loads(json_data)
 

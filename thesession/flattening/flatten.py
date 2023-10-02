@@ -1,5 +1,5 @@
 import pandas as pd
-import flatten_individuals
+from helper_functions import flatten_aliases, flatten_recordings, flatten_tunes
 
 """
 How to run: 
@@ -7,8 +7,8 @@ How to run:
 2. Run script flatten.py
 """
 #create flattened file for aliases and tunes
-flatten_individuals.flatten_aliases()
-flatten_individuals.flatten_tunes()
+flatten_aliases()
+flatten_tunes()
 
 # Define the file paths for each needed CSV file
 csv_files = {
@@ -41,7 +41,7 @@ with_recording = pd.merge(no_recording, dfs['recordings'], on='tune_id', how='le
 
 with_recording['index_suffix'] = with_recording.groupby(merged_on).cumcount() + 1
 
-flatten_individuals.flatten_recordings(with_recording,merged_on)
+flatten_recordings(with_recording,merged_on)
 pivot_table = pd.read_csv('data/transformed/flatten_recordings.csv')
 final = pd.merge(no_recording, pivot_table, on="tune_id", how="left")
 final = final.drop(['popularity_name','aliases_name'],axis=1)

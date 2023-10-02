@@ -1,10 +1,9 @@
 # thesession.org flattening and json-ld structures
 
 > Summary:  
->   1. download the csv dumps from [adactio/TheSession-data](https://github.com/adactio/TheSession-data). Currently only extracting data from `aliases.csv`, `recordings.csv`, `tune_popularity.csv`, and `tunes.csv`.
->   2. put them under `thesession/flattening/data/`
->   3. Run script `thesession/flattening/flatten.py` to flatten the data
->   4. Run script `thesession/jsonld/generate_jsonld.py` to generate the compact json-ld
+>   1. run script `thesession/flattening/data/fetch_data.py` to download the csv dumps from [adactio/TheSession-data](https://github.com/adactio/TheSession-data). Currently only extracting data from `aliases.csv`, `recordings.csv`, `tune_popularity.csv`, and `tunes.csv`.
+>   2. Run script `thesession/flattening/flatten.py` to flatten the data
+>   3. Run script `thesession/jsonld/generate_jsonld.py` to generate the compact json-ld
 
 
 ## 1. Extracting columns and feature flattening

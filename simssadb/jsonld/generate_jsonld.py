@@ -43,6 +43,7 @@ for work in parsed_json:
     
     work["composer"] =  handle_rec_col(work,"composer")
     work["genre_style"] = handle_rec_col(work,"genre_style")
+    work["genre_type"] = handle_rec_col(work,"genre_type")
 
 
 
