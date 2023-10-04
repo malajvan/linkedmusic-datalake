@@ -7,7 +7,7 @@
             "@type": "@id"
         },
         "cantus_id": {
-            "@id": "https://cantusdatabase.org/about/id-numbers/",
+            "@id": "https://cantusdatabase.org/about/id-numbers",
             "@type": "@id"
         },
         "composer": "wdt:P86",
