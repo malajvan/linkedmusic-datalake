@@ -167,7 +167,7 @@
       {
         "releaseDate": "1974",
         "releaseCountry": {
-          "@id": "http://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98",
+          "@id": "wd:Q30",
           "name": "United States",
           "@type": "Country"
         },
@@ -184,7 +184,7 @@
         "releaseCountry": {
           "@type": "Country",
           "name": "Ireland",
-          "@id": "http://musicbrainz.org/area/390b05d4-11ec-3bce-a343-703a366b34a5"
+          "@id": "wd:Q27"
         },
         "releaseDate": "2010",
         "@type": "CreativeWorkReleaseRegion"
@@ -514,7 +514,7 @@
       {
         "releaseDate": "1990",
         "releaseCountry": {
-          "@id": "http://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98",
+          "@id": "wd:Q30",
           "@type": "Country",
           "name": "United States"
         },
@@ -756,7 +756,7 @@
       {
         "releaseCountry": {
           "@type": "Country",
-          "@id": "http://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98",
+          "@id": "wd:Q30",
           "name": "United States"
         },
         "releaseDate": "1997-10",
@@ -890,7 +890,7 @@
     "releaseOf": {
       "byArtist": {
         "@type": "MusicGroup",
-        "@id": "http://musicbrainz.org/artist/89ad4ac3-39f7-470e-963a-56509c546377",
+        "@id": "wd:Q3108914",
         "name": "Various Artists"
       },
       "@id": "http://musicbrainz.org/release-group/a9128c57-6fd0-40d6-8c55-72f34c0e37d1",
@@ -908,14 +908,14 @@
         "@type": "CreativeWorkReleaseRegion",
         "releaseCountry": {
           "@type": "Country",
-          "@id": "http://musicbrainz.org/area/ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+          "@id": "wd:Q55",
           "name": "Netherlands"
         }
       }
     ],
     "recordLabel": {
       "name": "Brilliant Classics",
-      "@id": "http://musicbrainz.org/label/92432ebc-91f7-453a-9c5a-9490efa2c1a9",
+      "@id": "wd:Q3644784",
       "@type": "MusicLabel"
     }
   },
@@ -930,7 +930,7 @@
       },
       {
         "@type": "MusicLabel",
-        "@id": "http://musicbrainz.org/label/67d45ede-9aea-431b-84c2-defd009b4c43",
+        "@id": "wd:Q3489622",
         "name": "FY"
       }
     ],
@@ -1080,7 +1080,7 @@
         "releaseDate": "1997",
         "releaseCountry": {
           "name": "France",
-          "@id": "http://musicbrainz.org/area/08310658-51eb-3801-80de-5a0739207115",
+          "@id": "wd:Q142",
           "@type": "Country"
         },
         "@type": "CreativeWorkReleaseRegion"
@@ -1090,8 +1090,14 @@
   {
     "duration": "PT47M25S",
     "genre": [
-      "http://musicbrainz.org/genre/797e2e85-5ffd-495c-a757-8b4079052f0e",
-      "http://musicbrainz.org/genre/e4581b76-a842-440b-9b0f-1aa7a00a5c57"
+      {
+        "@id": "wd:Q484641",
+        "name": "pop rock"
+      },
+      {
+        "@id": "wd:Q7749",
+        "name": "rock and roll"
+      }
     ],
     "track": [
       {
@@ -1132,7 +1138,7 @@
             ],
             "@type": "OrganizationRole",
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/300c4c73-33ac-4255-9d57-4e32627f5e13",
+              "@id": "wd:Q2632",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -1142,7 +1148,7 @@
           },
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0",
+              "@id": "wd:Q2643",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -1163,7 +1169,7 @@
               "tambourine"
             ],
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+              "@id": "wd:Q1203",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -1178,7 +1184,7 @@
               "1964 Rickenbacker 4001 S"
             ],
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af",
+              "@id": "wd:Q2599",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -1195,7 +1201,7 @@
             "Person",
             "MusicGroup"
           ],
-          "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2"
+          "@id": "wd:Q191819"
         },
         "recordingOf": {
           "sameAs": [
@@ -1231,7 +1237,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/300c4c73-33ac-4255-9d57-4e32627f5e13"
+              "@id": "wd:Q2632"
             }
           },
           {
@@ -1241,7 +1247,7 @@
                 "MusicGroup"
               ],
               "name": "George Harrison",
-              "@id": "http://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0"
+              "@id": "wd:Q2643"
             },
             "roleName": [
               "lead vocals",
@@ -1253,7 +1259,7 @@
           },
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+              "@id": "wd:Q1203",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -1265,7 +1271,7 @@
           },
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/8a7cf497-dc5c-4523-932d-3fcbc9a69d38",
+              "@id": "wd:Q311450",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -1288,7 +1294,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af"
+              "@id": "wd:Q2599"
             }
           }
         ],
@@ -1320,7 +1326,7 @@
         ],
         "producer": [
           {
-            "@id": "http://musicbrainz.org/artist/2a25263b-54ad-42c5-acea-e50b3913369c",
+            "@id": "wd:Q924578",
             "name": "Chris Thomas",
             "@type": [
               "Person",
@@ -1328,7 +1334,7 @@
             ]
           },
           {
-            "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2",
+            "@id": "wd:Q191819",
             "name": "George Martin",
             "@type": [
               "Person",
@@ -1368,7 +1374,7 @@
         "contributor": [
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2",
+              "@id": "wd:Q191819",
               "name": "George Martin",
               "@type": [
                 "Person",
@@ -1386,7 +1392,7 @@
             ],
             "@type": "OrganizationRole",
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/300c4c73-33ac-4255-9d57-4e32627f5e13",
+              "@id": "wd:Q2632",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -1402,7 +1408,7 @@
             ],
             "@type": "OrganizationRole",
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0",
+              "@id": "wd:Q2643",
               "name": "George Harrison",
               "@type": [
                 "Person",
@@ -1419,7 +1425,7 @@
             ],
             "@type": "OrganizationRole",
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af",
+              "@id": "wd:Q2599",
               "name": "Paul McCartney",
               "@type": [
                 "Person",
@@ -1429,7 +1435,7 @@
           }
         ],
         "producer": {
-          "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2",
+          "@id": "wd:Q191819",
           "@type": [
             "Person",
             "MusicGroup"
@@ -1457,7 +1463,7 @@
         "contributor": [
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/300c4c73-33ac-4255-9d57-4e32627f5e13",
+              "@id": "wd:Q2632",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -1474,7 +1480,7 @@
                 "MusicGroup"
               ],
               "name": "George Harrison",
-              "@id": "http://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0"
+              "@id": "wd:Q2643"
             },
             "@type": "OrganizationRole",
             "roleName": [
@@ -1494,7 +1500,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9"
+              "@id": "wd:Q1203"
             }
           },
           {
@@ -1504,7 +1510,7 @@
                 "MusicGroup"
               ],
               "name": "Paul McCartney",
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af"
+              "@id": "wd:Q2599"
             },
             "roleName": [
               "background vocals",
@@ -1533,10 +1539,10 @@
               "MusicGroup"
             ],
             "name": "Chris Thomas",
-            "@id": "http://musicbrainz.org/artist/2a25263b-54ad-42c5-acea-e50b3913369c"
+            "@id": "wd:Q924578"
           },
           {
-            "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2",
+            "@id": "wd:Q191819",
             "@type": [
               "Person",
               "MusicGroup"
@@ -1576,7 +1582,7 @@
         "name": "Octopus\u2019s Garden",
         "producer": [
           {
-            "@id": "http://musicbrainz.org/artist/2a25263b-54ad-42c5-acea-e50b3913369c",
+            "@id": "wd:Q924578",
             "name": "Chris Thomas",
             "@type": [
               "Person",
@@ -1584,7 +1590,7 @@
             ]
           },
           {
-            "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2",
+            "@id": "wd:Q191819",
             "name": "George Martin",
             "@type": [
               "Person",
@@ -1603,7 +1609,7 @@
               "drums (drum set)"
             ],
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/300c4c73-33ac-4255-9d57-4e32627f5e13",
+              "@id": "wd:Q2632",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -1618,7 +1624,7 @@
                 "MusicGroup"
               ],
               "name": "George Harrison",
-              "@id": "http://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0"
+              "@id": "wd:Q2643"
             },
             "roleName": [
               "background vocals",
@@ -1630,7 +1636,7 @@
             "roleName": "1965 Epiphone ES-230TD Casino",
             "@type": "OrganizationRole",
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+              "@id": "wd:Q1203",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -1640,7 +1646,7 @@
           },
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af",
+              "@id": "wd:Q2599",
               "name": "Paul McCartney",
               "@type": [
                 "Person",
@@ -1680,7 +1686,7 @@
       {
         "producer": [
           {
-            "@id": "http://musicbrainz.org/artist/9bea300f-ad94-4c0b-b0e2-f41776b53af0",
+            "@id": "wd:Q956126",
             "@type": [
               "Person",
               "MusicGroup"
@@ -1693,7 +1699,7 @@
               "MusicGroup"
             ],
             "name": "Chris Thomas",
-            "@id": "http://musicbrainz.org/artist/2a25263b-54ad-42c5-acea-e50b3913369c"
+            "@id": "wd:Q924578"
           },
           {
             "name": "George Martin",
@@ -1701,7 +1707,7 @@
               "Person",
               "MusicGroup"
             ],
-            "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2"
+            "@id": "wd:Q191819"
           }
         ],
         "sameAs": [
@@ -1725,7 +1731,7 @@
                 "MusicGroup"
               ],
               "name": "Ringo Starr",
-              "@id": "http://musicbrainz.org/artist/300c4c73-33ac-4255-9d57-4e32627f5e13"
+              "@id": "wd:Q2632"
             }
           },
           {
@@ -1735,7 +1741,7 @@
               "electric guitar"
             ],
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0",
+              "@id": "wd:Q2643",
               "name": "George Harrison",
               "@type": [
                 "Person",
@@ -1745,7 +1751,7 @@
           },
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+              "@id": "wd:Q1203",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -1766,7 +1772,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/8a7cf497-dc5c-4523-932d-3fcbc9a69d38"
+              "@id": "wd:Q311450"
             },
             "@type": "OrganizationRole",
             "roleName": [
@@ -1781,7 +1787,7 @@
             ],
             "@type": "OrganizationRole",
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af",
+              "@id": "wd:Q2599",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -1823,7 +1829,7 @@
         "@id": "http://musicbrainz.org/recording/440f60e8-0b25-4ec4-abb1-c6beec624ab0",
         "name": "Here Comes the Sun",
         "producer": {
-          "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2",
+          "@id": "wd:Q191819",
           "@type": [
             "Person",
             "MusicGroup"
@@ -1838,7 +1844,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/300c4c73-33ac-4255-9d57-4e32627f5e13"
+              "@id": "wd:Q2632"
             },
             "roleName": [
               "1968 Ludwig Hollywood Maple",
@@ -1865,12 +1871,12 @@
                 "MusicGroup"
               ],
               "name": "George Harrison",
-              "@id": "http://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0"
+              "@id": "wd:Q2643"
             }
           },
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af",
+              "@id": "wd:Q2599",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -1909,7 +1915,7 @@
       },
       {
         "producer": {
-          "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2",
+          "@id": "wd:Q191819",
           "@type": [
             "Person",
             "MusicGroup"
@@ -1936,7 +1942,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2"
+              "@id": "wd:Q191819"
             }
           },
           {
@@ -1946,7 +1952,7 @@
                 "MusicGroup"
               ],
               "name": "George Harrison",
-              "@id": "http://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0"
+              "@id": "wd:Q2643"
             },
             "roleName": [
               "lead vocals",
@@ -1961,7 +1967,7 @@
             ],
             "@type": "OrganizationRole",
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+              "@id": "wd:Q1203",
               "name": "John Lennon",
               "@type": [
                 "Person",
@@ -1971,7 +1977,7 @@
           },
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af",
+              "@id": "wd:Q2599",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -2011,7 +2017,7 @@
         "contributor": [
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/300c4c73-33ac-4255-9d57-4e32627f5e13",
+              "@id": "wd:Q2632",
               "name": "Ringo Starr",
               "@type": [
                 "Person",
@@ -2031,7 +2037,7 @@
             ],
             "@type": "OrganizationRole",
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0",
+              "@id": "wd:Q2643",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -2046,7 +2052,7 @@
             ],
             "@type": "OrganizationRole",
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+              "@id": "wd:Q1203",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -2061,7 +2067,7 @@
                 "MusicGroup"
               ],
               "name": "Paul McCartney",
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af"
+              "@id": "wd:Q2599"
             },
             "roleName": [
               "background vocals",
@@ -2076,7 +2082,7 @@
         "duration": "PT04M02S",
         "@type": "MusicRecording",
         "producer": {
-          "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2",
+          "@id": "wd:Q191819",
           "@type": [
             "Person",
             "MusicGroup"
@@ -2106,7 +2112,7 @@
             "@type": "OrganizationRole",
             "roleName": "electronic organ",
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2",
+              "@id": "wd:Q191819",
               "name": "George Martin",
               "@type": [
                 "Person",
@@ -2121,7 +2127,7 @@
                 "MusicGroup"
               ],
               "name": "Ringo Starr",
-              "@id": "http://musicbrainz.org/artist/300c4c73-33ac-4255-9d57-4e32627f5e13"
+              "@id": "wd:Q2632"
             },
             "@type": "OrganizationRole",
             "roleName": [
@@ -2137,7 +2143,7 @@
             ],
             "@type": "OrganizationRole",
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0",
+              "@id": "wd:Q2643",
               "name": "George Harrison",
               "@type": [
                 "Person",
@@ -2152,7 +2158,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9"
+              "@id": "wd:Q1203"
             },
             "@type": "OrganizationRole",
             "roleName": [
@@ -2168,7 +2174,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af"
+              "@id": "wd:Q2599"
             },
             "roleName": [
               "lead vocals",
@@ -2185,7 +2191,7 @@
           "http://musicbrainz.org/recording/cc0b4fca-6f76-47f3-a5bd-99494fdbae95"
         ],
         "producer": {
-          "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2",
+          "@id": "wd:Q191819",
           "@type": [
             "Person",
             "MusicGroup"
@@ -2227,7 +2233,7 @@
               "drums (drum set)"
             ],
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/300c4c73-33ac-4255-9d57-4e32627f5e13",
+              "@id": "wd:Q2632",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -2242,7 +2248,7 @@
                 "MusicGroup"
               ],
               "name": "George Harrison",
-              "@id": "http://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0"
+              "@id": "wd:Q2643"
             },
             "@type": "OrganizationRole",
             "roleName": "electric guitar"
@@ -2256,7 +2262,7 @@
             ],
             "@type": "OrganizationRole",
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+              "@id": "wd:Q1203",
               "name": "John Lennon",
               "@type": [
                 "Person",
@@ -2266,7 +2272,7 @@
           },
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af",
+              "@id": "wd:Q2599",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -2286,7 +2292,7 @@
             "Person",
             "MusicGroup"
           ],
-          "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2"
+          "@id": "wd:Q191819"
         },
         "name": "Mean Mr Mustard",
         "@id": "http://musicbrainz.org/recording/99c004fb-ba87-41be-afd4-e0157b40516a",
@@ -2324,7 +2330,7 @@
             "Person",
             "MusicGroup"
           ],
-          "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2"
+          "@id": "wd:Q191819"
         },
         "@type": "MusicRecording",
         "duration": "PT01M13S",
@@ -2343,12 +2349,12 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/300c4c73-33ac-4255-9d57-4e32627f5e13"
+              "@id": "wd:Q2632"
             }
           },
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0",
+              "@id": "wd:Q2643",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -2368,7 +2374,7 @@
                 "MusicGroup"
               ],
               "name": "John Lennon",
-              "@id": "http://musicbrainz.org/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9"
+              "@id": "wd:Q1203"
             },
             "roleName": [
               "lead vocals",
@@ -2378,7 +2384,7 @@
           },
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af",
+              "@id": "wd:Q2599",
               "name": "Paul McCartney",
               "@type": [
                 "Person",
@@ -2418,7 +2424,7 @@
               "drums (drum set)"
             ],
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/300c4c73-33ac-4255-9d57-4e32627f5e13",
+              "@id": "wd:Q2632",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -2433,7 +2439,7 @@
               "electric guitar"
             ],
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0",
+              "@id": "wd:Q2643",
               "name": "George Harrison",
               "@type": [
                 "Person",
@@ -2453,7 +2459,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9"
+              "@id": "wd:Q1203"
             }
           },
           {
@@ -2469,7 +2475,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af"
+              "@id": "wd:Q2599"
             }
           }
         ],
@@ -2481,7 +2487,7 @@
             "Person",
             "MusicGroup"
           ],
-          "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2"
+          "@id": "wd:Q191819"
         },
         "recordingOf": {
           "sameAs": [
@@ -2517,7 +2523,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2"
+              "@id": "wd:Q191819"
             }
           },
           {
@@ -2529,7 +2535,7 @@
                 "MusicGroup"
               ],
               "name": "Ringo Starr",
-              "@id": "http://musicbrainz.org/artist/300c4c73-33ac-4255-9d57-4e32627f5e13"
+              "@id": "wd:Q2632"
             }
           },
           {
@@ -2539,7 +2545,7 @@
             ],
             "@type": "OrganizationRole",
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0",
+              "@id": "wd:Q2643",
               "name": "George Harrison",
               "@type": [
                 "Person",
@@ -2554,7 +2560,7 @@
                 "MusicGroup"
               ],
               "name": "Paul McCartney",
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af"
+              "@id": "wd:Q2599"
             },
             "roleName": [
               "lead vocals",
@@ -2571,7 +2577,7 @@
             "Person",
             "MusicGroup"
           ],
-          "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2"
+          "@id": "wd:Q191819"
         },
         "recordingOf": {
           "sameAs": [
@@ -2599,7 +2605,7 @@
                 "MusicGroup"
               ],
               "name": "George Martin",
-              "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2"
+              "@id": "wd:Q191819"
             }
           },
           {
@@ -2614,7 +2620,7 @@
                 "MusicGroup"
               ],
               "name": "Ringo Starr",
-              "@id": "http://musicbrainz.org/artist/300c4c73-33ac-4255-9d57-4e32627f5e13"
+              "@id": "wd:Q2632"
             }
           },
           {
@@ -2630,7 +2636,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0"
+              "@id": "wd:Q2643"
             }
           },
           {
@@ -2642,7 +2648,7 @@
                 "MusicGroup"
               ],
               "name": "John Lennon",
-              "@id": "http://musicbrainz.org/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9"
+              "@id": "wd:Q1203"
             }
           },
           {
@@ -2652,7 +2658,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af"
+              "@id": "wd:Q2599"
             },
             "@type": "OrganizationRole",
             "roleName": [
@@ -2674,7 +2680,7 @@
         "@type": "MusicRecording",
         "duration": "PT01M37S",
         "producer": {
-          "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2",
+          "@id": "wd:Q191819",
           "name": "George Martin",
           "@type": [
             "Person",
@@ -2698,7 +2704,7 @@
       },
       {
         "producer": {
-          "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2",
+          "@id": "wd:Q191819",
           "@type": [
             "Person",
             "MusicGroup"
@@ -2714,7 +2720,7 @@
         "contributor": [
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/300c4c73-33ac-4255-9d57-4e32627f5e13",
+              "@id": "wd:Q2632",
               "name": "Ringo Starr",
               "@type": [
                 "Person",
@@ -2734,7 +2740,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0"
+              "@id": "wd:Q2643"
             },
             "roleName": [
               "background vocals",
@@ -2754,7 +2760,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9"
+              "@id": "wd:Q1203"
             }
           },
           {
@@ -2766,7 +2772,7 @@
               "piano"
             ],
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af",
+              "@id": "wd:Q2599",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -2794,7 +2800,7 @@
       },
       {
         "producer": {
-          "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2",
+          "@id": "wd:Q191819",
           "name": "George Martin",
           "@type": [
             "Person",
@@ -2814,7 +2820,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af"
+              "@id": "wd:Q2599"
             }
           }
         ],
@@ -2869,7 +2875,7 @@
     "name": "Abbey Road",
     "creditedTo": "The Beatles",
     "producer": {
-      "@id": "http://musicbrainz.org/artist/26fa8b67-6c7f-406c-ad64-a1d070092df2",
+      "@id": "wd:Q191819",
       "@type": [
         "Person",
         "MusicGroup"
@@ -2881,7 +2887,7 @@
     "hasReleaseRegion": [
       {
         "releaseCountry": {
-          "@id": "http://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "@id": "wd:Q145",
           "@type": "Country",
           "name": "United Kingdom"
         },
@@ -2897,7 +2903,7 @@
       "creditedTo": "The Beatles",
       "albumReleaseType": "http://schema.org/AlbumRelease",
       "byArtist": {
-        "@id": "http://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+        "@id": "wd:Q1299",
         "@type": "MusicGroup",
         "name": "The Beatles"
       },
@@ -2907,7 +2913,7 @@
       "name": "Abbey Road"
     },
     "recordLabel": {
-      "@id": "http://musicbrainz.org/label/cf7fc5cf-e011-4ef4-b511-cd0188537910",
+      "@id": "wd:Q213710",
       "@type": "MusicLabel",
       "name": "Apple Records"
     }
@@ -2917,7 +2923,7 @@
     "creditedTo": "Julie London",
     "catalogNumber": "LRP-3006",
     "recordLabel": {
-      "@id": "http://musicbrainz.org/label/f1452309-a828-4665-a70c-aacdf94d154b",
+      "@id": "wd:Q1392321",
       "@type": "MusicLabel",
       "name": "Liberty"
     },
@@ -2959,14 +2965,14 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/e7ee5f13-baf5-4a87-b58b-f871c137d4f5"
+              "@id": "wd:Q231255"
             }
           }
         ],
         "@id": "http://musicbrainz.org/recording/ed3f6884-97d5-49f3-ae6b-573c6e26bb09",
         "isrcCode": "USEM39200253",
         "producer": {
-          "@id": "http://musicbrainz.org/artist/715b2348-45c3-4826-a6f8-55080a1b3fe5",
+          "@id": "wd:Q655122",
           "@type": [
             "Person",
             "MusicGroup"
@@ -3094,7 +3100,7 @@
         "@type": "MusicRecording",
         "duration": "PT03M17S",
         "producer": {
-          "@id": "http://musicbrainz.org/artist/715b2348-45c3-4826-a6f8-55080a1b3fe5",
+          "@id": "wd:Q655122",
           "@type": [
             "Person",
             "MusicGroup"
@@ -3110,7 +3116,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/e7ee5f13-baf5-4a87-b58b-f871c137d4f5",
+              "@id": "wd:Q231255",
               "name": "Julie London"
             },
             "@type": "OrganizationRole"
@@ -3124,7 +3130,7 @@
             "Person",
             "MusicGroup"
           ],
-          "@id": "http://musicbrainz.org/artist/715b2348-45c3-4826-a6f8-55080a1b3fe5",
+          "@id": "wd:Q655122",
           "name": "Bobby Troup"
         },
         "sameAs": [
@@ -3169,7 +3175,7 @@
             "@type": "OrganizationRole",
             "contributor": {
               "name": "Julie London",
-              "@id": "http://musicbrainz.org/artist/e7ee5f13-baf5-4a87-b58b-f871c137d4f5",
+              "@id": "wd:Q231255",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -3202,7 +3208,7 @@
         "duration": "PT02M26S",
         "producer": {
           "name": "Bobby Troup",
-          "@id": "http://musicbrainz.org/artist/715b2348-45c3-4826-a6f8-55080a1b3fe5",
+          "@id": "wd:Q655122",
           "@type": [
             "Person",
             "MusicGroup"
@@ -3215,7 +3221,7 @@
           {
             "contributor": {
               "name": "Julie London",
-              "@id": "http://musicbrainz.org/artist/e7ee5f13-baf5-4a87-b58b-f871c137d4f5",
+              "@id": "wd:Q231255",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -3237,7 +3243,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/e7ee5f13-baf5-4a87-b58b-f871c137d4f5"
+              "@id": "wd:Q231255"
             }
           }
         ],
@@ -3265,7 +3271,7 @@
         "duration": "PT03M10S",
         "producer": {
           "name": "Bobby Troup",
-          "@id": "http://musicbrainz.org/artist/715b2348-45c3-4826-a6f8-55080a1b3fe5",
+          "@id": "wd:Q655122",
           "@type": [
             "Person",
             "MusicGroup"
@@ -3278,7 +3284,7 @@
             "Person",
             "MusicGroup"
           ],
-          "@id": "http://musicbrainz.org/artist/715b2348-45c3-4826-a6f8-55080a1b3fe5",
+          "@id": "wd:Q655122",
           "name": "Bobby Troup"
         },
         "sameAs": [
@@ -3312,7 +3318,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/e7ee5f13-baf5-4a87-b58b-f871c137d4f5",
+              "@id": "wd:Q231255",
               "name": "Julie London"
             }
           }
@@ -3328,7 +3334,7 @@
           {
             "@type": "OrganizationRole",
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/e7ee5f13-baf5-4a87-b58b-f871c137d4f5",
+              "@id": "wd:Q231255",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -3362,7 +3368,7 @@
             "Person",
             "MusicGroup"
           ],
-          "@id": "http://musicbrainz.org/artist/715b2348-45c3-4826-a6f8-55080a1b3fe5",
+          "@id": "wd:Q655122",
           "name": "Bobby Troup"
         }
       },
@@ -3376,7 +3382,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/e7ee5f13-baf5-4a87-b58b-f871c137d4f5"
+              "@id": "wd:Q231255"
             },
             "@type": "OrganizationRole"
           }
@@ -3388,7 +3394,7 @@
             "Person",
             "MusicGroup"
           ],
-          "@id": "http://musicbrainz.org/artist/715b2348-45c3-4826-a6f8-55080a1b3fe5",
+          "@id": "wd:Q655122",
           "name": "Bobby Troup"
         },
         "sameAs": [
@@ -3419,7 +3425,7 @@
             "roleName": "bass",
             "contributor": {
               "name": "Ray Leatherwood",
-              "@id": "http://musicbrainz.org/artist/0bcba604-bb6a-43d0-b721-5f78a259f8e3",
+              "@id": "wd:Q5309925",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -3428,7 +3434,7 @@
           },
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/cf347470-d1d1-48b4-bda1-8171418ef5a7",
+              "@id": "wd:Q498745",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -3440,7 +3446,7 @@
           },
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/e7ee5f13-baf5-4a87-b58b-f871c137d4f5",
+              "@id": "wd:Q231255",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -3454,7 +3460,7 @@
         "@id": "http://musicbrainz.org/recording/bc3611c1-006a-44a5-a147-6813a67ed409",
         "producer": {
           "name": "Bobby Troup",
-          "@id": "http://musicbrainz.org/artist/715b2348-45c3-4826-a6f8-55080a1b3fe5",
+          "@id": "wd:Q655122",
           "@type": [
             "Person",
             "MusicGroup"
@@ -3484,7 +3490,7 @@
         "contributor": [
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/e7ee5f13-baf5-4a87-b58b-f871c137d4f5",
+              "@id": "wd:Q231255",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -3499,7 +3505,7 @@
         "isrcCode": "USCA25600141",
         "producer": {
           "name": "Bobby Troup",
-          "@id": "http://musicbrainz.org/artist/715b2348-45c3-4826-a6f8-55080a1b3fe5",
+          "@id": "wd:Q655122",
           "@type": [
             "Person",
             "MusicGroup"
@@ -3562,7 +3568,7 @@
             "Person",
             "MusicGroup"
           ],
-          "@id": "http://musicbrainz.org/artist/715b2348-45c3-4826-a6f8-55080a1b3fe5"
+          "@id": "wd:Q655122"
         },
         "@id": "http://musicbrainz.org/recording/fca2ae16-74df-49b6-81db-48c5aafc250f",
         "isrcCode": "USEM39200309",
@@ -3571,7 +3577,7 @@
           {
             "@type": "OrganizationRole",
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/0bcba604-bb6a-43d0-b721-5f78a259f8e3",
+              "@id": "wd:Q5309925",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -3589,7 +3595,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/cf347470-d1d1-48b4-bda1-8171418ef5a7"
+              "@id": "wd:Q498745"
             }
           },
           {
@@ -3600,7 +3606,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/e7ee5f13-baf5-4a87-b58b-f871c137d4f5"
+              "@id": "wd:Q231255"
             }
           }
         ]
@@ -3608,7 +3614,7 @@
       {
         "producer": {
           "name": "Bobby Troup",
-          "@id": "http://musicbrainz.org/artist/715b2348-45c3-4826-a6f8-55080a1b3fe5",
+          "@id": "wd:Q655122",
           "@type": [
             "Person",
             "MusicGroup"
@@ -3643,7 +3649,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/e7ee5f13-baf5-4a87-b58b-f871c137d4f5",
+              "@id": "wd:Q231255",
               "name": "Julie London"
             }
           }
@@ -3654,7 +3660,7 @@
       {
         "producer": {
           "name": "Bobby Troup",
-          "@id": "http://musicbrainz.org/artist/715b2348-45c3-4826-a6f8-55080a1b3fe5",
+          "@id": "wd:Q655122",
           "@type": [
             "Person",
             "MusicGroup"
@@ -3687,7 +3693,7 @@
         "contributor": [
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/0bcba604-bb6a-43d0-b721-5f78a259f8e3",
+              "@id": "wd:Q5309925",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -3701,7 +3707,7 @@
             "roleName": "guitar",
             "contributor": {
               "name": "Barney Kessel",
-              "@id": "http://musicbrainz.org/artist/cf347470-d1d1-48b4-bda1-8171418ef5a7",
+              "@id": "wd:Q498745",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -3712,7 +3718,7 @@
           {
             "contributor": {
               "name": "Julie London",
-              "@id": "http://musicbrainz.org/artist/e7ee5f13-baf5-4a87-b58b-f871c137d4f5",
+              "@id": "wd:Q231255",
               "@type": [
                 "Person",
                 "MusicGroup"
@@ -3734,7 +3740,7 @@
         "releaseCountry": {
           "name": "United States",
           "@type": "Country",
-          "@id": "http://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"
+          "@id": "wd:Q30"
         },
         "@type": "CreativeWorkReleaseRegion",
         "releaseDate": "1955-12"
@@ -3753,7 +3759,7 @@
           "Person",
           "MusicGroup"
         ],
-        "@id": "http://musicbrainz.org/artist/e7ee5f13-baf5-4a87-b58b-f871c137d4f5"
+        "@id": "wd:Q231255"
       }
     }
   },
@@ -3763,7 +3769,7 @@
         "releaseCountry": {
           "@type": "Country",
           "name": "United States",
-          "@id": "http://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"
+          "@id": "wd:Q30"
         },
         "@type": "CreativeWorkReleaseRegion",
         "releaseDate": "1947"
@@ -3775,7 +3781,7 @@
       "byArtist": [
         {
           "name": "Claude Debussy",
-          "@id": "http://musicbrainz.org/artist/be50643c-0377-4968-b48c-47e06b2e2a3b",
+          "@id": "wd:Q4700",
           "@type": [
             "Person",
             "MusicGroup"
@@ -3786,12 +3792,12 @@
             "Person",
             "MusicGroup"
           ],
-          "@id": "http://musicbrainz.org/artist/6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a",
+          "@id": "wd:Q1178",
           "name": "Maurice Ravel"
         },
         {
           "@type": "MusicGroup",
-          "@id": "http://musicbrainz.org/artist/ff3fcff7-6c85-49d6-b954-ed7011a44e5a",
+          "@id": "wd:Q659181",
           "name": "The Philadelphia Orchestra"
         },
         {
@@ -3799,11 +3805,11 @@
             "Person",
             "MusicGroup"
           ],
-          "@id": "http://musicbrainz.org/artist/c70e7c06-65e9-42bd-9059-4973fd20e127",
+          "@id": "wd:Q344023",
           "name": "Eugene Ormandy"
         },
         {
-          "@id": "http://musicbrainz.org/artist/70e819f3-781f-4092-b1f7-c885c906e5d2",
+          "@id": "wd:Q266011",
           "name": "Bidu Say\u00e3o",
           "@type": [
             "Person",
@@ -3823,7 +3829,7 @@
             "Person",
             "MusicGroup"
           ],
-          "@id": "http://musicbrainz.org/artist/6b5fbc3e-d08a-4a92-b6fe-de9c11d73fa9",
+          "@id": "wd:Q558846",
           "name": "Robert Casadesus"
         }
       ],
@@ -3838,7 +3844,7 @@
     "recordLabel": {
       "@type": "MusicLabel",
       "name": "Columbia",
-      "@id": "http://musicbrainz.org/label/011d1192-6f65-45bd-85c4-0400dd45693e"
+      "@id": "wd:Q183387"
     },
     "duration": "PT36M55S",
     "image": {
@@ -3900,7 +3906,7 @@
                 "MusicGroup"
               ],
               "name": "Bidu Say\u00e3o",
-              "@id": "http://musicbrainz.org/artist/70e819f3-781f-4092-b1f7-c885c906e5d2"
+              "@id": "wd:Q266011"
             },
             "roleName": "soprano vocals",
             "@type": "OrganizationRole"
@@ -3913,14 +3919,14 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/c70e7c06-65e9-42bd-9059-4973fd20e127",
+              "@id": "wd:Q344023",
               "name": "Eugene Ormandy"
             }
           },
           {
             "contributor": {
               "name": "The Philadelphia Orchestra",
-              "@id": "http://musicbrainz.org/artist/ff3fcff7-6c85-49d6-b954-ed7011a44e5a",
+              "@id": "wd:Q659181",
               "@type": "MusicGroup"
             },
             "roleName": "orchestra",
@@ -3946,7 +3952,7 @@
             "@type": "OrganizationRole",
             "roleName": "piano",
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/6b5fbc3e-d08a-4a92-b6fe-de9c11d73fa9",
+              "@id": "wd:Q558846",
               "name": "Robert Casadesus",
               "@type": [
                 "Person",
@@ -3960,7 +3966,7 @@
                 "Person",
                 "MusicGroup"
               ],
-              "@id": "http://musicbrainz.org/artist/c70e7c06-65e9-42bd-9059-4973fd20e127",
+              "@id": "wd:Q344023",
               "name": "Eugene Ormandy"
             },
             "roleName": "conductor",
@@ -3968,7 +3974,7 @@
           },
           {
             "contributor": {
-              "@id": "http://musicbrainz.org/artist/ff3fcff7-6c85-49d6-b954-ed7011a44e5a",
+              "@id": "wd:Q659181",
               "name": "The Philadelphia Orchestra",
               "@type": "MusicGroup"
             },
@@ -3995,7 +4001,7 @@
         "releaseCountry": {
           "@type": "Country",
           "name": "United Kingdom",
-          "@id": "http://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+          "@id": "wd:Q145"
         },
         "releaseDate": "2008"
       }
@@ -4190,7 +4196,7 @@
       "byArtist": {
         "@type": "MusicGroup",
         "name": "Radiohead",
-        "@id": "http://musicbrainz.org/artist/a74b1b7f-71a5-4011-9441-d0b5e4122711"
+        "@id": "wd:Q44190"
       },
       "name": "In Rainbows: From the Basement"
     }
@@ -4257,7 +4263,7 @@
           "Person",
           "MusicGroup"
         ],
-        "@id": "http://musicbrainz.org/artist/21a89505-10a9-4ac0-8388-833bc07b9f86"
+        "@id": "wd:Q61973202"
       }
     },
     "@id": "http://musicbrainz.org/release/46637412-a759-4fd2-bdce-9340be3675e4",
@@ -4265,7 +4271,7 @@
     "recordLabel": {
       "name": "[no label]",
       "@type": "MusicLabel",
-      "@id": "http://musicbrainz.org/label/157afde4-4bf5-4039-8ad2-5a15acc85176"
+      "@id": "wd:Q28736417"
     },
     "@type": "MusicRelease",
     "@context": "https://schema.org/docs/jsonldcontext.json"

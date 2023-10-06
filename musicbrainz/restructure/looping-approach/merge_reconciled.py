@@ -1,32 +1,48 @@
 import json
 import pandas as pd
 
-with open('extracted_ids.csv','r') as f:
-    id_table = pd.read_csv(f)
+# Load the CSV data into a Pandas DataFrame
+id_table = pd.read_csv('extracted_ids.csv')
+id_table['sameAs'] = "wd:"+id_table['sameAs'].str.extract(r'(Q\d+)$')
 
-with open('../../data/initial_compact.jsonld','r') as f:
+with open('../../data/initial_compact.jsonld', 'r') as f:
     data = json.load(f)
 
-def merge_ids(data, valid_formats):
+def merge_ids(data, id_table):
     if isinstance(data, dict):
         for key, value in data.items():
-            # if key == '@id' and any(value.startswith(format) for format in valid_formats):
-            #     ids.add(value)
             if key == 'genre':
-                for i in range(len(data['genre'])):
-                    replacements = {'@id': id_table[id_table['@id']==data['genre'][i]]['sameAs'],
-                                    'name':id_table[id_table['@id']==data['genre'][i]]['name']}
-                    if data['genre'][i] in replacements:
-                        data['genre'][i] = replacements[data['genre'][i]]
+                genres = data['genre']
+                fin_gen = []
+                for i in genres:
+                    matching_rows = id_table[id_table['@id'] == i]
+                    # print('sam',matching_rows['sameAs'].values[0],'nbbame',matching_rows['name'].values[0])
+                    if not matching_rows.empty:
+                        sameAs = matching_rows['sameAs'].values[0] if not pd.isna(matching_rows['sameAs'].values[0]) else i
+
+                        fin_gen.append( {'@id': sameAs,
+                                            'name': matching_rows['name'].values[0]})
+                data['genre'] = fin_gen
+           
+            if key == '@id':
+                match = id_table[id_table['@id'] == data['@id']]['sameAs']
+                if not match.empty:
+                    data['@id'] = match.values[0] if not pd.isna(match.values[0]) else data['@id']
+
             else:
-                merge_ids(value, valid_formats)  # Pass valid_formats as well
+                # Recursively call merge_ids for nested dictionaries
+                merge_ids(value, id_table)
     elif isinstance(data, list):
-        for item in data:
-            merge_ids(item, valid_formats)  # Pass valid_formats as well
+        # Recursively call merge_ids for elements in the list
+        for i, item in enumerate(data):
+            data[i] = merge_ids(item, id_table)
     return data
 
-output=merge_ids(data, [])
-with open('compact.jsonld', 'w', newline='') as json_file:
+# Call merge_ids with the loaded data and id_table
+output = merge_ids(data, id_table)
+# print(output)
+# Save the modified data to a JSON file
+with open('compact.jsonld', 'w') as json_file:
     json.dump(output, json_file, indent=2)
 
-print('CSV file created with @id values.')
+print('JSON file created with @id values.')
