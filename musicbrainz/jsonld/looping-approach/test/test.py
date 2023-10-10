@@ -3,7 +3,6 @@ import json
 
 
 data = [
-
   {
     "@id": "http://musicbrainz.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd",
     "recordLabel": {
@@ -15,24 +14,32 @@ data = [
       "thumbnail": [
         {
           "encodingFormat": "jpg",
-          "contentUrl": "//coverartarchive.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd/28092634341-250.jpg",
+          "contentUrl": {
+            "@id": "https://coverartarchive.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd/28092634341-250.jpg"
+          },
           "@type": "ImageObject"
         },
         {
           "@type": "ImageObject",
           "encodingFormat": "jpg",
-          "contentUrl": "//coverartarchive.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd/28092634341-500.jpg"
+          "contentUrl": {
+            "@id": "https://coverartarchive.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd/28092634341-500.jpg"
+          }
         },
         {
           "@type": "ImageObject",
           "encodingFormat": "jpg",
-          "contentUrl": "//coverartarchive.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd/28092634341-1200.jpg"
+          "contentUrl": {
+            "@id": "https://coverartarchive.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd/28092634341-1200.jpg"
+          }
         }
       ],
       "encodingFormat": "jpg",
       "representativeOfPage": "True",
       "@type": "ImageObject",
-      "contentUrl": "//coverartarchive.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd/28092634341.jpg"
+      "contentUrl": {
+        "@id": "https://coverartarchive.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd/28092634341.jpg"
+      }
     },
     "@type": "MusicRelease",
     "@context": [
@@ -185,6 +192,175 @@ data = [
     "creditedTo": "Johnny McGreevy & S\u00e9amus Cooley",
     "catalogNumber": "PH 2005",
     "sameAs": "https://www.amazon.com/gp/product/B001RF74KG",
+    "database": "https://musicbrainz.org/"
+  },
+  {
+    "hasReleaseRegion": [
+      {
+        "releaseCountry": {
+          "@type": "Country",
+          "name": "Ireland",
+          "@id": "wd:Q27"
+        },
+        "releaseDate": "2010",
+        "@type": "CreativeWorkReleaseRegion"
+      }
+    ],
+    "creditedTo": "Michael Cooney",
+    "inLanguage": "en",
+    "catalogNumber": "002",
+    "duration": "PT59M24S",
+    "recordLabel": {
+      "name": "Gortnahoo",
+      "@id": "http://musicbrainz.org/label/699f13f1-c6d7-485f-a31e-92459c34657a",
+      "@type": "MusicLabel"
+    },
+    "musicReleaseFormat": "http://schema.org/CDFormat",
+    "name": "Just Piping",
+    "@id": "http://musicbrainz.org/release/4c9190a2-6098-41f4-bbbf-7e9d41e3539e",
+    "track": [
+      {
+        "trackNumber": "1.1",
+        "name": "Frieze Britches",
+        "@id": "http://musicbrainz.org/recording/b58d3c66-a22a-4659-a06b-b05ce16082d5",
+        "duration": "PT02M44S",
+        "@type": "MusicRecording"
+      },
+      {
+        "trackNumber": "1.2",
+        "duration": "PT04M33S",
+        "name": "Colonel Frazier",
+        "@id": "http://musicbrainz.org/recording/718f1532-45a2-4135-86c2-f5dd5c6b0be4",
+        "@type": "MusicRecording"
+      },
+      {
+        "@type": "MusicRecording",
+        "duration": "PT04M42S",
+        "@id": "http://musicbrainz.org/recording/a7359af1-d8e7-4433-b0a7-df88f0e9414d",
+        "name": "Andy's & The Shaskeen",
+        "trackNumber": "1.3"
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/415cbf95-edbf-4b9c-b4b6-f1a542e9fa73",
+        "name": "Two Jigs",
+        "duration": "PT03M15S",
+        "@type": "MusicRecording",
+        "trackNumber": "1.4"
+      },
+      {
+        "@type": "MusicRecording",
+        "@id": "http://musicbrainz.org/recording/6c6f1bd0-c4eb-47a7-9b59-c34ecb493053",
+        "name": "McGreevy's 1 & 2 and the Master's Return",
+        "duration": "PT04M15S",
+        "trackNumber": "1.5"
+      },
+      {
+        "trackNumber": "1.6",
+        "@type": "MusicRecording",
+        "@id": "http://musicbrainz.org/recording/4f58aab4-6155-4941-83fb-7fb60ce08220",
+        "name": "Dear Irish Boy",
+        "duration": "PT03M04S"
+      },
+      {
+        "trackNumber": "1.7",
+        "@type": "MusicRecording",
+        "duration": "PT03M47S",
+        "@id": "http://musicbrainz.org/recording/06be7dbf-6158-4f54-abe8-d3ca750f93df",
+        "name": "The Inishcaultra Selection"
+      },
+      {
+        "name": "Crehan's, Droney's & McGreevy's",
+        "@id": "http://musicbrainz.org/recording/41bb730f-1aaf-4fea-9218-267e4f15c5bd",
+        "duration": "PT03M20S",
+        "@type": "MusicRecording",
+        "trackNumber": "1.8"
+      },
+      {
+        "trackNumber": "1.9",
+        "duration": "PT04M40S",
+        "name": "Garden of Daisies & The Job of Journeywork",
+        "@id": "http://musicbrainz.org/recording/408ddba0-0dbb-46c8-830c-d45065319767",
+        "@type": "MusicRecording"
+      },
+      {
+        "trackNumber": "1.10",
+        "@type": "MusicRecording",
+        "@id": "http://musicbrainz.org/recording/c3141805-11fe-4667-8fbf-0bfd35d7d0b2",
+        "name": "Sean Dwyer",
+        "duration": "PT03M20S"
+      },
+      {
+        "trackNumber": "1.11",
+        "@id": "http://musicbrainz.org/recording/b8530e31-a002-493d-9b64-c9bb1f06d18c",
+        "name": "Humours of Ballyloughlin",
+        "duration": "PT02M17S",
+        "@type": "MusicRecording"
+      },
+      {
+        "duration": "PT02M22S",
+        "@id": "http://musicbrainz.org/recording/0e951712-be5f-4b3d-9d4d-9b79605a041d",
+        "name": "Bucks of Oranmore",
+        "@type": "MusicRecording",
+        "trackNumber": "1.12"
+      },
+      {
+        "trackNumber": "1.13",
+        "duration": "PT05M07S",
+        "@id": "http://musicbrainz.org/recording/02a1e71d-7532-499e-9947-9a38ecc744ac",
+        "name": "New House Selection",
+        "@type": "MusicRecording"
+      },
+      {
+        "@type": "MusicRecording",
+        "duration": "PT02M52S",
+        "name": "Blind Mary",
+        "@id": "http://musicbrainz.org/recording/48dc4396-052d-4d73-beb8-8c3b0d66f511",
+        "trackNumber": "1.14"
+      },
+      {
+        "trackNumber": "1.15",
+        "duration": "PT02M33S",
+        "name": "Boy in the Boat & Pretty Girls of Mayo",
+        "@id": "http://musicbrainz.org/recording/20f4e8c6-14e8-43a1-823e-8a39ebf25a21",
+        "@type": "MusicRecording"
+      },
+      {
+        "duration": "PT03M18S",
+        "@id": "http://musicbrainz.org/recording/fa9f664d-915e-4502-aa1e-1d781c6008c3",
+        "name": "The Commons Polkas",
+        "@type": "MusicRecording",
+        "trackNumber": "1.16"
+      },
+      {
+        "trackNumber": "1.17",
+        "duration": "PT03M15S",
+        "@id": "http://musicbrainz.org/recording/ccb0454c-69a3-4be1-ab60-c31d5103c048",
+        "name": "The Tempest & People's 1 & 2",
+        "@type": "MusicRecording"
+      }
+    ],
+    "sameAs": "https://rateyourmusic.com/release/album/michael_cooney_f2/just_piping.p/",
+    "releaseOf": {
+      "albumProductionType": "http://schema.org/StudioAlbum",
+      "albumReleaseType": "http://schema.org/AlbumRelease",
+      "byArtist": {
+        "@type": [
+          "Person",
+          "MusicGroup"
+        ],
+        "@id": "http://musicbrainz.org/artist/b53568e7-9c3b-4186-9226-b5b1013f2780",
+        "name": "Michael Cooney"
+      },
+      "creditedTo": "Michael Cooney",
+      "name": "Just Piping",
+      "@id": "http://musicbrainz.org/release-group/9939251d-839c-4a0c-bd0c-5ae224e7fcb9",
+      "@type": "MusicAlbum"
+    },
+    "@context": [
+      "https://schema.org/docs/jsonldcontext.json",
+      "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/musicbrainz/jsonld/looping-approach/context.jsonld"
+    ],
+    "@type": "MusicRelease",
     "database": "https://musicbrainz.org/"
   }]
 

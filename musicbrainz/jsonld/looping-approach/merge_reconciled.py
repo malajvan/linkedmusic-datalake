@@ -32,7 +32,8 @@ def merge_ids(data, id_table):
                 match = id_table[id_table['@id'] == data['@id']]['sameAs']
                 if not match.empty:
                     data['@id'] = match.values[0] if not pd.isna(match.values[0]) else data['@id']
-
+            if key == 'contentUrl':
+                data['contentUrl'] = {"@id":"https:" + data['contentUrl']}
             else:
                 # Recursively call merge_ids for nested dictionaries
                 merge_ids(value, id_table)
