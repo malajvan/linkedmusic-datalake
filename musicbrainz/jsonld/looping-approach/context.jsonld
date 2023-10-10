@@ -1,6 +1,5 @@
-{ "@context":{
-        "musicbrainz":"https://musicbrainz.org/",
-
+{ 
+    "@context":{
         "encodingFormat": "wd:P2701",
         "catalogNumber": "wd:P528",
         "isrcCode": "wd:P1243",

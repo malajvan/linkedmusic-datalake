@@ -179,7 +179,8 @@
     ],
     "creditedTo": "Johnny McGreevy & S\u00e9amus Cooley",
     "catalogNumber": "PH 2005",
-    "sameAs": "https://www.amazon.com/gp/product/B001RF74KG"
+    "sameAs": "https://www.amazon.com/gp/product/B001RF74KG",
+    "database": "https://musicbrainz.org/"
   },
   {
     "hasReleaseRegion": [
@@ -347,7 +348,8 @@
       "https://schema.org/docs/jsonldcontext.json",
       "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/musicbrainz/jsonld/looping-approach/context.jsonld"
     ],
-    "@type": "MusicRelease"
+    "@type": "MusicRelease",
+    "database": "https://musicbrainz.org/"
   },
   {
     "image": {
@@ -541,7 +543,8 @@
       "@type": "MusicLabel",
       "name": "VQR Digital"
     },
-    "@id": "http://musicbrainz.org/release/a1ede063-6042-49da-9d82-0e928074649f"
+    "@id": "http://musicbrainz.org/release/a1ede063-6042-49da-9d82-0e928074649f",
+    "database": "https://musicbrainz.org/"
   },
   {
     "track": [
@@ -796,7 +799,8 @@
       "@type": "MusicLabel",
       "name": "Bard Records",
       "@id": "http://musicbrainz.org/label/55750020-d8f8-4bbd-9c4a-4ced1c2f2e37"
-    }
+    },
+    "database": "https://musicbrainz.org/"
   },
   {
     "@context": [
@@ -932,7 +936,8 @@
       "name": "Brilliant Classics",
       "@id": "wd:Q3644784",
       "@type": "MusicLabel"
-    }
+    },
+    "database": "https://musicbrainz.org/"
   },
   {
     "@id": "http://musicbrainz.org/release/f0b0bd94-9743-4114-98c1-9d4dd8ab95cc",
@@ -1103,7 +1108,8 @@
         },
         "@type": "CreativeWorkReleaseRegion"
       }
-    ]
+    ],
+    "database": "https://musicbrainz.org/"
   },
   {
     "duration": "PT47M25S",
@@ -2937,7 +2943,8 @@
       "@id": "wd:Q213710",
       "@type": "MusicLabel",
       "name": "Apple Records"
-    }
+    },
+    "database": "https://musicbrainz.org/"
   },
   {
     "@id": "http://musicbrainz.org/release/2b52af44-db64-4055-9c1b-ad94080400ba",
@@ -3785,7 +3792,8 @@
         ],
         "@id": "wd:Q231255"
       }
-    }
+    },
+    "database": "https://musicbrainz.org/"
   },
   {
     "hasReleaseRegion": [
@@ -4018,7 +4026,8 @@
     "@id": "http://musicbrainz.org/release/6c3d4577-b205-4719-a63d-fa2d5ef4aa68",
     "catalogNumber": "ml4075",
     "sameAs": "https://www.discogs.com/release/3578482",
-    "@type": "MusicRelease"
+    "@type": "MusicRelease",
+    "database": "https://musicbrainz.org/"
   },
   {
     "musicReleaseFormat": "http://schema.org/DigitalFormat",
@@ -4229,7 +4238,8 @@
         "@id": "wd:Q44190"
       },
       "name": "In Rainbows: From the Basement"
-    }
+    },
+    "database": "https://musicbrainz.org/"
   },
   {
     "image": {
@@ -4307,6 +4317,7 @@
     "@context": [
       "https://schema.org/docs/jsonldcontext.json",
       "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/musicbrainz/jsonld/looping-approach/context.jsonld"
-    ]
+    ],
+    "database": "https://musicbrainz.org/"
   }
 ]

@@ -11,6 +11,7 @@ with open('../../data/initial_compact.jsonld', 'r') as f:
 def add_context(data):
     for i in data:
         i["@context"] = [i["@context"],"https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/musicbrainz/jsonld/looping-approach/context.jsonld"]
+        i["database"] = "https://musicbrainz.org/"
 def merge_ids(data, id_table):
     if isinstance(data, dict):
         for key, value in data.items():
