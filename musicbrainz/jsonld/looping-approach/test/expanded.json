@@ -1,0 +1,474 @@
+[
+  {
+    "@id": "http://musicbrainz.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd",
+    "@type": [
+      "http://schema.org/MusicRelease"
+    ],
+    "http://www.wikidata.org/entity/P528": [
+      {
+        "@value": "PH 2005"
+      }
+    ],
+    "http://schema.org/creditedTo": [
+      {
+        "@value": "Johnny McGreevy & S\u00e9amus Cooley"
+      }
+    ],
+    "https://schema.org/Dataset": [
+      {
+        "@id": "https://musicbrainz.org/"
+      }
+    ],
+    "http://www.wikidata.org/entity/P291": [
+      {
+        "@type": [
+          "http://schema.org/CreativeWorkReleaseRegion"
+        ],
+        "http://www.wikidata.org/entity/P291": [
+          {
+            "@id": "http://www.wikidata.org/entity/Q30",
+            "@type": [
+              "http://schema.org/Country"
+            ],
+            "http://www.wikidata.org/entity/P2561": [
+              {
+                "@value": "United States"
+              }
+            ]
+          }
+        ],
+        "http://www.wikidata.org/entity/P577": [
+          {
+            "@type": "http://www.w3.org/2001/XMLSchema#date",
+            "@value": "1974"
+          }
+        ]
+      }
+    ],
+    "http://www.wikidata.org/entity/P18": [
+      {
+        "@type": [
+          "http://schema.org/ImageObject"
+        ],
+        "http://www.wikidata.org/entity/P2699": [
+          {
+            "@value": "//coverartarchive.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd/28092634341.jpg"
+          }
+        ],
+        "http://www.wikidata.org/entity/P2701": [
+          {
+            "@value": "jpg"
+          }
+        ],
+        "http://schema.org/representativeOfPage": [
+          {
+            "@value": "True"
+          }
+        ],
+        "http://schema.org/thumbnail": [
+          {
+            "@type": [
+              "http://schema.org/ImageObject"
+            ],
+            "http://www.wikidata.org/entity/P2699": [
+              {
+                "@value": "//coverartarchive.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd/28092634341-250.jpg"
+              }
+            ],
+            "http://www.wikidata.org/entity/P2701": [
+              {
+                "@value": "jpg"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/ImageObject"
+            ],
+            "http://www.wikidata.org/entity/P2699": [
+              {
+                "@value": "//coverartarchive.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd/28092634341-500.jpg"
+              }
+            ],
+            "http://www.wikidata.org/entity/P2701": [
+              {
+                "@value": "jpg"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/ImageObject"
+            ],
+            "http://www.wikidata.org/entity/P2699": [
+              {
+                "@value": "//coverartarchive.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd/28092634341-1200.jpg"
+              }
+            ],
+            "http://www.wikidata.org/entity/P2701": [
+              {
+                "@value": "jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "http://www.wikidata.org/entity/P437": [
+      {
+        "@value": "http://schema.org/VinylFormat"
+      }
+    ],
+    "http://www.wikidata.org/entity/P2561": [
+      {
+        "@value": "McGreevy & Cooley"
+      }
+    ],
+    "http://www.wikidata.org/entity/P264": [
+      {
+        "@id": "http://musicbrainz.org/label/d476b74d-670d-44ab-be5c-2c17caea20a9",
+        "@type": [
+          "http://schema.org/MusicLabel"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "Philo"
+          }
+        ]
+      }
+    ],
+    "http://www.wikidata.org/entity/P9831": [
+      {
+        "@id": "http://musicbrainz.org/release-group/cb5877ee-65dd-4968-aa98-b883826274d2",
+        "@type": [
+          "http://schema.org/MusicAlbum"
+        ],
+        "http://www.wikidata.org/entity/P7937": [
+          {
+            "@value": "http://schema.org/StudioAlbum"
+          }
+        ],
+        "http://schema.org/albumReleaseType": [
+          {
+            "@value": "http://schema.org/AlbumRelease"
+          }
+        ],
+        "http://www.wikidata.org/entity/P175": [
+          {
+            "@id": "http://musicbrainz.org/artist/de8f8c4b-a768-460f-ae9e-1ca8bbaf426f",
+            "@type": [
+              "http://schema.org/Person",
+              "http://schema.org/MusicGroup"
+            ],
+            "http://www.wikidata.org/entity/P2561": [
+              {
+                "@value": "Johnny McGreevy"
+              }
+            ]
+          },
+          {
+            "@id": "http://musicbrainz.org/artist/5439eef7-2d99-4024-9b21-482a4c8550b3",
+            "@type": [
+              "http://schema.org/Person",
+              "http://schema.org/MusicGroup"
+            ],
+            "http://www.wikidata.org/entity/P2561": [
+              {
+                "@value": "S\u00e9amus Cooley"
+              }
+            ]
+          }
+        ],
+        "http://schema.org/creditedTo": [
+          {
+            "@value": "Johnny McGreevy & S\u00e9amus Cooley"
+          }
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "McGreevy & Cooley"
+          }
+        ]
+      }
+    ],
+    "http://www.wikidata.org/entity/P2888": [
+      {
+        "@value": "https://www.amazon.com/gp/product/B001RF74KG"
+      }
+    ],
+    "http://schema.org/track": [
+      {
+        "@id": "http://musicbrainz.org/recording/d506fa4b-733e-4864-8b41-29c5c510024e",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "The Broken Pledge / Julia Delaney (reels)"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.1"
+          }
+        ]
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/b59c6d66-e6c1-4902-a673-953f84c17577",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "Se\u00e1n sa Ceo / Michael Preston's (reels)"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.2"
+          }
+        ]
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/efdbad07-70af-4057-b525-704a94096174",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "Jimmy Neary's / Jim Ward's (jigs)"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.3"
+          }
+        ]
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/bb245713-1178-4891-871a-c98c3a9bf451",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "Down the Broom / The Gatehouse Maid (reels)"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.4"
+          }
+        ]
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/3759a5eb-cdc2-4bb7-bd4a-5adc2b71e26e",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "Sliabh na mBan / Mo Bhuirnin Ban (airs)"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.5"
+          }
+        ]
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/cd5fb5ef-b795-4339-8f15-21d0cc452fb3",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "Se\u00e1n Ryan's (hornpipes)"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.6"
+          }
+        ]
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/33147eb3-d5b6-4655-b256-42583b25923b",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "Ginny's Favourite / The Bird in the Bush (reels)"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.7"
+          }
+        ]
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/37a34bbf-2a28-4d0a-a047-9e6589696c03",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "The Reel of Bogie"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.8"
+          }
+        ]
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/1d04276e-0bbe-4ab5-bde3-507fd05cbd32",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "The Crooked Road to Dublin / The Moving Bog (reels)"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.9"
+          }
+        ]
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/94a04e93-3702-45fd-9323-aacc38508e1f",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "The Skylark / Roaring Mary (reels)"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.10"
+          }
+        ]
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/c382d06d-61be-4977-b1d9-a51b2e2d6102",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "The Plains of Boyle / The Boys of Bluehill (hornpipes)"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.11"
+          }
+        ]
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/c2391cc3-8130-4852-a28a-bfe09184570d",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "McGreevy's / Father Kelly's 2 (reels)"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.12"
+          }
+        ]
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/9543c272-fbd8-48d8-ada6-415de1415ef5",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "The Lilting Banshee / The Butcher's March (jigs)"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.13"
+          }
+        ]
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/057b6f03-6555-4c25-95e7-2d6f0aee2b6a",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "Ownie Davy's / Money in Both Pockets (reels)"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.14"
+          }
+        ]
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/3358da5f-d580-40ab-92b0-13b8817d5387",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "Tim Maloney's / Cooley's (reels)"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.15"
+          }
+        ]
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/20409b65-c2af-4d5e-b946-f48739863be0",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "The Chicago / Reidy's (reels)"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.16"
+          }
+        ]
+      },
+      {
+        "@id": "http://musicbrainz.org/recording/4f4a4dac-8115-4e3b-95bf-f34cdeeafc81",
+        "@type": [
+          "http://schema.org/MusicRecording"
+        ],
+        "http://www.wikidata.org/entity/P2561": [
+          {
+            "@value": "The Trip to Vermont (hornpipe)"
+          }
+        ],
+        "http://www.wikidata.org/entity/P1545": [
+          {
+            "@value": "1.17"
+          }
+        ]
+      }
+    ]
+  }
+]
