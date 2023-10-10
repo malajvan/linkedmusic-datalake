@@ -30,7 +30,10 @@
       "contentUrl": "//coverartarchive.org/release/20027ad4-6667-49b6-bd07-5ac12d57f8dd/28092634341.jpg"
     },
     "@type": "MusicRelease",
-    "@context": "https://schema.org/docs/jsonldcontext.json",
+    "@context": [
+      "https://schema.org/docs/jsonldcontext.json",
+      "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/musicbrainz/jsonld/looping-approach/context.jsonld"
+    ],
     "releaseOf": {
       "creditedTo": "Johnny McGreevy & S\u00e9amus Cooley",
       "albumProductionType": "http://schema.org/StudioAlbum",
@@ -340,7 +343,10 @@
       "@id": "http://musicbrainz.org/release-group/9939251d-839c-4a0c-bd0c-5ae224e7fcb9",
       "@type": "MusicAlbum"
     },
-    "@context": "https://schema.org/docs/jsonldcontext.json",
+    "@context": [
+      "https://schema.org/docs/jsonldcontext.json",
+      "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/musicbrainz/jsonld/looping-approach/context.jsonld"
+    ],
     "@type": "MusicRelease"
   },
   {
@@ -508,7 +514,10 @@
     "@type": "MusicRelease",
     "catalogNumber": "VQR 2046",
     "creditedTo": "Sue Ann Pinner",
-    "@context": "https://schema.org/docs/jsonldcontext.json",
+    "@context": [
+      "https://schema.org/docs/jsonldcontext.json",
+      "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/musicbrainz/jsonld/looping-approach/context.jsonld"
+    ],
     "musicReleaseFormat": "http://schema.org/CDFormat",
     "hasReleaseRegion": [
       {
@@ -776,7 +785,10 @@
         "@type": "MusicGroup"
       }
     },
-    "@context": "https://schema.org/docs/jsonldcontext.json",
+    "@context": [
+      "https://schema.org/docs/jsonldcontext.json",
+      "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/musicbrainz/jsonld/looping-approach/context.jsonld"
+    ],
     "duration": "PT1H04M43S",
     "musicReleaseFormat": "http://schema.org/DigitalFormat",
     "name": "Alpine Airs: Music of Switzerland, 13th-16th Centuries",
@@ -787,7 +799,10 @@
     }
   },
   {
-    "@context": "https://schema.org/docs/jsonldcontext.json",
+    "@context": [
+      "https://schema.org/docs/jsonldcontext.json",
+      "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/musicbrainz/jsonld/looping-approach/context.jsonld"
+    ],
     "musicReleaseFormat": "http://schema.org/CDFormat",
     "catalogNumber": [
       "99937",
@@ -937,7 +952,10 @@
     "@type": "MusicRelease",
     "gtin14": "3279791552037",
     "catalogNumber": "SOCD 155",
-    "@context": "https://schema.org/docs/jsonldcontext.json",
+    "@context": [
+      "https://schema.org/docs/jsonldcontext.json",
+      "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/musicbrainz/jsonld/looping-approach/context.jsonld"
+    ],
     "track": [
       {
         "name": "Cantigas De Santa Maria 28 / 264",
@@ -2882,7 +2900,10 @@
       ],
       "name": "George Martin"
     },
-    "@context": "https://schema.org/docs/jsonldcontext.json",
+    "@context": [
+      "https://schema.org/docs/jsonldcontext.json",
+      "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/musicbrainz/jsonld/looping-approach/context.jsonld"
+    ],
     "@type": "MusicRelease",
     "hasReleaseRegion": [
       {
@@ -2928,7 +2949,10 @@
       "name": "Liberty"
     },
     "@type": "MusicRelease",
-    "@context": "https://schema.org/docs/jsonldcontext.json",
+    "@context": [
+      "https://schema.org/docs/jsonldcontext.json",
+      "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/musicbrainz/jsonld/looping-approach/context.jsonld"
+    ],
     "image": {
       "encodingFormat": "jpg",
       "@type": "ImageObject",
@@ -3838,7 +3862,10 @@
       "@id": "http://musicbrainz.org/release-group/1baf5f39-e798-4cdb-bff3-c098338fba0d",
       "name": "La damoiselle \u00e9lue / Piano Concerto for the Left Hand"
     },
-    "@context": "https://schema.org/docs/jsonldcontext.json",
+    "@context": [
+      "https://schema.org/docs/jsonldcontext.json",
+      "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/musicbrainz/jsonld/looping-approach/context.jsonld"
+    ],
     "name": "La damoiselle \u00e9lue / Piano Concerto for the Left Hand",
     "musicReleaseFormat": "http://schema.org/VinylFormat",
     "recordLabel": {
@@ -4186,7 +4213,10 @@
     },
     "@type": "MusicRelease",
     "duration": "PT44M58S",
-    "@context": "https://schema.org/docs/jsonldcontext.json",
+    "@context": [
+      "https://schema.org/docs/jsonldcontext.json",
+      "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/musicbrainz/jsonld/looping-approach/context.jsonld"
+    ],
     "releaseOf": {
       "albumProductionType": "http://schema.org/LiveAlbum",
       "@type": "MusicAlbum",
@@ -4274,6 +4304,9 @@
       "@id": "wd:Q28736417"
     },
     "@type": "MusicRelease",
-    "@context": "https://schema.org/docs/jsonldcontext.json"
+    "@context": [
+      "https://schema.org/docs/jsonldcontext.json",
+      "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/musicbrainz/jsonld/looping-approach/context.jsonld"
+    ]
   }
 ]

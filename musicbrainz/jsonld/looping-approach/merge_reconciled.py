@@ -8,6 +8,9 @@ id_table['sameAs'] = "wd:"+id_table['sameAs'].str.extract(r'(Q\d+)$')
 with open('../../data/initial_compact.jsonld', 'r') as f:
     data = json.load(f)
 
+def add_context(data):
+    for i in data:
+        i["@context"] = [i["@context"],"https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/musicbrainz/jsonld/looping-approach/context.jsonld"]
 def merge_ids(data, id_table):
     if isinstance(data, dict):
         for key, value in data.items():
@@ -40,6 +43,7 @@ def merge_ids(data, id_table):
 
 # Call merge_ids with the loaded data and id_table
 output = merge_ids(data, id_table)
+add_context(output)
 # print(output)
 # Save the modified data to a JSON file
 with open('compact.jsonld', 'w') as json_file:
