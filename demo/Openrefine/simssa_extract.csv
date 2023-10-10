@@ -1,0 +1,84 @@
+musical_work_id,musical_work_variant_titles,composer,file_format,url_to_file
+1,['Quanto più desiar sento’l mio core'],Bernardo Pisano,xml,https://db.simssa.ca/files/1
+2,['Si è debile el filo a cui s’attiene'],Bernardo Pisano,xml,https://db.simssa.ca/files/5
+3,['De perché in odio m’hai'],Bernardo Pisano,midi,https://db.simssa.ca/files/10
+4,['Son io donna qual mostri ogni tuo bene'],Bernardo Pisano,xml,https://db.simssa.ca/files/13
+5,['Son io donna (2) qual mostri ogni tuo bene'],Bernardo Pisano,xml,https://db.simssa.ca/files/17
+6,['Nella stagion che’l ciel rapido inchina'],Bernardo Pisano,xml,https://db.simssa.ca/files/21
+7,['Donna benché di rado et con riguardo'],Bernardo Pisano,xml,https://db.simssa.ca/files/25
+8,['Amore amor quando io speravo'],Bernardo Pisano,xml,https://db.simssa.ca/files/29
+9,['Amor se vuoi ch’i torni al giogho anticho'],Bernardo Pisano,xml,https://db.simssa.ca/files/33
+10,['Perché donna non vuoi'],Bernardo Pisano,xml,https://db.simssa.ca/files/37
+11,['Chiare fresche et dolc’acque'],Bernardo Pisano,xml,https://db.simssa.ca/files/41
+12,"['Che deggio far che mi consigli Amore? [2, Pisano, F&H]']",Bernardo Pisano,xml,https://db.simssa.ca/files/45
+13,['Giamai non veder gli occhi'],Bernardo Pisano,xml,https://db.simssa.ca/files/49
+14,['Chi della fede altrui piglia sospecto'],Bernardo Pisano,xml,https://db.simssa.ca/files/53
+15,['Cosi nel mio parlare voglio essere aspro'],Bernardo Pisano,xml,https://db.simssa.ca/files/57
+16,"[""Tanta pietà cor mio talhor m'assale""]",Bernardo Pisano,xml,https://db.simssa.ca/files/61
+17,"[""Nuova angioletta sovra l'ale accorta""]",Bernardo Pisano,xml,https://db.simssa.ca/files/65
+18,"[""Poich'io parti da cui partir non posso""]",Bernardo Pisano,xml,https://db.simssa.ca/files/69
+19,['Hor vedi Amore che giovinetta donna'],Bernardo Pisano,xml,https://db.simssa.ca/files/73
+20,['Amor che mi tormenti'],Sebastiano Festa,xml,https://db.simssa.ca/files/77
+21,['Quando el suave mio fido conforto'],Sebastiano Festa,xml,https://db.simssa.ca/files/81
+22,['Ben mi credea passar mio tempo homai'],Sebastiano Festa,xml,https://db.simssa.ca/files/85
+23,"[""Amor se vuoi ch'io torni al giogho anticho""]",Sebastiano Festa,xml,https://db.simssa.ca/files/89
+24,"[""Perch'ai viso d'amor portava insegnia""]",Sebastiano Festa,xml,https://db.simssa.ca/files/93
+25,['Ο passi sparsi ο pensier vaghi et pronti'],Sebastiano Festa,sibelius,https://db.simssa.ca/files/100
+26,['Amor quando fioriva mia speme'],Sebastiano Festa,xml,https://db.simssa.ca/files/101
+27,"['Quanta mai leggiadria, quanta beliate']",Bartolomeo Tromboncino,xml,https://db.simssa.ca/files/105
+28,['Fralle infelice vivo più felice'],,xml,https://db.simssa.ca/files/109
+29,"[""S'il dixi mai ch'i vengha in odio a quella""]",,xml,https://db.simssa.ca/files/113
+30,"[""Quel foco ch'io pensai che fussi spento""]",,xml,https://db.simssa.ca/files/117
+31,"[""So ben che lei non sa quanto chi l'amo""]",Michele Pesenti,xml,https://db.simssa.ca/files/121
+32,['Quando lo pomo vien da lo pomaro'],Bartolomeo Tromboncino,xml,https://db.simssa.ca/files/125
+33,['Ο Dio che la brunetta mia'],Michele Pesenti,xml,https://db.simssa.ca/files/129
+34,['Hora è di maggio'],Heinrich Isaac,xml,https://db.simssa.ca/files/133
+35,['Che fa la ramanzina'],Loyset Compère,xml,https://db.simssa.ca/files/137
+36,"['Che debbio far che mi consigli Amore? [3, Tromboncino, F&H]']",Bartolomeo Tromboncino,xml,https://db.simssa.ca/files/141
+37,['La tortorella el semplice uccelletto'],Jacob Obrecht,xml,https://db.simssa.ca/files/145
+38,['Scaramella fa la guerra'],des Prez Josquin,xml,https://db.simssa.ca/files/149
+39,"[""[Zibaldone] C.: Fortuna disperata; Α.: Vidi la forosetta in un boschetto; T.: Voi m'havete svergognié; B.: Fortuna - mangio biscotti""]",,xml,https://db.simssa.ca/files/153
+40,"[""J'am pris amours; [Zibaldone] C., Α., T. Musicola B.: Ma buce rit""]",,xml,https://db.simssa.ca/files/157
+41,"[""[Zibaldone] C. : Donna tu pure invecchi Α.: Diventerò zenzaro T.: Ogniun fughi et pigli scampo; B: Dall'armata delle dee""]",,xml,https://db.simssa.ca/files/161
+42,['Donne venite al ballo [T]'],Francesco Patavino,xml,https://db.simssa.ca/files/165
+43,['Un cavalier di Spagnia [T]; Cavalcha per la via'],Francesco Patavino,xml,https://db.simssa.ca/files/169
+44,"[""L'ultimo di di maggio [T]; Un bel mattino""]",Sebastiano Festa,xml,https://db.simssa.ca/files/173
+45,['Vaghe le montanine pasturelle '],,xml,https://db.simssa.ca/files/177
+46,['Solingho et vagho augello '],,xml,https://db.simssa.ca/files/181
+47,['Entré je suis en gran pensier '],des Prez Josquin,xml,https://db.simssa.ca/files/185
+48,['Tant ravy suis en la bonté '],,xml,https://db.simssa.ca/files/189
+49,['Amoreuse mi fault estre '],,xml,https://db.simssa.ca/files/193
+50,['Jouly mariner passe mon sene '],,xml,https://db.simssa.ca/files/197
+51,"[""Notre chambrier sy malad'estet ""]",,xml,https://db.simssa.ca/files/201
+52,['Impotent suis et affollé '],Antoine Bruhier,xml,https://db.simssa.ca/files/205
+53,"[""Se j'ay perdu mon amy ""]",des Prez Josquin,xml,https://db.simssa.ca/files/209
+54,['Et la la la la la la '],,xml,https://db.simssa.ca/files/213
+55,"[""En l'ombre da ung bepin ""]",,xml,https://db.simssa.ca/files/217
+56,['Très dolce filette '],,xml,https://db.simssa.ca/files/221
+57,['Frapes petit coup '],Antoine Bruhier,xml,https://db.simssa.ca/files/225
+58,['Jacquet Jacquet '],Antoine Bruhier,xml,https://db.simssa.ca/files/229
+59,"[""N'as tu poynct mys ton hault bounet ""]",,xml,https://db.simssa.ca/files/233
+60,['Adieu mes amours '],,xml,https://db.simssa.ca/files/237
+61,"[""Forseullement l'atente que je meure ""]",,xml,https://db.simssa.ca/files/241
+62,['Forseullement l’atante que je meure '],Matthaeus Pipelare,xml,https://db.simssa.ca/files/245
+63,"[""L'autre ior je cavacioye ""]",Loyset Compère,xml,https://db.simssa.ca/files/249
+64,['Gentil galans de fransa '],,xml,https://db.simssa.ca/files/253
+65,"[""Je suis amie d'un forier ""]",Loyset Compère,xml,https://db.simssa.ca/files/257
+66,['Alons fere nos barbes '],Loyset Compère,xml,https://db.simssa.ca/files/261
+67,['Voles ouir une sanson de chyons '],Loyset Compère,xml,https://db.simssa.ca/files/265
+68,['Plus nullez regretez '],des Prez Josquin,xml,https://db.simssa.ca/files/269
+69,['Ille etet ung bon homme '],,xml,https://db.simssa.ca/files/273
+70,['Une playsant fìlette '],Loyset Compère,xml,https://db.simssa.ca/files/277
+71,['ludica me Deus '],Andreas De Silva,xml,https://db.simssa.ca/files/281
+72,['Prophetarum maxime '],Heinrich Isaac,xml,https://db.simssa.ca/files/285
+73,['Paratum cor meum Deus '],des Prez Josquin,xml,https://db.simssa.ca/files/289
+74,['Spem in alium numquam habui '],,xml,https://db.simssa.ca/files/293
+75,['Regem confessorum dominum venite '],Jean Mouton,xml,https://db.simssa.ca/files/297
+76,['Bona vita bona refectio '],Jean Mouton,xml,https://db.simssa.ca/files/301
+77,"['Alma redemptoris mater (C., B.) / Ave regina coelorum (Α., T.)']",des Prez Josquin,xml,https://db.simssa.ca/files/305
+78,['Ave Maria gratia plena … virgo serena'],des Prez Josquin,xml,https://db.simssa.ca/files/309
+79,['Miserere mei Deus '],,xml,https://db.simssa.ca/files/313
+80,['Missus est angelus Gabriel '],des Prez Josquin,xml,https://db.simssa.ca/files/317
+81,['Felix namque es sacra Virgo Maria '],Jean Mouton,xml,https://db.simssa.ca/files/321
+82,['Ο bone et dulcis domine Yhesus '],des Prez Josquin,xml,https://db.simssa.ca/files/325
+83,['Missa De feria'],Pierre La Rue,,
