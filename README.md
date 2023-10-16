@@ -1,3 +1,3 @@
 # LMDL
 
-Linked Music Data Lake
+LinkedMusic Data Lake
