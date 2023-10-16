@@ -42,7 +42,7 @@ musical_work_id,musical_work_variant_titles,composer,file_format,url_to_file
 41,"[""[Zibaldone] C. : Donna tu pure invecchi Α.: Diventerò zenzaro T.: Ogniun fughi et pigli scampo; B: Dall'armata delle dee""]",,xml,https://db.simssa.ca/files/161
 42,['Donne venite al ballo [T]'],Francesco Patavino,xml,https://db.simssa.ca/files/165
 43,['Un cavalier di Spagnia [T]; Cavalcha per la via'],Francesco Patavino,xml,https://db.simssa.ca/files/169
-44,"[""L'ultimo di di maggio [T]; Un bel mattino""]",Sebastiano Festa,xml,https://db.simssa.ca/files/173
+44,"[""L'ultimo di di maggio [T]; Un bel mattino""]",Sebastiano Festa,pdf,https://db.simssa.ca/files/173
 45,['Vaghe le montanine pasturelle '],,xml,https://db.simssa.ca/files/177
 46,['Solingho et vagho augello '],,xml,https://db.simssa.ca/files/181
 47,['Entré je suis en gran pensier '],des Prez Josquin,xml,https://db.simssa.ca/files/185
@@ -63,7 +63,7 @@ musical_work_id,musical_work_variant_titles,composer,file_format,url_to_file
 62,['Forseullement l’atante que je meure '],Matthaeus Pipelare,xml,https://db.simssa.ca/files/245
 63,"[""L'autre ior je cavacioye ""]",Loyset Compère,xml,https://db.simssa.ca/files/249
 64,['Gentil galans de fransa '],,xml,https://db.simssa.ca/files/253
-65,"[""Je suis amie d'un forier ""]",Loyset Compère,xml,https://db.simssa.ca/files/257
+65,"[""Je suis amie d'un forier ""]",Loyset Compère,pdf,https://db.simssa.ca/files/257
 66,['Alons fere nos barbes '],Loyset Compère,xml,https://db.simssa.ca/files/261
 67,['Voles ouir une sanson de chyons '],Loyset Compère,xml,https://db.simssa.ca/files/265
 68,['Plus nullez regretez '],des Prez Josquin,xml,https://db.simssa.ca/files/269
@@ -76,7 +76,7 @@ musical_work_id,musical_work_variant_titles,composer,file_format,url_to_file
 75,['Regem confessorum dominum venite '],Jean Mouton,xml,https://db.simssa.ca/files/297
 76,['Bona vita bona refectio '],Jean Mouton,xml,https://db.simssa.ca/files/301
 77,"['Alma redemptoris mater (C., B.) / Ave regina coelorum (Α., T.)']",des Prez Josquin,xml,https://db.simssa.ca/files/305
-78,['Ave Maria gratia plena … virgo serena'],des Prez Josquin,xml,https://db.simssa.ca/files/309
+78,['Ave Maria gratia plena … virgo serena'],des Prez Josquin,pdf,https://db.simssa.ca/files/309
 79,['Miserere mei Deus '],,xml,https://db.simssa.ca/files/313
 80,['Missus est angelus Gabriel '],des Prez Josquin,xml,https://db.simssa.ca/files/317
 81,['Felix namque es sacra Virgo Maria '],Jean Mouton,xml,https://db.simssa.ca/files/321
