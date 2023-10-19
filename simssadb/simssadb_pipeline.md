@@ -27,10 +27,10 @@ The following is a list of reconciled columns:
 ## 3. Reconcile column names and generating json-ld
 Currently the json-ld is generated as follow:  
 
-In [`generate_jsonld.py`](https://github.com/malajvan/linkedmusic-datalake/blob/main/simssadb/jsonld/generate_jsonld.py):
+In `generate_jsonld.py`:
 - convert csv to json documents 
 - Loop through each json document and edit each entry, creating the compact jsonld. Each json document is a musical work, and the files are listed as nested json documents in a list.
-- Generate the jsonld file at [`compact.jsonld`](https://github.com/malajvan/linkedmusic-datalake/blob/main/simssadb/jsonld/compact.jsonld)
-- The contexts used in the compact.jsonld file is imported from [`context.jsonld`](https://github.com/malajvan/linkedmusic-datalake/blob/main/simssadb/jsonld/context.jsonld)
-- Test jsonld and its contexts with PyLD. We use the file `test_expansion/test.py` to use PyLD's expand function to generate `expanded.json`.
+- Generate the jsonld file at `compact.jsonld`
+- The contexts used in the compact.jsonld file is imported from `context.jsonld`
+
 

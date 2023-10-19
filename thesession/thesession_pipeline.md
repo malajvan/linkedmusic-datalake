@@ -17,7 +17,7 @@ Currently thesession.org data is not reconciled with Wikidata objects.
 Currently the json-ld is generated as follow:  
 In `generate_naive_json.py`: generate the naive json structure and clean up indexes
 
-In [`generate_jsonld.py`](https://github.com/malajvan/linkedmusic-datalake/blob/main/simssadb/jsonld/generate_jsonld.py):
+In `generate_jsonld.py`:
 - Call the generating functions from `generate_naive_json.py`.
 - Import the file `naive_json`, add `@context` and other json-ld components as necessary.
 
