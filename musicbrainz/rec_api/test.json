@@ -1,0 +1,97 @@
+{
+    "releases": [
+        {
+            "status": "Official",
+            "date": "1974",
+            "quality": "normal",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "title": "McGreevy & Cooley",
+            "id": "20027ad4-6667-49b6-bd07-5ac12d57f8dd",
+            "packaging": "Cardboard/Paper Sleeve",
+            "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+            "barcode": "",
+            "release-events": [
+                {
+                    "area": {
+                        "name": "United States",
+                        "sort-name": "United States",
+                        "id": "489ce91b-6658-3307-9877-795b68554c98",
+                        "type-id": null,
+                        "iso-3166-1-codes": [
+                            "US"
+                        ],
+                        "type": null,
+                        "disambiguation": ""
+                    },
+                    "date": "1974"
+                }
+            ],
+            "disambiguation": "",
+            "text-representation": {
+                "script": "Latn",
+                "language": null
+            },
+            "artist-credit": [
+                {
+                    "name": "Johnny McGreevy",
+                    "joinphrase": " & ",
+                    "artist": {
+                        "sort-name": "McGreevy, Johnny",
+                        "id": "de8f8c4b-a768-460f-ae9e-1ca8bbaf426f",
+                        "name": "Johnny McGreevy",
+                        "disambiguation": "Irish fiddle player",
+                        "type": "Person",
+                        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                    }
+                },
+                {
+                    "name": "Séamus Cooley",
+                    "joinphrase": "",
+                    "artist": {
+                        "disambiguation": "",
+                        "type": "Person",
+                        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                        "id": "5439eef7-2d99-4024-9b21-482a4c8550b3",
+                        "sort-name": "Cooley, Séamus",
+                        "name": "Séamus Cooley"
+                    }
+                }
+            ],
+            "country": "US"
+        }
+    ],
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "secondary-type-ids": [],
+    "artist-credit": [
+        {
+            "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "disambiguation": "Irish fiddle player",
+                "type": "Person",
+                "name": "Johnny McGreevy",
+                "id": "de8f8c4b-a768-460f-ae9e-1ca8bbaf426f",
+                "sort-name": "McGreevy, Johnny"
+            },
+            "joinphrase": " & ",
+            "name": "Johnny McGreevy"
+        },
+        {
+            "joinphrase": "",
+            "artist": {
+                "disambiguation": "",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Cooley, Séamus",
+                "id": "5439eef7-2d99-4024-9b21-482a4c8550b3",
+                "name": "Séamus Cooley"
+            },
+            "name": "Séamus Cooley"
+        }
+    ],
+    "title": "McGreevy & Cooley",
+    "id": "cb5877ee-65dd-4968-aa98-b883826274d2",
+    "primary-type": "Album",
+    "secondary-types": [],
+    "first-release-date": "1974",
+    "disambiguation": ""
+}

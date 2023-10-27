@@ -1,0 +1,668 @@
+[
+  {
+    "release-group": {
+      "id": "cb5877ee-65dd-4968-aa98-b883826274d2",
+      "type": "Album",
+      "title": "McGreevy & Cooley",
+      "first-release-date": "1974",
+      "primary-type": "Album",
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "de8f8c4b-a768-460f-ae9e-1ca8bbaf426f",
+            "type": "Person",
+            "name": "Johnny McGreevy",
+            "sort-name": "McGreevy, Johnny",
+            "disambiguation": "Irish fiddle player"
+          }
+        },
+        " & ",
+        {
+          "artist": {
+            "id": "5439eef7-2d99-4024-9b21-482a4c8550b3",
+            "type": "Person",
+            "name": "S\u00e9amus Cooley",
+            "sort-name": "Cooley, S\u00e9amus"
+          }
+        }
+      ],
+      "release-list": [
+        {
+          "id": "20027ad4-6667-49b6-bd07-5ac12d57f8dd",
+          "title": "McGreevy & Cooley",
+          "status": "Official",
+          "quality": "normal",
+          "packaging": "Cardboard/Paper Sleeve",
+          "text-representation": {
+            "script": "Latn"
+          },
+          "date": "1974",
+          "country": "US",
+          "release-event-list": [
+            {
+              "date": "1974",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-code-list": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "release-event-count": 1,
+          "barcode": ""
+        }
+      ],
+      "release-count": 1,
+      "url-relation-list": [
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://thesession.org/recordings/2070",
+          "direction": "forward"
+        },
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://www.irishtune.info/album/McGrCool/",
+          "direction": "forward"
+        }
+      ],
+      "artist-credit-phrase": "Johnny McGreevy & S\u00e9amus Cooley"
+    }
+  },
+  {
+    "release-group": {
+      "id": "cb5877ee-65dd-4968-aa98-b883826274d2",
+      "type": "Album",
+      "title": "McGreevy & Cooley",
+      "first-release-date": "1974",
+      "primary-type": "Album",
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "de8f8c4b-a768-460f-ae9e-1ca8bbaf426f",
+            "type": "Person",
+            "name": "Johnny McGreevy",
+            "sort-name": "McGreevy, Johnny",
+            "disambiguation": "Irish fiddle player"
+          }
+        },
+        " & ",
+        {
+          "artist": {
+            "id": "5439eef7-2d99-4024-9b21-482a4c8550b3",
+            "type": "Person",
+            "name": "S\u00e9amus Cooley",
+            "sort-name": "Cooley, S\u00e9amus"
+          }
+        }
+      ],
+      "release-list": [
+        {
+          "id": "20027ad4-6667-49b6-bd07-5ac12d57f8dd",
+          "title": "McGreevy & Cooley",
+          "status": "Official",
+          "quality": "normal",
+          "packaging": "Cardboard/Paper Sleeve",
+          "text-representation": {
+            "script": "Latn"
+          },
+          "date": "1974",
+          "country": "US",
+          "release-event-list": [
+            {
+              "date": "1974",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-code-list": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "release-event-count": 1,
+          "barcode": ""
+        }
+      ],
+      "release-count": 1,
+      "url-relation-list": [
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://thesession.org/recordings/2070",
+          "direction": "forward"
+        },
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://www.irishtune.info/album/McGrCool/",
+          "direction": "forward"
+        }
+      ],
+      "artist-credit-phrase": "Johnny McGreevy & S\u00e9amus Cooley"
+    }
+  },
+  {
+    "release-group": {
+      "id": "cb5877ee-65dd-4968-aa98-b883826274d2",
+      "type": "Album",
+      "title": "McGreevy & Cooley",
+      "first-release-date": "1974",
+      "primary-type": "Album",
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "de8f8c4b-a768-460f-ae9e-1ca8bbaf426f",
+            "type": "Person",
+            "name": "Johnny McGreevy",
+            "sort-name": "McGreevy, Johnny",
+            "disambiguation": "Irish fiddle player"
+          }
+        },
+        " & ",
+        {
+          "artist": {
+            "id": "5439eef7-2d99-4024-9b21-482a4c8550b3",
+            "type": "Person",
+            "name": "S\u00e9amus Cooley",
+            "sort-name": "Cooley, S\u00e9amus"
+          }
+        }
+      ],
+      "release-list": [
+        {
+          "id": "20027ad4-6667-49b6-bd07-5ac12d57f8dd",
+          "title": "McGreevy & Cooley",
+          "status": "Official",
+          "quality": "normal",
+          "packaging": "Cardboard/Paper Sleeve",
+          "text-representation": {
+            "script": "Latn"
+          },
+          "date": "1974",
+          "country": "US",
+          "release-event-list": [
+            {
+              "date": "1974",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-code-list": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "release-event-count": 1,
+          "barcode": ""
+        }
+      ],
+      "release-count": 1,
+      "url-relation-list": [
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://thesession.org/recordings/2070",
+          "direction": "forward"
+        },
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://www.irishtune.info/album/McGrCool/",
+          "direction": "forward"
+        }
+      ],
+      "artist-credit-phrase": "Johnny McGreevy & S\u00e9amus Cooley"
+    }
+  },
+  {
+    "release-group": {
+      "id": "cb5877ee-65dd-4968-aa98-b883826274d2",
+      "type": "Album",
+      "title": "McGreevy & Cooley",
+      "first-release-date": "1974",
+      "primary-type": "Album",
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "de8f8c4b-a768-460f-ae9e-1ca8bbaf426f",
+            "type": "Person",
+            "name": "Johnny McGreevy",
+            "sort-name": "McGreevy, Johnny",
+            "disambiguation": "Irish fiddle player"
+          }
+        },
+        " & ",
+        {
+          "artist": {
+            "id": "5439eef7-2d99-4024-9b21-482a4c8550b3",
+            "type": "Person",
+            "name": "S\u00e9amus Cooley",
+            "sort-name": "Cooley, S\u00e9amus"
+          }
+        }
+      ],
+      "release-list": [
+        {
+          "id": "20027ad4-6667-49b6-bd07-5ac12d57f8dd",
+          "title": "McGreevy & Cooley",
+          "status": "Official",
+          "quality": "normal",
+          "packaging": "Cardboard/Paper Sleeve",
+          "text-representation": {
+            "script": "Latn"
+          },
+          "date": "1974",
+          "country": "US",
+          "release-event-list": [
+            {
+              "date": "1974",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-code-list": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "release-event-count": 1,
+          "barcode": ""
+        }
+      ],
+      "release-count": 1,
+      "url-relation-list": [
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://thesession.org/recordings/2070",
+          "direction": "forward"
+        },
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://www.irishtune.info/album/McGrCool/",
+          "direction": "forward"
+        }
+      ],
+      "artist-credit-phrase": "Johnny McGreevy & S\u00e9amus Cooley"
+    }
+  },
+  {
+    "release-group": {
+      "id": "cb5877ee-65dd-4968-aa98-b883826274d2",
+      "type": "Album",
+      "title": "McGreevy & Cooley",
+      "first-release-date": "1974",
+      "primary-type": "Album",
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "de8f8c4b-a768-460f-ae9e-1ca8bbaf426f",
+            "type": "Person",
+            "name": "Johnny McGreevy",
+            "sort-name": "McGreevy, Johnny",
+            "disambiguation": "Irish fiddle player"
+          }
+        },
+        " & ",
+        {
+          "artist": {
+            "id": "5439eef7-2d99-4024-9b21-482a4c8550b3",
+            "type": "Person",
+            "name": "S\u00e9amus Cooley",
+            "sort-name": "Cooley, S\u00e9amus"
+          }
+        }
+      ],
+      "release-list": [
+        {
+          "id": "20027ad4-6667-49b6-bd07-5ac12d57f8dd",
+          "title": "McGreevy & Cooley",
+          "status": "Official",
+          "quality": "normal",
+          "packaging": "Cardboard/Paper Sleeve",
+          "text-representation": {
+            "script": "Latn"
+          },
+          "date": "1974",
+          "country": "US",
+          "release-event-list": [
+            {
+              "date": "1974",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-code-list": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "release-event-count": 1,
+          "barcode": ""
+        }
+      ],
+      "release-count": 1,
+      "url-relation-list": [
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://thesession.org/recordings/2070",
+          "direction": "forward"
+        },
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://www.irishtune.info/album/McGrCool/",
+          "direction": "forward"
+        }
+      ],
+      "artist-credit-phrase": "Johnny McGreevy & S\u00e9amus Cooley"
+    }
+  },
+  {
+    "release-group": {
+      "id": "cb5877ee-65dd-4968-aa98-b883826274d2",
+      "type": "Album",
+      "title": "McGreevy & Cooley",
+      "first-release-date": "1974",
+      "primary-type": "Album",
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "de8f8c4b-a768-460f-ae9e-1ca8bbaf426f",
+            "type": "Person",
+            "name": "Johnny McGreevy",
+            "sort-name": "McGreevy, Johnny",
+            "disambiguation": "Irish fiddle player"
+          }
+        },
+        " & ",
+        {
+          "artist": {
+            "id": "5439eef7-2d99-4024-9b21-482a4c8550b3",
+            "type": "Person",
+            "name": "S\u00e9amus Cooley",
+            "sort-name": "Cooley, S\u00e9amus"
+          }
+        }
+      ],
+      "release-list": [
+        {
+          "id": "20027ad4-6667-49b6-bd07-5ac12d57f8dd",
+          "title": "McGreevy & Cooley",
+          "status": "Official",
+          "quality": "normal",
+          "packaging": "Cardboard/Paper Sleeve",
+          "text-representation": {
+            "script": "Latn"
+          },
+          "date": "1974",
+          "country": "US",
+          "release-event-list": [
+            {
+              "date": "1974",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-code-list": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "release-event-count": 1,
+          "barcode": ""
+        }
+      ],
+      "release-count": 1,
+      "url-relation-list": [
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://thesession.org/recordings/2070",
+          "direction": "forward"
+        },
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://www.irishtune.info/album/McGrCool/",
+          "direction": "forward"
+        }
+      ],
+      "artist-credit-phrase": "Johnny McGreevy & S\u00e9amus Cooley"
+    }
+  },
+  {
+    "release-group": {
+      "id": "cb5877ee-65dd-4968-aa98-b883826274d2",
+      "type": "Album",
+      "title": "McGreevy & Cooley",
+      "first-release-date": "1974",
+      "primary-type": "Album",
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "de8f8c4b-a768-460f-ae9e-1ca8bbaf426f",
+            "type": "Person",
+            "name": "Johnny McGreevy",
+            "sort-name": "McGreevy, Johnny",
+            "disambiguation": "Irish fiddle player"
+          }
+        },
+        " & ",
+        {
+          "artist": {
+            "id": "5439eef7-2d99-4024-9b21-482a4c8550b3",
+            "type": "Person",
+            "name": "S\u00e9amus Cooley",
+            "sort-name": "Cooley, S\u00e9amus"
+          }
+        }
+      ],
+      "release-list": [
+        {
+          "id": "20027ad4-6667-49b6-bd07-5ac12d57f8dd",
+          "title": "McGreevy & Cooley",
+          "status": "Official",
+          "quality": "normal",
+          "packaging": "Cardboard/Paper Sleeve",
+          "text-representation": {
+            "script": "Latn"
+          },
+          "date": "1974",
+          "country": "US",
+          "release-event-list": [
+            {
+              "date": "1974",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-code-list": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "release-event-count": 1,
+          "barcode": ""
+        }
+      ],
+      "release-count": 1,
+      "url-relation-list": [
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://thesession.org/recordings/2070",
+          "direction": "forward"
+        },
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://www.irishtune.info/album/McGrCool/",
+          "direction": "forward"
+        }
+      ],
+      "artist-credit-phrase": "Johnny McGreevy & S\u00e9amus Cooley"
+    }
+  },
+  {
+    "release-group": {
+      "id": "cb5877ee-65dd-4968-aa98-b883826274d2",
+      "type": "Album",
+      "title": "McGreevy & Cooley",
+      "first-release-date": "1974",
+      "primary-type": "Album",
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "de8f8c4b-a768-460f-ae9e-1ca8bbaf426f",
+            "type": "Person",
+            "name": "Johnny McGreevy",
+            "sort-name": "McGreevy, Johnny",
+            "disambiguation": "Irish fiddle player"
+          }
+        },
+        " & ",
+        {
+          "artist": {
+            "id": "5439eef7-2d99-4024-9b21-482a4c8550b3",
+            "type": "Person",
+            "name": "S\u00e9amus Cooley",
+            "sort-name": "Cooley, S\u00e9amus"
+          }
+        }
+      ],
+      "release-list": [
+        {
+          "id": "20027ad4-6667-49b6-bd07-5ac12d57f8dd",
+          "title": "McGreevy & Cooley",
+          "status": "Official",
+          "quality": "normal",
+          "packaging": "Cardboard/Paper Sleeve",
+          "text-representation": {
+            "script": "Latn"
+          },
+          "date": "1974",
+          "country": "US",
+          "release-event-list": [
+            {
+              "date": "1974",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-code-list": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "release-event-count": 1,
+          "barcode": ""
+        }
+      ],
+      "release-count": 1,
+      "url-relation-list": [
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://thesession.org/recordings/2070",
+          "direction": "forward"
+        },
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://www.irishtune.info/album/McGrCool/",
+          "direction": "forward"
+        }
+      ],
+      "artist-credit-phrase": "Johnny McGreevy & S\u00e9amus Cooley"
+    }
+  },
+  {
+    "release-group": {
+      "id": "cb5877ee-65dd-4968-aa98-b883826274d2",
+      "type": "Album",
+      "title": "McGreevy & Cooley",
+      "first-release-date": "1974",
+      "primary-type": "Album",
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "de8f8c4b-a768-460f-ae9e-1ca8bbaf426f",
+            "type": "Person",
+            "name": "Johnny McGreevy",
+            "sort-name": "McGreevy, Johnny",
+            "disambiguation": "Irish fiddle player"
+          }
+        },
+        " & ",
+        {
+          "artist": {
+            "id": "5439eef7-2d99-4024-9b21-482a4c8550b3",
+            "type": "Person",
+            "name": "S\u00e9amus Cooley",
+            "sort-name": "Cooley, S\u00e9amus"
+          }
+        }
+      ],
+      "release-list": [
+        {
+          "id": "20027ad4-6667-49b6-bd07-5ac12d57f8dd",
+          "title": "McGreevy & Cooley",
+          "status": "Official",
+          "quality": "normal",
+          "packaging": "Cardboard/Paper Sleeve",
+          "text-representation": {
+            "script": "Latn"
+          },
+          "date": "1974",
+          "country": "US",
+          "release-event-list": [
+            {
+              "date": "1974",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-code-list": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "release-event-count": 1,
+          "barcode": ""
+        }
+      ],
+      "release-count": 1,
+      "url-relation-list": [
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://thesession.org/recordings/2070",
+          "direction": "forward"
+        },
+        {
+          "type": "other databases",
+          "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+          "target": "https://www.irishtune.info/album/McGrCool/",
+          "direction": "forward"
+        }
+      ],
+      "artist-credit-phrase": "Johnny McGreevy & S\u00e9amus Cooley"
+    }
+  }
+]
