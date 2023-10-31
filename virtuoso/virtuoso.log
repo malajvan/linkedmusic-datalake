@@ -1,0 +1,124 @@
+
+		Mon Oct 30 2023
+16:11:13 { Loading plugin 1: Type `plain', file `geos' in `../hosting'
+16:11:13   plain version 1.2.3238 from OpenLink Software
+16:11:13   GEOS plugin based on Geometry Engine Open Source library from Open Source Geospatial Foundation
+16:11:13   SUCCESS plugin 1: loaded from ../hosting/geos.so }
+16:11:13 { Loading plugin 2: Type `plain', file `graphql' in `../hosting'
+16:11:13   GraphQL/SPARQL Bridge version 0.9.3 (d89671fa1) from OpenLink Software
+16:11:13   Support functions for GraphQL/SPARQL Bridge
+16:11:13   SUCCESS plugin 2: loaded from ../hosting/graphql.so }
+16:11:13 { Loading plugin 3: Type `plain', file `proj4' in `../hosting'
+16:11:13   plain version 1.1.3238 from OpenLink Software
+16:11:13   Cartographic Projections support based on Frank Warmerdam's proj4 library
+16:11:13   SUCCESS plugin 3: loaded from ../hosting/proj4.so }
+16:11:13 { Loading plugin 4: Type `plain', file `shapefileio' in `../hosting'
+16:11:13   ShapefileIO version 0.1virt71 from OpenLink Software
+16:11:13   Shapefile support based on Frank Warmerdam's Shapelib
+16:11:13   SUCCESS plugin 4: loaded from ../hosting/shapefileio.so }
+16:11:13 OpenLink Virtuoso Universal Server
+16:11:13 Version 07.20.3238-pthreads for Linux as of Sep 26 2023 (d89671fa1)
+16:11:13 uses OpenSSL 1.1.1  11 Sep 2018
+16:11:13 uses parts of PCRE, Html Tidy
+16:11:13 SQL Optimizer enabled (max 1000 layouts)
+16:11:14 Compiler unit is timed at 0.000460 msec
+16:11:19 Checkpoint started
+16:11:19 Checkpoint finished.
+16:11:19 Roll forward started
+16:11:19 Roll forward complete
+16:11:28 PL LOG: Installing Virtuoso Conductor version 1.00.8852 (DAV)
+16:11:28 PL LOG: Installing with dependencies Virtuoso Conductor version 1.00.8852/2023-09-26 16:56 (DAV)
+16:11:28 Checkpoint started
+16:11:28 Checkpoint finished, log reused
+16:11:35 Checkpoint started
+16:11:35 Checkpoint finished, log reused
+16:11:35 PL LOG: Installation with dependencies complete
+16:11:35 PL LOG: Initializing DB.DBA.SYS_PROJ4_SRIDS
+16:11:35 PL LOG: ... checking for data files in "/usr/share/proj"
+16:11:35 PL LOG: ... using built-in data
+16:11:35 PL LOG: Initializing DB.DBA.SYS_PROJ4_SRIDS using built-in data
+16:11:35 PL LOG: DB.DBA.SYS_PROJ4_SRIDS initialized with 8650 spatial reference systems
+16:11:36 Checkpoint started
+16:11:37 Checkpoint finished, log reused
+16:11:37 Server exiting
+
+		Mon Oct 30 2023
+16:11:37 { Loading plugin 1: Type `plain', file `geos' in `../hosting'
+16:11:37   plain version 1.2.3238 from OpenLink Software
+16:11:37   GEOS plugin based on Geometry Engine Open Source library from Open Source Geospatial Foundation
+16:11:37   SUCCESS plugin 1: loaded from ../hosting/geos.so }
+16:11:37 { Loading plugin 2: Type `plain', file `graphql' in `../hosting'
+16:11:37   GraphQL/SPARQL Bridge version 0.9.3 (d89671fa1) from OpenLink Software
+16:11:37   Support functions for GraphQL/SPARQL Bridge
+16:11:37   SUCCESS plugin 2: loaded from ../hosting/graphql.so }
+16:11:37 { Loading plugin 3: Type `plain', file `proj4' in `../hosting'
+16:11:37   plain version 1.1.3238 from OpenLink Software
+16:11:37   Cartographic Projections support based on Frank Warmerdam's proj4 library
+16:11:37   SUCCESS plugin 3: loaded from ../hosting/proj4.so }
+16:11:37 { Loading plugin 4: Type `plain', file `shapefileio' in `../hosting'
+16:11:37   ShapefileIO version 0.1virt71 from OpenLink Software
+16:11:37   Shapefile support based on Frank Warmerdam's Shapelib
+16:11:37   SUCCESS plugin 4: loaded from ../hosting/shapefileio.so }
+16:11:37 OpenLink Virtuoso Universal Server
+16:11:37 Version 07.20.3238-pthreads for Linux as of Sep 26 2023 (d89671fa1)
+16:11:37 uses OpenSSL 1.1.1  11 Sep 2018
+16:11:37 uses parts of PCRE, Html Tidy
+16:11:37 Starting for DBA password change.
+16:11:37 Database version 3126
+16:11:37 SQL Optimizer enabled (max 1000 layouts)
+16:11:38 Compiler unit is timed at 0.000274 msec
+16:11:40 Roll forward started
+16:11:40     3 transactions, 185 bytes replayed (100 %)
+16:11:40 Roll forward complete
+16:11:40 The DBA password is changed.
+16:11:40 The DAV password is changed.
+16:11:40 Checkpoint started
+16:11:40 Checkpoint finished, log reused
+16:11:40 Server exiting
+
+		Mon Oct 30 2023
+16:11:41 { Loading plugin 1: Type `plain', file `geos' in `../hosting'
+16:11:41   plain version 1.2.3238 from OpenLink Software
+16:11:41   GEOS plugin based on Geometry Engine Open Source library from Open Source Geospatial Foundation
+16:11:41   SUCCESS plugin 1: loaded from ../hosting/geos.so }
+16:11:41 { Loading plugin 2: Type `plain', file `graphql' in `../hosting'
+16:11:41   GraphQL/SPARQL Bridge version 0.9.3 (d89671fa1) from OpenLink Software
+16:11:41   Support functions for GraphQL/SPARQL Bridge
+16:11:41   SUCCESS plugin 2: loaded from ../hosting/graphql.so }
+16:11:41 { Loading plugin 3: Type `plain', file `proj4' in `../hosting'
+16:11:41   plain version 1.1.3238 from OpenLink Software
+16:11:41   Cartographic Projections support based on Frank Warmerdam's proj4 library
+16:11:41   SUCCESS plugin 3: loaded from ../hosting/proj4.so }
+16:11:41 { Loading plugin 4: Type `plain', file `shapefileio' in `../hosting'
+16:11:41   ShapefileIO version 0.1virt71 from OpenLink Software
+16:11:41   Shapefile support based on Frank Warmerdam's Shapelib
+16:11:41   SUCCESS plugin 4: loaded from ../hosting/shapefileio.so }
+16:11:41 OpenLink Virtuoso Universal Server
+16:11:41 Version 07.20.3238-pthreads for Linux as of Sep 26 2023 (d89671fa1)
+16:11:41 uses OpenSSL 1.1.1  11 Sep 2018
+16:11:41 uses parts of PCRE, Html Tidy
+16:11:41 Database version 3126
+16:11:41 SQL Optimizer enabled (max 1000 layouts)
+16:11:42 Compiler unit is timed at 0.000207 msec
+16:11:44 Roll forward started
+16:11:44 Roll forward complete
+16:11:45 Checkpoint started
+16:11:46 Checkpoint finished, log reused
+16:11:46 HTTP/WebDAV server online at 8890
+16:11:46 Server online at 1111 (pid 1)
+16:11:46 Malformed data received from IP [172.17.0.1] : Bad incoming tag 71. Disconnecting the client
+16:11:46 Malformed data received from IP [172.17.0.1] : Bad incoming tag 71. Disconnecting the client
+16:11:46 Malformed data received from IP [172.17.0.1] : Bad incoming tag 71. Disconnecting the client
+17:36:48 Checkpoint started
+17:36:48 Checkpoint finished, log reused
+18:36:49 Checkpoint started
+18:36:49 Checkpoint finished, log reused
+19:36:49 Checkpoint started
+19:36:49 Checkpoint finished, log reused
+23:36:04 Checkpoint started
+23:36:05 Checkpoint finished, log reused
+
+		Tue Oct 31 2023
+00:20:50 Server received signal 1
+00:20:50 Initiating quick shutdown
+00:20:50 Server shutdown complete
