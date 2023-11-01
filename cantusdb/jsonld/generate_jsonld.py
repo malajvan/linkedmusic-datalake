@@ -42,16 +42,13 @@ def create_json_compact(js):
         # work["P1922"] = work.pop("incipit")
 
         work["genre"] = handle_rec_col(work,"genre")
-
-        # work["Q731978"] = f'wd:{work.pop("mode_name")}'
-        work["mode_name"] = handle_rec_col(work, "mode_name")
+        work["mode"] = handle_rec_col(work, "mode")
 
         # work["Q4484726"] = work.pop("finalis") #wikidata Final is closest term to finalis
 
         work["source"] = work.pop("src_link")
 
         work["cantus_id"] = f"https://cantusindex.org/id/{work.pop('cantus_id')}"
-        del work["mode"]
 
         
         for key in list(work.keys()): #clean up nulls
