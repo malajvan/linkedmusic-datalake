@@ -73,20 +73,7 @@
             }
         },
         {
-            "name": "mode_name",
-            "reconSettings": {
-                "output": "entity-name",
-                "blankUnmatchedCells": false,
-                "linkToEntityPages": true
-            },
-            "dateSettings": {
-                "format": "iso-8601",
-                "useLocalTimeZone": false,
-                "omitTime": false
-            }
-        },
-        {
-            "name": "mode_name_@id",
+            "name": "mode_@id",
             "reconSettings": {
                 "output": "entity-id",
                 "blankUnmatchedCells": false,
