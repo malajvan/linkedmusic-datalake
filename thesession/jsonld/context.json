@@ -1,10 +1,10 @@
 {
     "@context": {
         "thesession": "https://thesession.org/",
-        "tunes": "thesession:tunes/",
+        "tunes": "https://thesession.org/tunes/",
         
         "recordings": "wdt:P2550",
-        "popularity_tunebooks": "tunes:popular",
+        "popularity_tunebooks": "https://thesession.org/tunes/popular",
         "artist": "wdt:P175",
         "track": "wdt:P1545",
         "type": { 

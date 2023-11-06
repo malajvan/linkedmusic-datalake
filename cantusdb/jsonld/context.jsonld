@@ -1,7 +1,7 @@
 {
     "@context": {
         "cantusdb": "https://cantusdatabase.org/",
-        "chant": "cantusdb:chant/",
+        "chant": "https://cantusdatabase.org/chant/",
         "source": {
             "@id": "https://cantusdatabase.org/sources",
             "@type": "@id"
