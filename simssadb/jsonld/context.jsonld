@@ -1,7 +1,7 @@
 {
     "@context": {
         "simssadb": "https://db.simssa.ca/",
-        "mw": "simssadb:musicalworks/",
+        "mw": "https://db.simssa.ca/musicalworks/",
         "simssadb_file": "simssadb:files/",
         "musical_work_variant_titles": "wdt:P1476",
         "composer": "wdt:P86",
