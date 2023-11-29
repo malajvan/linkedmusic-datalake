@@ -13,7 +13,7 @@
         "composer": "wdt:P86",
         "genre": "wdt:P136",
         "incipit": "wdt:P1922",
-        "mode_name": "wd:Q731978",
+        "mode": "wd:P826",
         "finalis": "wd:Q4484726",
         "name": "wd:P2561",
         "database": {
