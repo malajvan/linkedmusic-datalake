@@ -13,9 +13,9 @@
         "composer": "wdt:P86",
         "genre": "wdt:P136",
         "incipit": "wdt:P1922",
-        "mode": "wd:P826",
+        "mode": "wdt:P826",
         "finalis": "wd:Q4484726",
-        "name": "wd:P2561",
+        "name": "wdt:P2561",
         "database": {
             "@id": "https://schema.org/Dataset",
             "@type": "@id"
