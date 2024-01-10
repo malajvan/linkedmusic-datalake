@@ -20,6 +20,8 @@
             "@id": "https://schema.org/Dataset",
             "@type": "@id"
         },
+        "source_description": "http://schema.org/description",
+        "indexing_notes":"https://cantusdatabase.org/description/#IndexingNotes",
         "wd": "http://www.wikidata.org/entity/",
         "wdt": "http://www.wikidata.org/prop/direct/"
     }
