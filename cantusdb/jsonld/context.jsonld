@@ -6,6 +6,7 @@
             "@id": "https://cantusdatabase.org/sources",
             "@type": "@id"
         },
+        "absolute_url":"wdt:P1325",
         "cantus_id": {
             "@id": "https://cantusdatabase.org/about/id-numbers",
             "@type": "@id"
