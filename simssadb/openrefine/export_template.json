@@ -177,6 +177,19 @@
             }
         },
         {
+            "name": "source_id",
+            "reconSettings": {
+                "output": "entity-name",
+                "blankUnmatchedCells": false,
+                "linkToEntityPages": true
+            },
+            "dateSettings": {
+                "format": "iso-8601",
+                "useLocalTimeZone": false,
+                "omitTime": false
+            }
+        },
+        {
             "name": "source_instantiation_portion",
             "reconSettings": {
                 "output": "entity-name",
@@ -242,9 +255,9 @@
             }
         },
         {
-            "name": "file_format_@id",
+            "name": "file_format",
             "reconSettings": {
-                "output": "entity-id",
+                "output": "entity-name",
                 "blankUnmatchedCells": false,
                 "linkToEntityPages": true
             },
@@ -255,9 +268,9 @@
             }
         },
         {
-            "name": "file_format",
+            "name": "file_format_@id",
             "reconSettings": {
-                "output": "entity-name",
+                "output": "entity-id",
                 "blankUnmatchedCells": false,
                 "linkToEntityPages": true
             },
@@ -294,9 +307,9 @@
             }
         },
         {
-            "name": "contributor_name",
+            "name": "contributor_name_@id",
             "reconSettings": {
-                "output": "entity-name",
+                "output": "entity-id",
                 "blankUnmatchedCells": false,
                 "linkToEntityPages": true
             },
@@ -307,9 +320,9 @@
             }
         },
         {
-            "name": "contributor_name_@id",
+            "name": "contributor_name",
             "reconSettings": {
-                "output": "entity-id",
+                "output": "entity-name",
                 "blankUnmatchedCells": false,
                 "linkToEntityPages": true
             },

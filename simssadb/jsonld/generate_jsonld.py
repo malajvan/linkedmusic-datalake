@@ -59,6 +59,23 @@ for work in parsed_json:
     work["file_format"] = handle_rec_col(work, "file_format")
     work["contributor_role"] = handle_rec_col(work, "contributor_role")
     work["contributor_name"] = handle_rec_col(work, "contributor_name")
+
+    work['file'] = {'@id': work.pop('url_to_file'),
+                    'file_type': work.pop('file_type'),
+                    'file_format': work.pop('file_format'),
+                    'file_version': work.pop('file_version')}
+
+    contribution_id = work.pop('contribution_id')
+    work["contributor"] = {'@id': f'https://db.simssa.ca/contributions/{contribution_id}',
+                           'contributor_role': work.pop('contributor_role'),
+                           'contributor_name': work.pop('contributor_name')}
+    
+    work["source"] = {"@id":work.pop("source_id"),
+                      "source_title": work.pop("source_title"),
+                      "source_type": work.pop("source_type"),
+                      "source_url" : work.pop("source_url")
+                      }
+    
 ## Rearrange
 ## files
 # nested_list = []
