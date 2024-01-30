@@ -17,19 +17,14 @@ Note that we divided the flattening step to 2 since one could want to bypass the
 
 ## 2. Reconciliation with OpenRefine
 I performed OpenRefine reconciliation. You can see the reconciled file `reconciled_wikiID.csv`. You can use `openrefine/history.json` to facilitate reconciliation and `openrefine/export_template.json` to export to the desired csv format.
-The following is a list of reconciled columns:
-- genre_style
-- genre_type
-- file_format
-- composer
-  
+
 
 ## 3. Reconcile column names and generating json-ld
 Currently the json-ld is generated as follow:  
 
 In `generate_jsonld.py`:
 - convert csv to json documents 
-- Loop through each json document and edit each entry, creating the compact jsonld. Each json document is a musical work, and the files are listed as nested json documents in a list.
+- Loop through each json document and edit each entry, creating the compact jsonld. Each json document is a musical work. If a work have multiple files, they will be listed many times, one for each of the file. 
 - Generate the jsonld file at `compact.jsonld`
 - The contexts used in the compact.jsonld file is imported from `context.jsonld`
 
