@@ -37,6 +37,7 @@ flattened_query = """
         source.title AS source_title,
         source.source_type AS source_type,
         source.url AS source_url,
+        source.id AS source_id,
         files.file_type AS file_type,
         files.file_format AS file_format,
         files.version AS file_version,
