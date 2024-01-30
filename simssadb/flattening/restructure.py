@@ -12,8 +12,6 @@ df = pd.read_csv("../reconciled_WikiID.csv")
 # get only the columns we're interested in
 cols = ['musical_work_id','sacred_or_secular','source_id','contribution_id', "VIAF ID", "genre_style_@id","genre_style",'genre_type','genre_type_@id','url_to_file','contributor_role','contributor_role_@id','source_instantiation_portion','source_title', 'source_type','source_url', 'file_type','file_format','file_format_@id','musical_work_variant_titles','file_version',"contributor_name",'contributor_name_@id']
 df2 = df[cols]
-df2 = df2.head(1000) 
-
 
 
 # df2['musical_work_id'] = df2['musical_work_id'].astype(int)
