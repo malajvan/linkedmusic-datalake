@@ -3,6 +3,12 @@ import json
 import re
 
 df = pd.read_csv("../flattening/final_flattened.csv")
+# for column in df.columns:
+#     if "@id" in column and df[column].dtype == "object":
+#         # Try to convert the values to integers, set to NaN if conversion fails
+#         df[column] = pd.to_numeric(df[column], errors="coerce").astype("Int64")
+
+
 json_data = df.to_json(orient="records")
 parsed_json = json.loads(json_data)
 # pretty_json = json.dumps(parsed_json, indent=4)
@@ -45,9 +51,14 @@ def handle_rec_col(work, key):
 
 
 for work in parsed_json:
-    work[
-        "@context"
-    ] = "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld"
+    for k in work:
+        if "id" in k:
+            if type(work[k]) is float:
+                work[k] = int(work[k])
+
+
+for work in parsed_json:
+    work["@context"] = "https://raw.githubusercontent.com/malajvan/linkedmusic-datalake/main/simssadb/jsonld/context.jsonld"
     work["database"] = "simssadb:"
     work["@type"] = "wd:Q2188189"
     work["@id"] = f"mw:{work.pop('musical_work_id')}"
@@ -60,22 +71,30 @@ for work in parsed_json:
     work["contributor_role"] = handle_rec_col(work, "contributor_role")
     work["contributor_name"] = handle_rec_col(work, "contributor_name")
 
-    work['file'] = {'@id': work.pop('url_to_file'),
-                    'file_type': work.pop('file_type'),
-                    'file_format': work.pop('file_format'),
-                    'file_version': work.pop('file_version')}
+    work["files"] = {
+        "@id": work.pop("url_to_file"),
+        "file_type": work.pop("file_type"),
+        "file_format": work.pop("file_format"),
+        "file_version": work.pop("file_version"),
+    }
 
-    contribution_id = work.pop('contribution_id')
-    work["contributor"] = {'@id': f'https://db.simssa.ca/contributions/{contribution_id}',
-                           'contributor_role': work.pop('contributor_role'),
-                           'contributor_name': work.pop('contributor_name')}
-    
-    work["source"] = {"@id":work.pop("source_id"),
-                      "source_title": work.pop("source_title"),
-                      "source_type": work.pop("source_type"),
-                      "source_url" : work.pop("source_url")
-                      }
-    
+    if work["files"]["@id"] is None:
+        del work["files"]
+
+    contribution_id = work.pop("contribution_id")
+    work["contributor"] = {
+        "@id": f"https://db.simssa.ca/contributions/{contribution_id}",
+        "contributor_role": work.pop("contributor_role"),
+        "contributor_name": work.pop("contributor_name"),
+    }
+
+    work["source"] = {
+        "@id": f'https://db.simssa.ca/sources/{work.pop("source_id")}',
+        "source_title": work.pop("source_title"),
+        "source_type": work.pop("source_type"),
+        "source_url": work.pop("source_url"),
+    }
+
 ## Rearrange
 ## files
 # nested_list = []
